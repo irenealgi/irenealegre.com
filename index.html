@@ -1,47 +1,84 @@
-<head>
-  <title>Irene Alegre</title>
-  <meta name="description" content="UX designer based in London">
-  <link href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400" rel="stylesheet">
-  <link rel="stylesheet" href="css/main.css">
-  <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
-</head>
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+    <title>This is my title</title>
+<!-- Material Design -->
+<!-- Compiled and minified CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/css/materialize.min.css">
+ <!-- Compiled and minified JavaScript -->
+     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js"></script>
+     <link rel="stylesheet" href="css/main.css">
+      <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+  </head>
 
-<body>
-<div class="pink_background top_block">
-  <div class="nav_bar">
-    <a class="nav white_font" href="index.html">Home</a>
-    <a class="nav white_font" href="#">Case Studies</a>
-    <a class="nav white_font" href="about.html">About</a>
+
+  <body>
+
+<!-- NAVIGATION -->
+<nav>
+    <div class="nav-wrapper">
+      <ul id="nav-mobile" class="right hide-on-med-and-down">
+        <li><a href="sass.html">Home</a></li>
+        <li><a href="badges.html">Case Studies</a></li>
+        <li><a href="collapsible.html">About</a></li>
+      </ul>
+    </div>
+  </nav>
+
+<!-- HEADER -->
+
+<section class="header">
+
+    <div class="row">
+      <div class="home_name center-align font col l12">IRENE ALEGRE</div>
+      <div class="home_desc center-align font col l12">UX Designer based in London</div>
+    </div>
   </div>
-  <div class="name white_font ">IRENE ALEGRE</div>
-  <div><h2 class="white_font">UX Designer based in London</h2></div>
-</div>
+</section>
 
-<div class="white_background middle_block">
-  <div><h1 class="pink_font">CASE STUDIES</div></h1>
-  <div class="case_studies">
-    <img class="case_study" src="images/case_study_placeholder.png" alt-"placeholder">
-    <img class="case_study" src="images/case_study_placeholder.png" alt-"placeholder">
-    <img class="case_study" src="images/case_study_placeholder.png" alt-"placeholder">
+<!-- CASE STUDIES -->
+
+<section class="case_studies">
+  <div class="center-align white">
+    <div class="title center-align custom-pink font">CASE STUDIES</div>
+        <a href="https://www.w3schools.com"><img class="case_study_thumbnail"src="./images/case_study_placeholder.png"></a>
+        <a href="https://www.w3schools.com"><img class="case_study_thumbnail" src="./images/case_study_placeholder.png"></a>
+        <a href="https://www.w3schools.com"><img class="case_study_thumbnail" src="./images/case_study_placeholder.png"></a>
+    </div>
+
+    <div class="row center-align">
+      <a href="www.google.com" class="font button">SEE ALL CASE STUDIES</a>
+    </div>
   </div>
-</div>
+</section>
 
-<div class="pink_background bottom_block">
-  <div><h1 class="white_font">ABOUT</div></h1>
+<!-- ABOUT SECTION ON HOME PAGE -->
+<section class=" custom-pink about_home">
 
-  <div><p class="quote_home font white_font ">“A happy business usually requires happy users,
-  but happy users don’t always make a business happy.”</p></div>
+    <div class="about_home title center-align white-text font">ABOUT </div>
 
-  <div class="irenebio_home white_font irenebio">
-    <div><b>I’m a learner. Challenges help me thrive.</b></div>
-    <div>UX design is about understanding user and business needs in equal measure,
-    and finding a middleground between the two. I enjoy solving problems and coming up with universal solutions that
-    will stand the test of time and will make sense to as many users as possible. I thrive in environments that evolve
-    and adapt quickly, and I’m not afraid to learn new things, start using new tools and take on board new
-    projects – if anything, that makes me the happiest employee on Earth.</div>
+    <div class="container col l12">
+      <div class="row">
+        <div class="col l6" style="green">
+       <p class=" font about_home_desc" style="font-weight:300;">I’m a learner. Challenges help me thrive.</p>
+       <p class="font about_home_desc">UX design is about understanding user and business needs in equal measure,
+      and finding a middleground between the two. I enjoy solving problems and coming up with universal solutions that
+      will stand the test of time and will make sense to as many users as possible. I thrive in environments that evolve
+      and adapt quickly, and I’m not afraid to learn new things, start using new tools and take on board new
+      projects – if anything, that makes me the happiest employee on Earth.</p>
+    </div>
+      <div class="container col l4" style="yellow">  <img class="right about_home_photo"src="./images/irene.alegre.png"></div>
+    </div>
+    </div>
 
-  </div>
-  <div class="irene_photo_home img_irene">
-  <img class="img_irene" src="images/irene.alegre.png" alt-"irene alegre">
-</div>
-</body>
+
+
+
+
+</section>
+
+  </body>
+</html>

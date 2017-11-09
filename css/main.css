@@ -1,151 +1,131 @@
-.pink_background {
-  background-color: #F93457;
-}
-.pink_font{
-  color: #F93457;
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+nav, .nav-wrapper {
+  background-color: #f93457;
+  text-transform: uppercase;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 60px;
+  margin-right: 10px;
 }
 
-.white_background {
-  background-color: white;
+nav ul a:hover{
+  background-color: inherit;
 }
 
-.white_font {
-  color: white;
+nav ul a {
+  font-size: 20px;
+  font-weight: 300;
 }
 
-.top_block {
-  height: 595px;
-}
-
-.middle_block {
-  height: 725px;
-}
-
-.bottom_block {
-  height: 997px;
-}
 
 .font {
   font-family: 'Montserrat', sans-serif;
 }
 
-.nav_bar {
-  padding-top: 1.7%;
-  padding-right: 3%;
-  text-align: right;
+.header {
+  background-color: #f93457;
+  height: auto;
+  padding-bottom: 120px;
+  padding-top: 100px;
+}
+.container {
+  min-height: auto;
+  width: 100%;
+  padding-left: 5%;
+  padding-top: 70px;
+  padding-bottom: 90px;
+  background-color: #f93457;
+
 }
 
-.nav {
-  font-family: 'Montserrat', sans-serif;
-  font-weight: 200;
-  font-size: 20px;
-  text-transform: uppercase;
-  padding: 10px;
 
-
-
+.custom-pink{
+  color: #f93457;
 }
 
-.name {
-  font-family: 'Montserrat', sans-serif;
+
+.home_name {
+  font-size: 50px;
+  font-weight: 500;
+  color: white;
+}
+
+.home_desc {
+  font-size: 40px;
+  font-weight: 100;
+  color: white;
+}
+
+.title {
+  font-size: 45px;
   font-weight: 400;
-  font-size: 64px;
-  text-align: center;
-  margin: 0;
-  padding-top: 8.5%;
+  padding-bottom: 70px;
   }
 
-h1 {
-  font-family: 'Montserrat', sans-serif;
-  font-weight: 400;
-  font-size: 48px;
-  text-align: center;
-  padding-top: 7%;
 
 
+
+.case_study_thumbnail {
+  width: 25%;
+  padding: 10px;
 }
 
-h2 {
-  font-family: 'Montserrat', sans-serif;
-  font-weight: 200;
-  font-size: 48px;
-  text-align: center;
+.button {
+    margin-top: 70px;
+
+    margin-bottom: 30px;
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    padding: 12px 26px;
+    border: 2px solid #f93457;
+    border-radius: 6px;
+    font-size: 25px;
+    font-weight: 200;
+    background: #f93457;
+    color: #ffffff;
+    text-decoration: none;
+}
+.button:hover,.button:focus {
+    border-radius: 6px;
+    border: 2px solid #f93457;
+    background-color: white;
+    color: #f93457;
+    text-decoration: none;
+}
+
+.about_home_desc  {
+  width: 100%;
+  height: 100%;
+  margin-left: 0px;
+  padding-left: 60px;
+  color: white;
+  font-weight: 100;
+  font-size: 20px;
 
 }
 
 .case_studies {
-  text-align: center;
-  padding-top: 5%;
-
+  background-color: white;
+  height: auto;
+  padding-bottom: 70px;
+  padding-top: 70px;
 }
 
-.case_study {
-  padding: 10px;
-
-}
-
-.irenebio {
-  font-family: 'Montserrat', sans-serif;
-  font-size: 19px;
-  line-height: 35px;
-  font-weight: 100;
-  margin-top: 10px;
-  text-align: left;
-  padding-bottom: 100px;
+.about_home {
+background-color: #f93457;
+height: auto;
+padding-bottom: 20px;
+padding-top: 40px;
 }
 
 
 
-.irenebio_home {
-  width: 500px;
-  padding-left: 16%;
-  padding-top: 5%;
-  float: left;
-
-}
-
-.quote_home {
-  font-size: 23px;
-  width: 600px;
-  line-height: 30px;
-  font-weight: 200;
-  padding-bottom: 30px;
-  padding-top: 20px;
-  padding-left: 28%;
-  text-align: center;
-  weight: 400;
-}
-
-.irene_photo_home {
-  padding-top: 5%;
-  padding-right: 22%;
-  float: right;
-
-}
-
-
-.img_irene{
-  width: 250;
-
-}
-
-.quote {
-  font-size: 20px;
-  line-height: 30px;
-  font-weight: 200;
-  padding-bottom: 30px;
-}
-
-.description {
-  font-size: 50px;
-  font-weight: 100;
-  margin-top: 10px;
-
-}
-
-.footer_text {
-
-  font-size: 12px;
-  text-align: center;
+.about_home_photo {
+  width: 70%;
+  padding-top: 10px;
+  margin-right: 10%;
+  height: 100%;
 
 }

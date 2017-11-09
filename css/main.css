@@ -5,7 +5,7 @@ OVERARCH*/
 
 /*NAVIGATION*/
 
-nav, .pink_nav-wrapper {
+nav, .pink_nav-wrapper a{
   text-transform: uppercase;
   font-family: 'Montserrat', sans-serif;
   font-size: 20px;
@@ -31,7 +31,6 @@ nav, .white_nav-wrapper a{
   text-transform: uppercase;
   font-family: 'Montserrat', sans-serif;
   font-size: 20px;
-  background-color: white;
   margin-right: 10px;
   color: #f93457;
   box-shadow: none;

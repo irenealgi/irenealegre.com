@@ -6,12 +6,15 @@ OVERARCH*/
 /*NAVIGATION*/
 
 nav, .pink_nav-wrapper {
-  background-color: #f93457;
   text-transform: uppercase;
   font-family: 'Montserrat', sans-serif;
-  font-size: 60px;
+  font-size: 20px;
+  background-color: #f93457;
   margin-right: 10px;
-  box-shadow: none;
+  color: white;
+  box-shadow: none
+
+
 }
 
 nav ul a:hover{
@@ -28,8 +31,10 @@ nav, .white_nav-wrapper a{
   text-transform: uppercase;
   font-family: 'Montserrat', sans-serif;
   font-size: 20px;
+  background-color: white;
   margin-right: 10px;
   color: #f93457;
+  box-shadow: none;
 }
 
 /*MAIN*/

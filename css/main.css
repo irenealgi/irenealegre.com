@@ -191,7 +191,7 @@ padding-top: 40px;
 .about_desc {
   width: 100%;
   height: 100%;
-  padding-right: 30%;
+  padding-right: 20%;
   margin-right: 60%;
   font-weight: 200;
   font-size: 20px;
@@ -261,5 +261,24 @@ padding-top: 40px;
 
 .passions {
   padding-top: 20px;
+
+}
+
+/*CV*/
+
+.cv {
+  width: 1000px;
+  font-weight: 300;
+  font-size: 18px;
+
+}
+
+.cv_bold {
+  font-weight: 500;
+  font-style:
+}
+
+.cv a {
+  color: black;
 
 }

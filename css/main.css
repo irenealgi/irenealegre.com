@@ -1,12 +1,17 @@
+/*
+OVERARCH*/
 
 @import url('https://fonts.googleapis.com/css?family=Montserrat');
 
-nav, .nav-wrapper {
+/*NAVIGATION*/
+
+nav, .pink_nav-wrapper {
   background-color: #f93457;
   text-transform: uppercase;
   font-family: 'Montserrat', sans-serif;
   font-size: 60px;
   margin-right: 10px;
+  box-shadow: none;
 }
 
 nav ul a:hover{
@@ -15,35 +20,111 @@ nav ul a:hover{
 
 nav ul a {
   font-size: 20px;
-  font-weight: 300;
+  font-weight: 200;
 }
 
+
+nav, .white_nav-wrapper a{
+  text-transform: uppercase;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  margin-right: 10px;
+  color: #f93457;
+}
+
+/*MAIN*/
+
+footer {
+  color: #f93457;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  font-weight: 100;
+  text-align: center;
+}
 
 .font {
   font-family: 'Montserrat', sans-serif;
 }
 
-.header {
+.custom-pink{
+  color: #f93457;
+}
+
+.title {
+  font-size: 45px;
+  font-weight: 400;
+  padding-bottom: 70px;
+  }
+
+  .pink_button {
+      margin-top: 70px;
+
+      margin-bottom: 30px;
+      display: inline-block;
+      text-align: center;
+      vertical-align: middle;
+      padding: 12px 26px;
+      border: 2px solid #f93457;
+      border-radius: 6px;
+      font-size: 25px;
+      font-weight: 200;
+      background: #f93457;
+      color: #ffffff;
+      text-decoration: none;
+  }
+
+  .pink_button:hover,.button:focus {
+      border-radius: 6px;
+      border: 2px solid #f93457;
+      background-color: white;
+      color: #f93457;
+      text-decoration: none;
+  }
+
+  .white_button {
+    margin-top: 70px;
+
+    margin-bottom: 30px;
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    padding: 12px 26px;
+    border: 2px solid #ffffff;
+    border-radius: 6px;
+    font-size: 25px;
+    font-weight: 200;
+    background: #ffffff;
+    color: #f93457;
+    text-decoration: none;
+  }
+
+  .white_button:hover,.button:focus {
+      border-radius: 6px;
+      border: 2px solid #ffffff;
+      background-color: #f93457;
+      color: #ffffff;
+      text-decoration: none;
+  }
+
+  .container {
+    min-height: auto;
+    width: 100%;
+    padding-left: 5%;
+    padding-top: 70px;
+    padding-bottom: 90px;
+    background-color: #f93457;
+
+  }
+
+/*HOME - SECTION ONE*/
+
+
+.home_header {
   background-color: #f93457;
   height: auto;
   padding-bottom: 120px;
   padding-top: 100px;
 }
-.container {
-  min-height: auto;
-  width: 100%;
-  padding-left: 5%;
-  padding-top: 70px;
-  padding-bottom: 90px;
-  background-color: #f93457;
-
-}
-
-
-.custom-pink{
-  color: #f93457;
-}
-
 
 .home_name {
   font-size: 50px;
@@ -57,42 +138,11 @@ nav ul a {
   color: white;
 }
 
-.title {
-  font-size: 45px;
-  font-weight: 400;
-  padding-bottom: 70px;
-  }
-
-
-
+/*CASE STUDY - HOME SECTION*/
 
 .case_study_thumbnail {
   width: 25%;
   padding: 10px;
-}
-
-.button {
-    margin-top: 70px;
-
-    margin-bottom: 30px;
-    display: inline-block;
-    text-align: center;
-    vertical-align: middle;
-    padding: 12px 26px;
-    border: 2px solid #f93457;
-    border-radius: 6px;
-    font-size: 25px;
-    font-weight: 200;
-    background: #f93457;
-    color: #ffffff;
-    text-decoration: none;
-}
-.button:hover,.button:focus {
-    border-radius: 6px;
-    border: 2px solid #f93457;
-    background-color: white;
-    color: #f93457;
-    text-decoration: none;
 }
 
 .about_home_desc  {
@@ -113,6 +163,8 @@ nav ul a {
   padding-top: 70px;
 }
 
+/*ABOUT HOME - SECTION*/
+
 .about_home {
 background-color: #f93457;
 height: auto;
@@ -120,12 +172,69 @@ padding-bottom: 20px;
 padding-top: 40px;
 }
 
-
-
 .about_home_photo {
   width: 70%;
   padding-top: 10px;
   margin-right: 10%;
   height: 100%;
+
+}
+
+/*ABOUT PAGE - SECTION ONE*/
+
+.about_desc {
+  width: 100%;
+  height: 100%;
+  padding-right: 10%;
+  margin-right: 50%;
+  color: #f93457;
+  font-weight: 200;
+  font-size: 20px;
+}
+
+.about_photo {
+  width: 80%;
+  padding-top: 10px;
+  margin-left: 50%;
+  height: 100%;
+}
+
+/*EXPERIENCE*/
+
+.work_experience {
+  background-color: #f93457;
+  height: auto;
+  width: 100%;
+  padding-bottom: 50px;
+  padding-top: 70px;
+}
+
+.experience_image {
+  padding-top: 50px;
+  padding-bottom: 90px;
+  padding-left: 11%;
+  width:90%;
+}
+
+.white_a {
+  color: white;
+}
+
+/*PASSIONS*/
+
+.passions_section {
+  background-color: white;
+  height: auto;
+  padding-bottom: 200px;
+  padding-top: 70px;
+}
+
+.passion_thumbnail {
+  width: 18%;
+  padding: 10px;
+}
+
+.passions {
+  padding-top: 20px;
 
 }

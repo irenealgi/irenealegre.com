@@ -177,8 +177,9 @@ padding-top: 40px;
 }
 
 .about_home_photo {
-  width: 70%;
-  padding-top: 10px;
+  width: 100%;
+  padding-top: 0px;
+  margin-left: 50px;
   margin-right: 10%;
   height: 100%;
 
@@ -197,10 +198,23 @@ padding-top: 40px;
 }
 
 .about_photo {
-  width: 80%;
-  padding-top: 10px;
-  margin-left: 50%;
+  width: 95%;
+  padding-top: 0;
+  margin-left: 45%;
   height: 100%;
+}
+
+.social_icon {
+  width: 90px;
+  padding: 10px;
+}
+
+.social_section {
+  background-color: white;
+  height: auto;
+  padding-left: 35%;
+  padding-bottom: 20px;
+  padding-top: 40px;
 }
 
 /*EXPERIENCE*/

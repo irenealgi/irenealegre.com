@@ -140,7 +140,7 @@ footer {
 
 /*CASE STUDY - HOME SECTION*/
 
-.case_study_thumbnail {
+.project_thumbnail {
   width: 25%;
   padding: 10px;
 }
@@ -156,7 +156,7 @@ footer {
 
 }
 
-.case_studies {
+.projects {
   background-color: white;
   height: auto;
   padding-bottom: 70px;
@@ -225,7 +225,7 @@ padding-top: 40px;
 .passions_section {
   background-color: white;
   height: auto;
-  padding-bottom: 200px;
+  padding-bottom: 100px;
   padding-top: 70px;
 }
 

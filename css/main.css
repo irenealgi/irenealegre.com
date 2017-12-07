@@ -47,7 +47,7 @@ footer {
   font-size: 16px;
   font-weight: 100;
   text-align: center;
-  padding-top: 20px;
+  padding-top: 200px;
 }
 
 .font {
@@ -130,8 +130,8 @@ footer {
 .home_header {
   background-color: #F93457;
   height: auto;
-  padding-bottom: 120px;
-  padding-top: 100px;
+  padding-bottom: 400px;
+  padding-top: 200px;
 }
 
 .home_name {

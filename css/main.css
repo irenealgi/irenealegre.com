@@ -1,5 +1,8 @@
 /*
-OVERARCH*/
+OVERARCH*
+
+old pink color #F93457/
+new gret color: #151515
 
 @import url('https://fonts.googleapis.com/css?family=Montserrat');
 
@@ -146,7 +149,7 @@ footer {
 /*CASE STUDY - HOME SECTION*/
 
 .project_thumbnail {
-  width: 25%;
+  width: 20%;
   padding: 10px;
 }
 
@@ -198,7 +201,7 @@ padding-top: 40px;
 }
 
 .about_photo {
-  width: 90%;
+  width: 85%;
   margin-left: 55%;
   height: 100%;
 }

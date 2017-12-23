@@ -1,15 +1,16 @@
-body {
-  background-color: #F93457;
-}
+---
+---
+
+$title_font_family: 'Montserrat', sans-serif;
 
 .home_header {
-  color: white;
+  color: #4F4F4F;
   position: fixed;
   top: 45%;
   left: 50%;
   text-align: center;
   transform: translate(-50%, -50%);
-  font-family: 'Montserrat', sans-serif;
+  font-family: $title_font_family;
 }
 
 .home_header_name {
@@ -20,4 +21,9 @@ body {
   font-size: 36px;
   font-weight: 100;
   margin-top: 10px;
+}
+
+.navigation {
+  font-size: 20px;
+  font-family: $title_font_family;
 }

@@ -2,11 +2,13 @@
 ---
 
 $title_font_family: 'Montserrat', sans-serif;
+$main_color: #4F4F4F;
+$accent_color: #F93457;
 
 .home_header {
-  color: #4F4F4F;
+  color: $main_color;
   position: fixed;
-  top: 45%;
+  top: 35%;
   left: 50%;
   text-align: center;
   transform: translate(-50%, -50%);
@@ -26,4 +28,17 @@ $title_font_family: 'Montserrat', sans-serif;
 .navigation {
   font-size: 20px;
   font-family: $title_font_family;
+  position: absolute;
+  margin-top: 20px;
+  right: 10px;
+}
+
+.navigation_item {
+  margin: 20px;
+
+  > a {
+    font-size: 20px;
+    color: $accent_color;
+    text-decoration: none;
+  }
 }

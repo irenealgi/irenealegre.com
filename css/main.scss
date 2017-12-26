@@ -1,44 +1,73 @@
 ---
 ---
 
-$title_font_family: 'Montserrat', sans-serif;
+$title_font_family: "Montserrat", sans-serif;
 $main_color: #4F4F4F;
 $accent_color: #F93457;
 
-.home_header {
-  color: $main_color;
-  position: fixed;
-  top: 35%;
-  left: 50%;
-  text-align: center;
-  transform: translate(-50%, -50%);
-  font-family: $title_font_family;
+#content {
+  margin: auto;
 }
 
-.home_header_name {
-  font-size: 64px;
-}
-
-.home_header_description {
-  font-size: 36px;
-  font-weight: 100;
-  margin-top: 10px;
-}
-
-.navigation {
-  font-size: 20px;
-  font-family: $title_font_family;
+#navigation {
   position: absolute;
-  margin-top: 20px;
-  right: 10px;
+  margin-top: 25px;
+  right: 15px;
 }
 
 .navigation_item {
   margin: 20px;
 
   > a {
-    font-size: 20px;
+    font-family: $title_font_family;
+    font-size: 21px;
     color: $accent_color;
     text-decoration: none;
   }
+}
+
+#home_header {
+  height: 470px;
+}
+
+#home_header_content {
+  position: absolute;
+  top: 35%;
+  left: 50%;
+  text-align: center;
+  transform: translate(-50%, -50%);
+  font-family: $title_font_family;
+  color: $main_color;
+}
+
+#home_header_name {
+  font-size: 64px;
+}
+
+#home_header_description {
+  font-size: 36px;
+  font-weight: lighter;
+  margin-top: 10px;
+}
+
+.home_project {
+  margin: 5%;
+  overflow: hidden;
+}
+
+.home_project_image {
+  float: left;
+  width: 50%;
+}
+
+.home_project_description {
+  font-family: $title_font_family;
+}
+
+img {
+  max-width: 100%;
+}
+
+div {
+  border: 1px dashed red;
 }

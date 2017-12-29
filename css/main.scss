@@ -56,27 +56,23 @@ html {
 }
 
 .home_project {
-  margin: 0% 4% 4% 4%;
+  margin-left: 12%;
+  margin-right: 12%;
+  margin-bottom: 6%;
   overflow: hidden;
   font-family: $serif_font_family;
-}
 
-.home_project_left {
-  float: left;
-  width: 50%;
-  margin: 2%;
-}
-
-.home_project_right {
-  margin: 2%;
+  img {
+    width: 450px;
+  }
 }
 
 .home_project_title {
+  font-family: $sans_serif_font_family;
   font-size: 40px;
   font-weight: bold;
   text-decoration: none;
   color: $accent_color;
-  margin-right: 8%;
 }
 
 .home_project_type {
@@ -87,13 +83,9 @@ html {
 .home_project_text {
   font-size: 21px;
   line-height: 33px;
-  margin-right: 8%;
+  padding-right: 10%;
 }
 
 img {
   max-width: 100%;
-}
-
-div {
-  border: 1px dashed red;
 }

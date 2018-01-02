@@ -81,9 +81,31 @@ $accent_color: #F93457;
   padding-right: 10%;
 }
 
+#page_header {
+  height: 260px;
+  padding-top: 150px;
+  font-family: $sans_serif_font_family;
+  font-size: 40px;
+}
+
+#page_title {
+  text-align: center;
+}
+
+#about_image {
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+#about_text {
+  line-height: 33px;
+}
+
 #footer {
   font-size: 16px;
   text-align: center;
+  margin-top: 60px;
   margin-bottom: 20px;
 }
 

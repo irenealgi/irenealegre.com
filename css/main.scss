@@ -6,13 +6,12 @@ $serif_font_family: "PT Serif", serif;
 $main_color: #4F4F4F;
 $accent_color: #F93457;
 
-html {
-  color: $main_color;
-}
-
 #content {
   margin: auto;
   max-width: 1440px;
+  color: $main_color;
+  font-family: $serif_font_family;
+  font-size: 21px;
 }
 
 #navigation {
@@ -26,7 +25,6 @@ html {
 
   > a {
     font-family: $sans_serif_font_family;
-    font-size: 21px;
     color: $accent_color;
     text-decoration: none;
   }
@@ -60,7 +58,6 @@ html {
   margin-right: 3%;
   margin-bottom: 9%;
   overflow: hidden;
-  font-family: $serif_font_family;
 
   img {
     width: 450px;
@@ -76,14 +73,18 @@ html {
 }
 
 .home_project_type {
-  font-size: 21px;
   font-weight: bold;
 }
 
 .home_project_text {
-  font-size: 21px;
   line-height: 33px;
   padding-right: 10%;
+}
+
+#footer {
+  font-size: 16px;
+  text-align: center;
+  margin-bottom: 20px;
 }
 
 img {

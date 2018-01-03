@@ -1,6 +1,9 @@
-# Nuffield Health: Improving Your Lifestyle Choices, One Habit at a Time (concept project)
+---
+layout: post
+title: "Nuffield Health: Improving Your Lifestyle Choices, One Habit at a Time (concept project)"
+---
 
-* **Project type:** Concept project 
+* **Project type:** Concept project
 * **Participants:** Max Cameron-Taylor, Hugo Nickols, Irene Alegre
 * **Duration:** 2 weeks
 * **Tools:** Pen and paper, Sketch, White walls, Invision, Marvel

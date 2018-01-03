@@ -1,5 +1,7 @@
-
-# UX Project: Re-designing Chippin’s user flow
+---
+layout: post
+title: "UX Project: Re-designing Chippin’s user flow"
+---
 
 ![](https://cdn-images-1.medium.com/max/1100/1*nhMmosijCEYk3zn74aPMPw.png)
 

@@ -1,13 +1,16 @@
-### UX Portfolio Design
+---
+layout: post
+title: "UX Portfolio Design"
+---
 
-* **Project type:** Personal project 
+* **Project type:** Personal project
 * **Participants:** Irene Alegre
 * **Duration:** 1 month
 * **Tools:** Pen and paper, Sketch, HTML & CSS, GitHub, MacDown
 * **Processes:** User interviews, user testing, branding, sketching
 
 I like my portfolio. I mean, it’s not, like, the best portfolio ever, but I like
-it. It’s clean, it’s aseptic, it has just a tiny little bit of hot pink popping up here or there. It makes me feel kind of good. 
+it. It’s clean, it’s aseptic, it has just a tiny little bit of hot pink popping up here or there. It makes me feel kind of good.
 
 But it wasn’t always that way.
 
@@ -19,7 +22,7 @@ page before and I just wanted it to have it all.
 
 But I was sensible. I *am* a sensible person, after all. So I just kept the idea
 of the blog, and then chucked everything else in there. Because you can turn a
-blog into *anything*. 
+blog into *anything*.
 
 ![](https://cdn-images-1.medium.com/max/880/1*wyuF7M8H9RIL59ltWjojdw.png)
 <span class="figcaption_hack">These were meant to be the ‘extras’ on my blog. I was not sure how I’d actually
@@ -58,12 +61,12 @@ Suddenly, I wasn’t happy with it anymore. I hated it.
 **By then I had actually built the site with some help from my very patient
 boyfriend Arturo, but mostly on my own.** I was really impressed with myself,
 although when Arturo saw the CSS sheet he almost cried. Apparently it was quite
-messy, but hey — it worked. 
+messy, but hey — it worked.
 
 Regardless, that pink was killing me and it had to go. So off it went. **At that
 point I started to look at many other Junior UX portfolios, which I had avoided
 doing before because I was afraid I would end up copying them,** but I found the
-process quite useful to get some ideas. 
+process quite useful to get some ideas.
 
 I decided that **I would place the case studies vertically on the home page** —
 rather than horizontally– so that they wouldn’t look weird if it was there were
@@ -112,18 +115,18 @@ Arturo said he would build the website himself (and yes that is a [Virginia
 Woolf
 reference](https://genius.com/Virginia-woolf-mrs-dalloway-part-1-annotated)
 because I’m a freak), so now I had to have a good idea of what I wanted and how
-I wanted it. A really good idea. 
+I wanted it. A really good idea.
 
 **Arturo had many questions.**
 
 * What size are the images? — *450x450*
 * What size is the font? — *21px*
-* What’s the distance between this and that element? 
+* What’s the distance between this and that element?
 * Is this a title? And is *this *a title? Can they be the same style? Why not? —
 *because they convey different types of information*
 * Are blog posts and case studies going to look the same? — *yes*
 
-<br> 
+<br>
 
 ### Conclusions
 

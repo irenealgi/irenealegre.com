@@ -35,7 +35,7 @@ that **juggling work and family lives can be a challenge, and recurring to
 someone for support can help. However, sometimes even *that* may not be enough**,
 given that children schedules can be quite complicated.
 
-### There’s an app for that
+## There’s an app for that
 
 What if Meera had an app that enabled her to find nannies who are available at
 specific times or during specific days?
@@ -53,7 +53,7 @@ as they need them to be
 * Ability to define and match schedules
 * Ability to add and check feedback reviews to generate trust among platform users
 
-### **Prototyping and iterations**
+## **Prototyping and iterations**
 
 ![](images/case_studies/nanny_app/iterations_photo.jpeg)
 
@@ -94,7 +94,7 @@ finishing with the sign up process.
 [See the full
 wire-flow](https://drive.google.com/open?id=0B9_hamWwtU2dQzNwakxFNkJqXzQ)
 
-### Defining The Nanny App’s brand
+## Defining The Nanny App’s brand
 
 ![](images/case_studies/nanny_app/mood_board.png)
 
@@ -104,7 +104,7 @@ your product is not like.**
 
 ![](images/case_studies/nanny_app/branding.png)
 
-### First Versions
+## First Versions
 
 Before we begin, let’s remember the original — hand-drawn– wireframes for The
 Nanny App. These are the screens on which I based my visual design.
@@ -135,7 +135,7 @@ I also had a terrible cold. It was all very dramatic.
 Yet I pulled myself together and continued to work on the screens, which
 garnered better results.
 
-### Final Version
+## Final Version
 
 This is the final *final* version. Of course I got some feedback through the
 last iterations, such as:
@@ -157,7 +157,7 @@ So I added a back button, fixed the stars and played around with the button
 
 ![](images/case_studies/nanny_app/second_design.png)
 
-### Next Steps
+## Next Steps
 
 * That ‘Message Anna’ button still breaks my heart. I will review Apple’s style
 guidelines to come up with a more suitable alternative

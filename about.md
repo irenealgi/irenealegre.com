@@ -15,7 +15,7 @@ When I’m not designing, I love to read, talk (a lot) or watch a movie with my 
 
 For any queries, send an email to **<irenealgi@gmail.com>**
 
-* [Curriculum](/curriculum)
-* [Blog](/blog)
-* [Photography portfolio](https://www.flickr.com/photos/25124902@N04/albums/72157671009291723)
-* [Reading list](/reading-list)
+* [Curriculum](Irene_Alegre_CV.pdf){:target="_blank"}
+* [Blog](blog)
+* [Photography portfolio](https://www.flickr.com/photos/25124902@N04/albums/72157671009291723){:target="_blank"}
+* [Reading list](reading-list)

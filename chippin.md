@@ -3,7 +3,7 @@ layout: post
 title: "UX Project: Re-designing Chippin’s user flow"
 ---
 
-![](https://cdn-images-1.medium.com/max/1100/1*nhMmosijCEYk3zn74aPMPw.png)
+![](images/case_studies/chippin/welcome_page.png)
 
 * **Project type:** Client project (within General Assembly's scheme)
 * **Participants:** Meera Rao, Daniel Green, Irene Alegre
@@ -19,7 +19,7 @@ customers to easily and securely share the cost of an online purchase.
 Therefore, **Chippin functions as a payment gateway and increases the chances of
 users finishing their payment transactions.**
 
-![](https://cdn-images-1.medium.com/max/1100/1*TEDH_SJpq6EWeY4CFiBEyw.png)
+![](images/case_studies/chippin/old_design.png)
 
 **THE OBJECTIVE**
 
@@ -31,7 +31,7 @@ complete the transaction.
 
 **THE COMPETITION**
 
-![](https://cdn-images-1.medium.com/max/1100/1*O-yRtR-tbRbVCxlHeVHcPw.png)
+![](images/case_studies/chippin/competitor_analysis.png)
 
 * Chippin’s proposition is unique in the marketplace
 * Competitor business models include fundraising, payment gateways and bill
@@ -55,14 +55,14 @@ and adding contributors was frustrated. Users also had issues with the site’s
 level of trustworthiness, were not aware of the brand and were unsure as to how
 secure the process was.
 
-![](https://cdn-images-1.medium.com/max/1100/1*Tu0yvsHPoO-PjqPasb3LCQ.png)
+![](images/case_studies/chippin/experience_map.png)
 
 Below we have listed some of the feedback we received on several of the current
 site’s features.
 
-![](https://cdn-images-1.medium.com/max/1100/1*j_ft5hOSssAxukV_GSJwDQ.png)
+![](images/case_studies/chippin/feedback_on_current_design.png)
 
-![](https://cdn-images-1.medium.com/max/1100/1*BtygxNRsXkNRig_lWbT1Kg.png)
+![](images/case_studies/chippin/feedback_on_current_design_two.png)
 
 After a few user interviews and testings it became clear to us that there four
 main themes we would be focusing on during the following two weeks:
@@ -74,7 +74,7 @@ main themes we would be focusing on during the following two weeks:
 
 ### Meet Christina
 
-![](https://cdn-images-1.medium.com/max/660/1*Iw8TMuvlSfEpDqIqxEwtzQ.jpeg)
+![](images/case_studies/chippin/christina.jpeg)
 
 **THE INSTIGATOR** (the user who is going to be initiating the Chippin process)
 
@@ -100,9 +100,9 @@ screen designs. Our design studio focused on education, trying to come up with
 different methods to inform and reassure the user, which we then incorporated in
 our user flows.
 
-![](https://cdn-images-1.medium.com/max/1100/1*EIh5hCp04ULupeDAa1Q7LA.png)
+![](images/case_studies/chippin/design_studio_one.png)
 
-![](https://cdn-images-1.medium.com/max/1100/1*YSXgKwWWxMwPlKu4Y6Sn0g.png)
+![](images/case_studies/chippin/design_studio_two.png)
 
 ### The Welcome Screen
 
@@ -114,29 +114,29 @@ screen, which is the merchant’s checkout screen.
 
 **FIRST ITERATIONS**
 
-![](https://cdn-images-1.medium.com/max/1100/1*YJoHQo3ut3K3Urcu2ZmHGg.png)
+![](images/case_studies/chippin/first_iterations_one.png)
 
-![](https://cdn-images-1.medium.com/max/1100/1*BfGvZSwlgDVuZePd36ABUg.png)
+![](images/case_studies/chippin/first_iterations_two.png)
 
 **FINAL VERSION**
 
-![](https://cdn-images-1.medium.com/max/1100/1*ArDqDKwyleQ-z9EvFrtjag.png)
+![](images/case_studies/chippin/first_iterations_three.png)
 
 ### Adding the contributors
 
 The problem with the contributors page was that **there was too much going on** and too many decisions to be made (for the user, as well as for us). We ended up simplifying it and making
 it as straightforward as possible.
 
-![](https://cdn-images-1.medium.com/max/1100/1*zf4Gt8qmo9kRGQHVqIWuIQ.png)
+![](images/case_studies/chippin/first_iterations_four.png)
 
-![](https://cdn-images-1.medium.com/max/1100/1*xlZzim86CZIAYheY5DZjzQ.png)
+![](images/case_studies/chippin/first_iterations_five.png)
 
-![](https://cdn-images-1.medium.com/max/1100/1*6FuUxVpbYNHnLlHbn_B3pQ.png)
+![](images/case_studies/chippin/first_iterations_six.png)
 
 **BONUS IMAGE:** This is our mess of a wire-flow (because we thought of all the
 different possibilities)
 
-![](https://cdn-images-1.medium.com/max/1100/1*L117ynvVq9c0zbj9wnermQ.png)
+![](images/case_studies/chippin/user_flow.png)
 
 ### The Prototype
 
@@ -156,5 +156,5 @@ here](https://invis.io/3SEKP2Y64#/265872443_Desktop). Please follow the steps be
 
 ### Next Steps
 
-![](https://cdn-images-1.medium.com/max/1100/1*htyULox9KDj15GsbmOWx5A.png)
+![](images/case_studies/chippin/next_steps.png)
 

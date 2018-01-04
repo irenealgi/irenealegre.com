@@ -28,6 +28,11 @@ $accent_color: #F93457;
     color: $accent_color;
     text-decoration: none;
   }
+
+  > a:hover {
+    color: $accent_color;
+    text-decoration: none;
+  }
 }
 
 #home_header {
@@ -70,7 +75,12 @@ $accent_color: #F93457;
   font-size: 40px;
   font-weight: bold;
   text-decoration: none;
+  color: $main_color;
+}
+
+.home_project_title:hover {
   color: $accent_color;
+  text-decoration: none;
 }
 
 .home_project_type {
@@ -109,6 +119,15 @@ $accent_color: #F93457;
   margin-top: 60px;
   margin-bottom: 20px;
   color: #B5B5B5;
+}
+
+a {
+  color: $accent_color;
+  text-decoration: none;
+}
+
+a:hover {
+  color: $accent_color;
 }
 
 img {

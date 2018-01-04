@@ -104,6 +104,8 @@ $accent_color: #F93457;
 #post img {
   margin-top: 40px;
   margin-bottom: 40px;
+  display: block;
+  margin: 0 auto;
 }
 
 #about_image {
@@ -159,6 +161,4 @@ a:focus {
 
 img {
   max-width: 100%;
-  display: block;
-  margin: 0 auto;
 }

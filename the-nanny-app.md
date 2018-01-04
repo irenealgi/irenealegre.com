@@ -3,7 +3,7 @@ layout: post
 title: "The Nanny App — Conceptual UX Project"
 ---
 
-![](https://cdn-images-1.medium.com/max/880/1*tyzCui_cjw7fj0Z_J4WfXA.png)
+![](images/case_studies/nanny_app/thumbnail.png)
 
 
 * **Project type:** Conceptual
@@ -27,7 +27,7 @@ The Nanny App is being designed to serve exactly that same purpose: **enabling
 parents and nannies to meet up and arrange a babysitting schedule that works for
 everyone.**
 
-![](https://cdn-images-1.medium.com/max/880/1*H7HTaykP3RLSxyEuysiVug.png)
+![](images/case_studies/nanny_app/story_board.png)
 <span class="figcaption_hack">Storyboard representing the User Journey</span>
 
 During my user interviews with my colleague Meera, I came to the conclusion
@@ -40,7 +40,7 @@ given that children schedules can be quite complicated.
 What if Meera had an app that enabled her to find nannies who are available at
 specific times or during specific days?
 
-![](https://cdn-images-1.medium.com/max/880/1*6mobkCfp-zqVSRmmr0zjlg.png)
+![](images/case_studies/nanny_app/user_flow.png)
 <span class="figcaption_hack">User flow focusing on the “parents” side of the marketplace</span>
 
 After a little bit more research, I pinned down the app’s main features. Here’s
@@ -55,14 +55,14 @@ as they need them to be
 
 ### **Prototyping and iterations**
 
-![](https://cdn-images-1.medium.com/max/880/1*W49oFNmunbCyUp0q9suIjg.jpeg)
+![](images/case_studies/nanny_app/iterations_photo.jpeg)
 
 In the **following prototypes**, you can start to see how the app reflects these
 requirements: there’s a simple screen that filters nannies out, followed by a
 sign up page and a screen where the user can describe where they live, how many
 children will require babysitting and what languages they speak.
 
-![](https://cdn-images-1.medium.com/max/880/1*gZV-EarOnNJcwX9jgJ_qvQ.png)
+![](images/case_studies/nanny_app/sketches.png)
 <span class="figcaption_hack">First prototypes</span>
 
 The next iteration continues to reflect those requirements, now with a little
@@ -96,13 +96,13 @@ wire-flow](https://drive.google.com/open?id=0B9_hamWwtU2dQzNwakxFNkJqXzQ)
 
 ### Defining The Nanny App’s brand
 
-![](https://cdn-images-1.medium.com/max/880/1*AzVgODguseju3L1EamGg6w.png)
+![](images/case_studies/nanny_app/mood_board.png)
 
 It can get quite philosophical when you start considering your product’s
 branding. **It’s important to define what your product is like, as well as what
 your product is not like.**
 
-![](https://cdn-images-1.medium.com/max/880/1*g3p4tmZvr3B_Nri7gl-ujA.png)
+![](images/case_studies/nanny_app/branding.png)
 
 ### First Versions
 
@@ -124,7 +124,7 @@ actually rather overwhelming.
 So I just used it for the small details, on a white canvas. Which was quite
 *underwhelming*. And also difficult to read.
 
-![](https://cdn-images-1.medium.com/max/880/1*Q1abEO9WKGsPTtDJO2_BNQ.png)
+![](images/case_studies/nanny_app/first_design.png)
 
 
 **I showed these to a couple of people — needless to say, they weren’t
@@ -155,7 +155,7 @@ So I added a back button, fixed the stars and played around with the button
 *just* a little bit more.
 
 
-![](https://cdn-images-1.medium.com/max/1100/1*qV2q3lnfAnhl0bdn0cbcdg.png)
+![](images/case_studies/nanny_app/second_design.png)
 
 ### Next Steps
 

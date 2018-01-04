@@ -130,6 +130,11 @@ a:hover {
   color: $accent_color;
 }
 
+a:focus {
+  color: $accent_color;
+  text-decoration: none;
+}
+
 img {
   max-width: 100%;
 }

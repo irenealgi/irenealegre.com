@@ -12,8 +12,10 @@ title: "Nuffield Health: Improving Your Lifestyle Choices, One Habit at a Time (
 
 ![](https://cdn-images-1.medium.com/max/1100/1*vg5QVOPIi77Wvc-yhUOkLQ.png)
 
-Let’s talk about health. Or maybe not. <br> Let’s talk about being healthy.<br>
-Let’s make this more specific.<br> Let’s talk about Nuffield Health.
+Let’s talk about health. Or maybe not.  
+Let’s talk about being healthy.  
+Let’s make this more specific.  
+Let’s talk about Nuffield Health.
 
 > “Nuffield Health provides their customers with what they need, when they need
 > it”
@@ -23,7 +25,7 @@ organisations, looking after people for more than 60 years. They offer a varied
 arrange of services, from gym facilities and fitness classes to health
 assessments, physiotherapy and medical treatments.
 
-### The Brief: Nuffield’s Integrated Services Approach
+## The Brief: Nuffield’s Integrated Services Approach
 
 ![](https://cdn-images-1.medium.com/max/880/1*npmkk8wYhIao7_vvDTspqQ.png)
 
@@ -32,7 +34,7 @@ appointments** and other Nuffield Health services, but the app should also
 **track the user’s health progression and encourage them to quit unhealthy
 habits and incorporate better lifestyle choices** into their lives.
 
-### Checking Out The Competition
+## Checking Out The Competition
 
 ![](https://cdn-images-1.medium.com/max/880/1*qrYpbuuzG8BUT8_UpwOWbw.png)
 
@@ -48,7 +50,7 @@ Nuffield Health app can do well, however, is integrate both the booking and
 health tracking in one app. That should be Nuffield Health’s USP (Unique Selling
 Proposition).**
 
-### User Research: Talking To People
+## User Research: Talking To People
 
 ![](https://cdn-images-1.medium.com/max/880/1*7QkksUt2ADapDj49cIlNOA.png)
 
@@ -77,7 +79,7 @@ exercise and eat their greens. That’s not the problem.
 by designing a tool that encourages and helps users to create new, healthier
 habits.**
 
-### Meet Geoff Perkins
+## Meet Geoff Perkins
 
 ![](https://cdn-images-1.medium.com/max/880/1*B7vH9eLoYW_C0RAJ8isNUQ.png)
 
@@ -90,7 +92,7 @@ being more active and eating better. **It’s an endless cycle of improvement.**
 > **Our app will help Geoff incorporate and maintain healthy habits, as well as
 > allow him to make doctor’s appointments quickly.**
 
-### Sketching and Designing The Booking Screens
+## Sketching and Designing The Booking Screens
 
 The design of the booking screens was fairly straightforward. Below are the
 iterations for three of the main screens, and some of the feedback we received
@@ -102,7 +104,7 @@ at each stage.
 
 ![](https://cdn-images-1.medium.com/max/880/1*ZOB5c9wQ06aCVoVTRuf1Nw.png)
 
-### Sketching and Designing the Health Tracker
+## Sketching and Designing the Health Tracker
 
 **Originally we thought a health tracker would encourage Nuffield Health
 customers to make better lifestyle choices**, so we designed a screen that would
@@ -122,7 +124,7 @@ is the feedback we got.
 Which makes sense. So we scrapped that and came up with a solution that was
 completely different.
 
-### Creating Tiny Habits
+## Creating Tiny Habits
 
 BJ Fogg, PhD, is the creator of the concept of [Tiny
 Habits](http://tinyhabits.com/). His [TED
@@ -141,7 +143,7 @@ does this pretty well. Here are two user reviews for this app:
 
 ![](https://cdn-images-1.medium.com/max/880/1*EjEd6ADqqzI4TClfvfrKwQ.png)
 
-### Making Healthier Habits a Delight
+## Making Healthier Habits a Delight
 
 Becoming healthier has never been this fun. Maybe this is a bit of an
 overstatement, but it’s our app, so we feel sort of entitled to say this.
@@ -168,7 +170,7 @@ And, finally, we designed a high-fidelity prototype.
 
 [Click here to see and test the final prototype.](https://invis.io/KUE9O9534)
 
-### Next Steps
+## Next Steps
 
 This is by no means a finished job. Here are the features we’d like to focus on
 next:
@@ -179,5 +181,3 @@ meditations and breathing exercises
 health
 * Allows app users to tackle two or more journeys at the same time (eg. being more
 active and reducing stress)
-
-

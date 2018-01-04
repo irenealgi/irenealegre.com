@@ -14,7 +14,7 @@ it. It’s clean, it’s aseptic, it has just a tiny little bit of hot pink popp
 
 But it wasn’t always that way.
 
-### Defining the specs
+## Defining the specs
 
 So many things could go in there; my photography, my blog, my Harry Potter
 collection! At first I went a little but crazy. I mean, I’d never had my own web
@@ -38,7 +38,7 @@ studies
 * **The blog:** in here I would write a lot about *stuff *(to be fair, I do write
 quite a lot)
 
-### **Defining the style**
+## **Defining the style**
 
 I’m a minimalist, so I went with a 3-colour palette: white, black and hot pink.
 I picked one typeface — Montserrat– as the main font. Here are some of my
@@ -56,7 +56,7 @@ else. Alas, most portfolios are white — or black– for a reason.
 
 Suddenly, I wasn’t happy with it anymore. I hated it.
 
-### Re-designing and re-building
+## Re-designing and re-building
 
 **By then I had actually built the site with some help from my very patient
 boyfriend Arturo, but mostly on my own.** I was really impressed with myself,
@@ -95,19 +95,19 @@ has one, and so I thought I should have one myself. So I scrapped that too.
 
 ![](https://cdn-images-1.medium.com/max/1100/1*__v0ktKZXJqR97JaQsGFqA.png)
 
-### Changing the font
+## Changing the font
 
 I know that — in theory– sans-serif fonts work better on the web, but I really
 like* Medium*’s format, and the platform uses a big serif font. PT Serif at
 21px, to be more exact. And, yes, that’s what you’ll find on my website because,
 if something works, there’s no point in fixing it.
 
-###Designing the blog
+## Designing the blog
 I was inspired by Arturo's own website, which has an [archive](http://arturoherrero.com/articles/) with some content he's written over the years. I liked the simplicity of it, and the fact that I could have the link at the top take users to a list with all the blog posts, and they could always go back to the same link for more, thus removing the need for pagination.
 
 It was clean and functional.
 
-### Designing alongside a dev
+## Designing alongside a dev
 
 ![](https://cdn-images-1.medium.com/max/660/1*8AGreM3Nagr2k--1SlGePA.png)
 
@@ -126,9 +126,7 @@ I wanted it. A really good idea.
 *because they convey different types of information*
 * Are blog posts and case studies going to look the same? — *yes*
 
-<br>
-
-### Conclusions
+## Conclusions
 
 I have enjoyed the process of putting together my own website, and it has taught
 me a lot about no-nonsense design, as well as user experience. Because, ultimately, my

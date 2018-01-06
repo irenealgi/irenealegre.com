@@ -3,19 +3,16 @@ layout: post
 title: "Nuffield Health: Improving Your Lifestyle Choices, One Habit at a Time (concept project)"
 ---
 
+
+
 * **Project type:** Concept project
 * **Participants:** Max Cameron-Taylor, Hugo Nickols, Irene Alegre
 * **Duration:** 2 weeks
 * **Tools:** Pen and paper, Sketch, White walls, Invision, Marvel
 * **Processes:** User interviews, user testing, branding, design studio, sketching, prototyping, persona creation, user flows, experience mapping
-
+* [**Link to final prototype**](https://invis.io/KUE9O9534)
 
 ![](images/case_studies/nuffield_health/final_design.png)
-
-Let’s talk about health. Or maybe not.  
-Let’s talk about being healthy.  
-Let’s make this more specific.  
-Let’s talk about Nuffield Health.
 
 > “Nuffield Health provides their customers with what they need, when they need
 > it”
@@ -36,16 +33,9 @@ habits and incorporate better lifestyle choices** into their lives.
 
 ## Checking Out The Competition
 
-![](images/case_studies/nuffield_health/competition.png)
 
-**There are many apps to track your health.** Some apps track your steps and how
-many calories you’ve burnt; some apps figure out how many hours you sleep every
-night; some apps help women track their period cycle or know when they will be
-be most fertile; some apps teach users how to meditate and help them reduce
-stress and anxiety; and some health insurance companies even have an app that
-will facilitate the booking of medical appointments.
-
-But no app does it all. And neither will this one— just to be clear. **What the
+There are many apps to track your health.
+But no app does it all. **What the
 Nuffield Health app can do well, however, is integrate both the booking and
 health tracking in one app. That should be Nuffield Health’s USP (Unique Selling
 Proposition).**
@@ -54,28 +44,13 @@ Proposition).**
 
 ![](images/case_studies/nuffield_health/user_feedback.png)
 
-**Here’s a list of things people hate:**
 
-* Working out at the gym
-* Cooking healthy dinner — or just cooking on a daily basis
-* Booking an appointment with their GP — it takes a *long* time, is frustrating
-and you have to re-schedule your whole life to fit with the appointment
-* Having to input data into your tracker
-* Notifications
 
-![](images/case_studies/nuffield_health/concept_map.png)
-
-**Here’s a (shorter) list of things people like:**
-
-* Seeing their progress — it boosts their confidence and prompts them to continue
-working on their goals
-* Having an app that automatically tracks everything for them
-
-Here’s the thing: the problem of people not being healthy is *not *knowledge.
+The problem of people not being healthy is *not *knowledge.
 People know what they should be doing to stay healthy and/or become healthier:
 exercise and eat their greens. That’s not the problem.
 
-**The problem is willpower. The problem — we believe– can actually be solved
+**The problem is willpower. The problem could actually be solved
 by designing a tool that encourages and helps users to create new, healthier
 habits.**
 
@@ -89,8 +64,8 @@ We believe Geoff needs to be more active and eat better, which in turn will
 boost his energy levels, which in turn will help him stay motivated to continue
 being more active and eating better. **It’s an endless cycle of improvement.**
 
-> **Our app will help Geoff incorporate and maintain healthy habits, as well as
-> allow him to make doctor’s appointments quickly.**
+**Our app will help Geoff incorporate and maintain healthy habits, as well as
+allow him to make doctor’s appointments quickly.**
 
 ## Sketching and Designing The Booking Screens
 
@@ -168,7 +143,7 @@ And, finally, we designed a high-fidelity prototype.
 
 ![](images/case_studies/nuffield_health/high_fidelity_prototype.png)
 
-[Click here to see and test the final prototype.](https://invis.io/KUE9O9534)
+
 
 ## Next Steps
 

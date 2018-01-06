@@ -3,7 +3,6 @@ layout: post
 title: "The Nanny App — Conceptual UX Project"
 ---
 
-![](images/case_studies/nanny_app/thumbnail.png)
 
 
 * **Project type:** Conceptual
@@ -13,18 +12,11 @@ title: "The Nanny App — Conceptual UX Project"
 * **Methodologies:** User interviews, user testing, branding, storytelling, sketching, prototyping
 
 
-----
+![](images/case_studies/nanny_app/thumbnail.png)
 
-Ever heard of [Handy](https://www.handy.com/)?
-[BorrowMyDoggy](https://www.borrowmydoggy.com/)?
-[TaskRabbit](https://www.taskrabbit.co.uk/)?
 
-What all of these sites and applications have in common is that they are **online marketplaces benefitting from the ever-growing sharing economy:** there’s
-a bunch of people who need something done (housekeeping, dog-walking, queuing…)
-and a bunch of people willing to do it for a few quid. The app enables them to
-meet up and reach their goals.
 
-The Nanny App is being designed to serve exactly that same purpose: **enabling
+The Nanny App is being designed to **enable
 parents and nannies to meet up and arrange a babysitting schedule that works for
 everyone.**
 
@@ -107,17 +99,6 @@ your product is not like.**
 
 ## First Versions
 
-Before we begin, let’s remember the original — hand-drawn– wireframes for The
-Nanny App. These are the screens on which I based my visual design.
-
-Playing with colour palettes is free — your time shouldn’t be, but that’s a
-different conversation–, so I just had a blast. Here are all the colour combos I
-came up with during the first phase of visual design.
-
-You may be wondering which of these I picked out for my first iteration. Well,
-it turns out none of them made me happy. So I went with what you’ll find below
-instead.
-
 **I started with orange as my main accent colour.** I thought it’d be warm and
 cheerful, but because I went for a very saturated hue, I found the colour was
 actually rather overwhelming.
@@ -128,19 +109,10 @@ So I just used it for the small details, on a white canvas. Which was quite
 ![](images/case_studies/nanny_app/first_design.png)
 
 
-**I showed these to a couple of people — needless to say, they weren’t
-impressed.** I wasn’t impressed myself either. This was My First Visual Design
-Ever and I had failed. Miserably. I wanted to cry, quit and jump out the window.
-I also had a terrible cold. It was all very dramatic.
-
-Yet I pulled myself together and continued to work on the screens, which
-garnered better results.
-
+I showed these to a couple of people, which confirmed my suspicions.
 ## Final Version
 
-This is the final *final* version. Of course I got some feedback through the
-last iterations, such as:
-
+This is the final *final* version, and some feedback I received on it.
 > “The stars are looking a bit wonky, and the typeface is not that readable. Maybe
 > you could play with the kern a little bit”
 

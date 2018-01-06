@@ -7,7 +7,7 @@ title: "UX Portfolio Design"
 * **Participants:** Irene Alegre
 * **Duration:** 1 month
 * **Tools:** Pen and paper, Sketch, HTML & CSS, GitHub, MacDown
-* **Processes:** User interviews, user testing, branding, sketching
+* **Methodologies:** User interviews, user testing, branding, sketching
 
 I like my portfolio. I mean, it’s not, like, the best portfolio ever, but I like
 it. It’s clean, it’s aseptic, it has just a tiny little bit of hot pink popping up here or there. It makes me feel kind of good.
@@ -24,7 +24,7 @@ But I was sensible. I *am* a sensible person, after all. So I just kept the idea
 of the blog, and then chucked everything else in there. Because you can turn a
 blog into *anything*.
 
-![](https://cdn-images-1.medium.com/max/880/1*wyuF7M8H9RIL59ltWjojdw.png)
+![](images/case_studies/portfolio/old_one.png)
 <span class="figcaption_hack">These were meant to be the ‘extras’ on my blog. I was not sure how I’d actually
 turn that into content though.</span>
 
@@ -38,17 +38,17 @@ studies
 * **The blog:** in here I would write a lot about *stuff *(to be fair, I do write
 quite a lot)
 
-## **Defining the style**
+## Defining the style
 
 I’m a minimalist, so I went with a 3-colour palette: white, black and hot pink.
 I picked one typeface — Montserrat– as the main font. Here are some of my
 screens.
 
-![](https://cdn-images-1.medium.com/max/880/1*XKvouGDKruYF7n79CXe8kw.png)
+![](images/case_studies/portfolio/old_two.png)
 
-![](https://cdn-images-1.medium.com/max/880/1*pD3NPi7UsqgWcqwTwlcz0w.png)
+![](images/case_studies/portfolio/old_three.png)
 
-![](https://cdn-images-1.medium.com/max/880/1*7U5mQa-OlQNxG2-Q-VOAvQ.png)
+![](images/case_studies/portfolio/old_four.png)
 
 It was alright, although people were a bit shocked by its pinkness. But when I
 added the images for the case studies, the pink suddenly clashed with everything
@@ -93,7 +93,7 @@ has one, and so I thought I should have one myself. So I scrapped that too.
 * An about page with a photo, some links and my contact details
 * A link to the blog
 
-![](https://cdn-images-1.medium.com/max/1100/1*__v0ktKZXJqR97JaQsGFqA.png)
+![](images/case_studies/portfolio/home_page.png)
 
 ## Changing the font
 
@@ -109,7 +109,7 @@ It was clean and functional.
 
 ## Designing alongside a dev
 
-![](https://cdn-images-1.medium.com/max/660/1*8AGreM3Nagr2k--1SlGePA.png)
+![](images/case_studies/portfolio/long_home_page.png)
 
 Arturo said he would build the website himself (and yes that is a [Virginia
 Woolf
@@ -122,7 +122,7 @@ I wanted it. A really good idea.
 * What size are the images? — *450x450*
 * What size is the font? — *21px*
 * What’s the distance between this and that element?
-* Is this a title? And is *this *a title? Can they be the same style? Why not? —
+* Is this a title? And is *this* a title? Can they be the same style? Why not? —
 *because they convey different types of information*
 * Are blog posts and case studies going to look the same? — *yes*
 

@@ -9,7 +9,8 @@ title: "UX Project: Re-designing Chippin’s user flow"
 * **Participants:** Meera Rao, Daniel Green, Irene Alegre
 * **Duration:** 2 weeks
 * **Tools:** Pen and paper, Omnigraffle, Sketch, White walls, Invision
-* **Processes:** User interviews, user testing, branding, design studio, sketching, prototyping, persona creation, user flows
+* **Methodologies:** User interviews, user testing, branding, design studio, sketching, prototyping, persona creation, user flows
+* [**Link to clickable prototype**](https://projects.invisionapp.com/share/3SEKP2Y64#/screens/265872443_Desktop)
 
 
 ## The Brief
@@ -47,11 +48,11 @@ splitting
 
 > **“I like that it has just a few steps”**
 
-## User Experiences
+## Assessing the current platform: User Experiences
 
 Once we started testing the current flow with real users (see below), we quickly
 realised it was an emotional rollercoaster; there were a lot of ups and downs,
-and adding contributors was frustrated. Users also had issues with the site’s
+and adding contributors was frustrating. Users also had issues with the site’s
 level of trustworthiness, were not aware of the brand and were unsure as to how
 secure the process was.
 
@@ -76,13 +77,7 @@ main themes we would be focusing on during the following two weeks:
 
 ![](images/case_studies/chippin/christina.jpeg)
 
-**THE INSTIGATOR** (the user who is going to be initiating the Chippin process)
 
-* 27 years old
-* Lives in London
-* Loves organising things for friends and family
-* Frequent online shopper
-* Careful with money
 
 ## The scenario
 

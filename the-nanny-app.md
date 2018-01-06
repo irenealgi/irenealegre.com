@@ -10,7 +10,8 @@ title: "The Nanny App — Conceptual UX Project"
 * **Participants:** Irene Alegre
 * **Duration:** 2 weeks
 * **Tools:** Pen and paper, Omnigraffle, Sketch
-* **Processes:** User interviews, user testing, branding, storytelling, sketching, prototyping
+* **Methodologies:** User interviews, user testing, branding, storytelling, sketching, prototyping
+
 
 ----
 

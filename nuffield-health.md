@@ -10,7 +10,7 @@ title: "Nuffield Health: Improving Your Lifestyle Choices, One Habit at a Time (
 * **Processes:** User interviews, user testing, branding, design studio, sketching, prototyping, persona creation, user flows, experience mapping
 
 
-![](https://cdn-images-1.medium.com/max/1100/1*vg5QVOPIi77Wvc-yhUOkLQ.png)
+![](images/case_studies/nuffield_health/final_design.png)
 
 Let’s talk about health. Or maybe not.  
 Let’s talk about being healthy.  
@@ -27,7 +27,7 @@ assessments, physiotherapy and medical treatments.
 
 ## The Brief: Nuffield’s Integrated Services Approach
 
-![](https://cdn-images-1.medium.com/max/880/1*npmkk8wYhIao7_vvDTspqQ.png)
+![](images/case_studies/nuffield_health/venn_diagram.png)
 
 Our client wanted an app that would allow their customers to **book medical
 appointments** and other Nuffield Health services, but the app should also
@@ -36,7 +36,7 @@ habits and incorporate better lifestyle choices** into their lives.
 
 ## Checking Out The Competition
 
-![](https://cdn-images-1.medium.com/max/880/1*qrYpbuuzG8BUT8_UpwOWbw.png)
+![](images/case_studies/nuffield_health/competition.png)
 
 **There are many apps to track your health.** Some apps track your steps and how
 many calories you’ve burnt; some apps figure out how many hours you sleep every
@@ -52,7 +52,7 @@ Proposition).**
 
 ## User Research: Talking To People
 
-![](https://cdn-images-1.medium.com/max/880/1*7QkksUt2ADapDj49cIlNOA.png)
+![](images/case_studies/nuffield_health/user_feedback.png)
 
 **Here’s a list of things people hate:**
 
@@ -63,7 +63,7 @@ and you have to re-schedule your whole life to fit with the appointment
 * Having to input data into your tracker
 * Notifications
 
-![](https://cdn-images-1.medium.com/max/660/1*WV3huQuJc8GJJQ-TuIvxew.png)
+![](images/case_studies/nuffield_health/concept_map.png)
 
 **Here’s a (shorter) list of things people like:**
 
@@ -81,7 +81,7 @@ habits.**
 
 ## Meet Geoff Perkins
 
-![](https://cdn-images-1.medium.com/max/880/1*B7vH9eLoYW_C0RAJ8isNUQ.png)
+![](images/case_studies/nuffield_health/persona_geoff.png)
 
 This is Geoff, he’s our persona. Geoff is 41, married, with two kids. He’s a busy IT Manager and doesn’t have a lot of time to look after himself, which means he has been slowly piling on some pounds. And now **he wants to lose the extra weight in order to be able to keep up with his kids.**
 
@@ -98,11 +98,11 @@ The design of the booking screens was fairly straightforward. Below are the
 iterations for three of the main screens, and some of the feedback we received
 at each stage.
 
-![](https://cdn-images-1.medium.com/max/880/1*0oymZf7klnHA_0ReMEMAKg.png)
+![](images/case_studies/nuffield_health/booking_screens.png)
 
-![](https://cdn-images-1.medium.com/max/880/1*t25b3E8GYnojRQScKo9n6w.png)
+![](images/case_studies/nuffield_health/booking_two.png)
 
-![](https://cdn-images-1.medium.com/max/880/1*ZOB5c9wQ06aCVoVTRuf1Nw.png)
+![](images/case_studies/nuffield_health/booking_three.png)
 
 ## Sketching and Designing the Health Tracker
 
@@ -114,12 +114,12 @@ MOT** (a Nuffield Health service that runs a general medical check on customers
 every three months). This, in theory, would allow customers to track their
 progress.
 
-![](https://cdn-images-1.medium.com/max/880/1*Uth_PdC1itz0nQVMGvMsJw.png)
+![](images/case_studies/nuffield_health/diagram.png)
 
 We thought users would be excited about this feature. Delighted. Instead, this
 is the feedback we got.
 
-![](https://cdn-images-1.medium.com/max/880/1*0hay7PpQHP5-Y521FSYuvg.png)
+![](images/case_studies/nuffield_health/piece_of_feedback.png)
 
 Which makes sense. So we scrapped that and came up with a solution that was
 completely different.
@@ -141,7 +141,7 @@ an app that claims to increase your energy levels, feel vibrant health, lose
 weight and sleep better by instilling healthy habits and routines in your life,
 does this pretty well. Here are two user reviews for this app:
 
-![](https://cdn-images-1.medium.com/max/880/1*EjEd6ADqqzI4TClfvfrKwQ.png)
+![](images/case_studies/nuffield_health/feedback_two.png)
 
 ## Making Healthier Habits a Delight
 
@@ -153,20 +153,20 @@ set a new goal, and then is taken through several screens that give them several
 options, briefly explain the benefits of the selected goal and finally guide
 them through the process of completing it.**
 
-![](https://cdn-images-1.medium.com/max/880/1*nQaFAiFxmV4kCU5Hpujqng.png)
+![](images/case_studies/nuffield_health/screen_flow.png)
 
 We designed a mid-fidelity prototype and began testing. Here’s some feedback we
 got from our users.
 
-![](https://cdn-images-1.medium.com/max/880/1*B0RdNIgNrlqc9i1X6btBew.png)
+![](images/case_studies/nuffield_health/feedback_one.png)
 
 We added in some informative pop-ups, as well as labeled the icons.
 
-![](https://cdn-images-1.medium.com/max/880/1*3NTrBkMzWqadf96zUBP7XA.png)
+![](images/case_studies/nuffield_health/bottom_buttons.png)
 
 And, finally, we designed a high-fidelity prototype.
 
-![](https://cdn-images-1.medium.com/max/1100/1*bo26a5u3NvqPgSPMWjcYDw.png)
+![](images/case_studies/nuffield_health/high_fidelity_prototype.png)
 
 [Click here to see and test the final prototype.](https://invis.io/KUE9O9534)
 

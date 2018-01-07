@@ -17,19 +17,19 @@ heated discussion even more than I do.
 
 Oh, but it is.
 
-> The [confusion](https://en.oxforddictionaries.com/definition/confusion) about
+> The [confusion](https://en.oxforddictionaries.com/definition/confusion){:target="_blank"} about
 > ‘fruit’ and ‘vegetable’ arises because of the differences in usage between
 scientists and cooks. Scientifically speaking, a tomato is definitely a fruit.
 True fruits are developed from the
-[ovary](https://en.oxforddictionaries.com/definition/ovary) in the base of the
+[ovary](https://en.oxforddictionaries.com/definition/ovary){:target="_blank"} in the base of the
 flower, and contain the
-[seeds](https://en.oxforddictionaries.com/definition/seed) of the plant (though
-[cultivated](https://en.oxforddictionaries.com/definition/cultivate) forms may
+[seeds](https://en.oxforddictionaries.com/definition/seed){:target="_blank"} of the plant (though
+[cultivated](https://en.oxforddictionaries.com/definition/cultivate){:target="_blank"} forms may
 be seedless). Blueberries, raspberries, and oranges are true fruits, and so are
 many kinds of nut. Some plants have a soft part which supports the seeds and is
 also called a ‘fruit’, though it is not developed from the ovary: the strawberry
 is an example. — [Oxford
-Dictionaries](https://en.oxforddictionaries.com/explore/is-a-tomato-a-fruit-or-a-vegetable)
+Dictionaries](https://en.oxforddictionaries.com/explore/is-a-tomato-a-fruit-or-a-vegetable){:target="_blank"}
 
 ## This is truly a case of t*uh*-mey-toh vs t*uh*-mah-toh, after all
 
@@ -38,7 +38,7 @@ United States that, under U.S. customs regulations, **the tomato should be
 classified as a vegetable rather than a fruit.**
 
 I don’t know about you, but I find
-[this](https://supreme.justia.com/cases/federal/us/149/304/case.html)
+[this](https://supreme.justia.com/cases/federal/us/149/304/case.html){:target="_blank"}
 fascinating.
 
 > One of the witnesses answered as follows:

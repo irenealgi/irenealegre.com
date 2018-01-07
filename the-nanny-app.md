@@ -85,7 +85,7 @@ progression bar so that the user would know how much they had left before
 finishing with the sign up process.
 
 [See the full
-wire-flow](https://drive.google.com/open?id=0B9_hamWwtU2dQzNwakxFNkJqXzQ)
+wire-flow](https://drive.google.com/open?id=0B9_hamWwtU2dQzNwakxFNkJqXzQ){:target="_blank"}
 
 ## Defining The Nanny App’s brand
 

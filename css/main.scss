@@ -243,3 +243,10 @@ figcaption {
   margin-top: -60px;
   text-align: center;
 }
+
+blockquote {
+  margin: 0 auto;
+  font-style: italic;
+  border-left: 3px solid $light_color;
+  padding-left: 20px;
+}

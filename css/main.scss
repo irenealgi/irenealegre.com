@@ -145,6 +145,15 @@ $accent_color: #F93457;
   text-align: center;
   margin-top: 30px;
   margin-bottom: 30px;
+
+  #social {
+    margin-top: 30px;
+    img {
+      width: 40px;
+      margin-left: 5px;
+      margin-right: 5px;
+    }
+  }
 }
 
 #text {

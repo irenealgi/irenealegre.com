@@ -7,11 +7,13 @@ title: "Blog"
 
 <div class="container">
   <div id="post" class="col-sm-8 col-sm-offset-2">
-    {% for post in site.posts %}
-      <div class="archive">
-        <span class="date">{{ post.date | date_to_string }}</span>
-        <a class="title" href="{{ post.url }}">{{ post.title }}</a>
-      </div>
-    {% endfor %}
+    <div id="articles">
+      {% for post in site.posts %}
+        <div class="article">
+          <span class="date">{{ post.date | date_to_string }}</span><span class="separator">✏︎</span>
+          <a class="title" href="{{ post.url }}">{{ post.title }}</a>
+        </div>
+      {% endfor %}
+    </div>
   </div>
 </div>

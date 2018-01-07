@@ -21,7 +21,7 @@ parents and nannies to meet up and arrange a babysitting schedule that works for
 everyone.**
 
 ![](images/case_studies/nanny_app/story_board.png)
-<span class="figcaption_hack">Storyboard representing the User Journey</span>
+<figcaption>Storyboard representing the User Journey</figcaption>
 
 During my user interviews with my colleague Meera, I came to the conclusion
 that **juggling work and family lives can be a challenge, and recurring to
@@ -34,7 +34,7 @@ What if Meera had an app that enabled her to find nannies who are available at
 specific times or during specific days?
 
 ![](images/case_studies/nanny_app/user_flow.png)
-<span class="figcaption_hack">User flow focusing on the “parents” side of the marketplace</span>
+<figcaption>User flow focusing on the “parents” side of the marketplace</figcaption>
 
 After a little bit more research, I pinned down the app’s main features. Here’s
 what it *had* to provide users with in order to be an MVP:
@@ -56,7 +56,7 @@ sign up page and a screen where the user can describe where they live, how many
 children will require babysitting and what languages they speak.
 
 ![](images/case_studies/nanny_app/sketches.png)
-<span class="figcaption_hack">First prototypes</span>
+<figcaption>First prototypes</figcaption>
 
 The next iteration continues to reflect those requirements, now with a little
 bit more detail and structure. I then **tested the design with a couple of

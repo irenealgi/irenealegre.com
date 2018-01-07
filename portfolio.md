@@ -24,10 +24,6 @@ But I was sensible. I *am* a sensible person, after all. So I just kept the idea
 of the blog, and then chucked everything else in there. Because you can turn a
 blog into *anything*.
 
-![](images/case_studies/portfolio/old_one.png)
-<span class="figcaption_hack">These were meant to be the ‘extras’ on my blog. I was not sure how I’d actually
-turn that into content though.</span>
-
 So after battling against my own desires, I settled down to keep the following
 sections:
 
@@ -44,11 +40,8 @@ I’m a minimalist, so I went with a 3-colour palette: white, black and hot pink
 I picked one typeface — Montserrat– as the main font. Here are some of my
 screens.
 
-![](images/case_studies/portfolio/old_two.png)
+![](images/case_studies/portfolio/old_site.png)
 
-![](images/case_studies/portfolio/old_three.png)
-
-![](images/case_studies/portfolio/old_four.png)
 
 It was alright, although people were a bit shocked by its pinkness. But when I
 added the images for the case studies, the pink suddenly clashed with everything

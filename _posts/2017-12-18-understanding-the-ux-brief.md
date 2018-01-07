@@ -92,7 +92,7 @@ Does it, though? Don’t people *know* that already? Don’t they know that they
 should eat their greens and exercise three hours a week? Are not doctors,
 friends, TV advertising, books and famous people already telling them that? And
 yet [two-thirds of the UK population are overweight or
-obese](https://www.theguardian.com/news/datablog/2014/may/29/how-obese-is-the-uk-obesity-rates-compare-other-countries).
+obese](https://www.theguardian.com/news/datablog/2014/may/29/how-obese-is-the-uk-obesity-rates-compare-other-countries){:target="_blank"}.
 
 Why?
 
@@ -104,8 +104,8 @@ We didn’t need to *inform* anyone — we had to *encourage* them to make bette
 lifestyle choices, to change their habits.
 
 I’d done some research on habit building earlier in 2017, and I remembered a
-popular [TED talk ](https://www.youtube.com/watch?v=AdKUJxjn-R8&t=27s)by BJ
-Fogg, PhD, the creator of the concept of [Tiny Habits](http://tinyhabits.com/).
+popular [TED talk](https://www.youtube.com/watch?v=AdKUJxjn-R8&t=27s){:target="_blank"} by BJ
+Fogg, PhD, the creator of the concept of [Tiny Habits](http://tinyhabits.com/){:target="_blank"}.
 According to BJ Fogg, only three things will change behaviour in the long term.
 
 * **Having an epiphany**
@@ -142,4 +142,3 @@ the product but, rather, it’s about understanding what the problem really, tru
 is.
 
 ![](images/blog/understanding_ux/enlightened_bird.jpeg)
-

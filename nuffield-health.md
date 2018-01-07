@@ -10,7 +10,7 @@ title: "Nuffield Health: Improving Your Lifestyle Choices, One Habit at a Time (
 * **Duration:** 2 weeks
 * **Tools:** Pen and paper, Sketch, White walls, Invision, Marvel
 * **Processes:** User interviews, user testing, branding, design studio, sketching, prototyping, persona creation, user flows, experience mapping
-* [**Link to final prototype**](https://invis.io/KUE9O9534)
+* [**Link to final prototype**](https://invis.io/KUE9O9534){:target="_blank"}
 
 ![](images/case_studies/nuffield_health/final_design.png)
 
@@ -102,8 +102,8 @@ completely different.
 ## Creating Tiny Habits
 
 BJ Fogg, PhD, is the creator of the concept of [Tiny
-Habits](http://tinyhabits.com/). His [TED
-talk](https://www.youtube.com/watch?v=AdKUJxjn-R8&t=27s) is quite famous and his
+Habits](http://tinyhabits.com/){:target="_blank"}. His [TED
+talk](https://www.youtube.com/watch?v=AdKUJxjn-R8&t=27s){:target="_blank"} is quite famous and his
 premise quite simple. According to BJ Fogg, only three things will change
 behaviour in the long term.
 
@@ -111,7 +111,7 @@ behaviour in the long term.
 * **Changing your environment** (what surrounds you)
 * **Taking baby steps**
 
-[Fabulous](https://play.google.com/store/apps/details?id=co.thefabulous.app&hl=en_GB),
+[Fabulous](https://play.google.com/store/apps/details?id=co.thefabulous.app&hl=en_GB){:target="_blank"},
 an app that claims to increase your energy levels, feel vibrant health, lose
 weight and sleep better by instilling healthy habits and routines in your life,
 does this pretty well. Here are two user reviews for this app:

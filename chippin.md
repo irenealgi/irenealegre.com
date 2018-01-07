@@ -10,12 +10,12 @@ title: "UX Project: Re-designing Chippin’s user flow"
 * **Duration:** 2 weeks
 * **Tools:** Pen and paper, Omnigraffle, Sketch, White walls, Invision
 * **Methodologies:** User interviews, user testing, branding, design studio, sketching, prototyping, persona creation, user flows
-* [**Link to clickable prototype**](https://projects.invisionapp.com/share/3SEKP2Y64#/screens/265872443_Desktop)
+* [**Link to clickable prototype**](https://projects.invisionapp.com/share/3SEKP2Y64#/screens/265872443_Desktop){:target="_blank"}
 
 
 ## The Brief
 
-[Chippin](https://chippin.co.uk/) enables online merchants to allow their
+[Chippin](https://chippin.co.uk/){:target="_blank"} enables online merchants to allow their
 customers to easily and securely share the cost of an online purchase.
 Therefore, **Chippin functions as a payment gateway and increases the chances of
 users finishing their payment transactions.**
@@ -136,7 +136,7 @@ different possibilities)
 ## The Prototype
 
 You can access the prototype by [clicking
-here](https://invis.io/3SEKP2Y64#/265872443_Desktop). Please follow the steps below:
+here](https://invis.io/3SEKP2Y64#/265872443_Desktop){:target="_blank"}. Please follow the steps below:
 
 1.  Select the Chippin option on Fairfax & Favor’s checkout screen
 1. Start your Chippin
@@ -152,4 +152,3 @@ here](https://invis.io/3SEKP2Y64#/265872443_Desktop). Please follow the steps be
 ## Next Steps
 
 ![](images/case_studies/chippin/next_steps.png)
-

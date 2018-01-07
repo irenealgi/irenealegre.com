@@ -35,7 +35,7 @@ sections:
 studies
 * **Case studies page:** this would compile all the case studies
 * **About page:** this would tell the user all about me and my hobbies
-* **The blog:** in here I would write a lot about *stuff *(to be fair, I do write
+* **The blog:** in here I would write a lot about *stuff* (to be fair, I do write
 quite a lot)
 
 ## Defining the style
@@ -103,7 +103,7 @@ like* Medium*’s format, and the platform uses a big serif font. PT Serif at
 if something works, there’s no point in fixing it.
 
 ## Designing the blog
-I was inspired by Arturo's own website, which has an [archive](http://arturoherrero.com/articles/) with some content he's written over the years. I liked the simplicity of it, and the fact that I could have the link at the top take users to a list with all the blog posts, and they could always go back to the same link for more, thus removing the need for pagination.
+I was inspired by Arturo's own website, which has an [archive](http://arturoherrero.com/articles/){:target="_blank"} with some content he's written over the years. I liked the simplicity of it, and the fact that I could have the link at the top take users to a list with all the blog posts, and they could always go back to the same link for more, thus removing the need for pagination.
 
 It was clean and functional.
 
@@ -113,7 +113,7 @@ It was clean and functional.
 
 Arturo said he would build the website himself (and yes that is a [Virginia
 Woolf
-reference](https://genius.com/Virginia-woolf-mrs-dalloway-part-1-annotated)
+reference](https://genius.com/Virginia-woolf-mrs-dalloway-part-1-annotated){:target="_blank"}
 because I’m a freak), so now I had to have a good idea of what I wanted and how
 I wanted it. A really good idea.
 

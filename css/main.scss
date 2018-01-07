@@ -4,6 +4,7 @@
 $sans_serif_font_family: "Montserrat", sans-serif;
 $serif_font_family: "PT Serif", serif;
 $main_color: #4F4F4F;
+$light_color: #B5B5B5;
 $accent_color: #F93457;
 
 #content {
@@ -118,12 +119,42 @@ $accent_color: #F93457;
   line-height: 33px;
 }
 
+#articles {
+  .date {
+    font-family: $sans_serif_font_family;
+    font-size: 18px;
+    float: left;
+    width: 120px;
+    text-align: right;
+  }
+
+  .separator {
+    margin-left: 15px;
+    margin-right: 8px;
+  }
+
+  .article {
+    line-height: 1.75em;
+    padding: 20px 0;
+    border-bottom: 1px solid $light_color;
+
+    a.title {
+      color: $main_color;
+      text-decoration: none;
+    }
+
+    a.title:hover {
+      color: $accent_color;
+    }
+  }
+}
+
 #footer {
   font-size: 16px;
   text-align: center;
   margin-top: 60px;
   margin-bottom: 20px;
-  color: #B5B5B5;
+  color: $light_color;
 }
 
 h1 {

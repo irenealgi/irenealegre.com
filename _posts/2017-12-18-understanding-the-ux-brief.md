@@ -1,8 +1,11 @@
-# Understanding The UX Brief or How We Plucked Away All The Features
+---
+layout: post
+title: "Understanding The UX Brief"
+---
 
-This is a spinoff of [The Nuffield Health project](irenealegre.com/nuffield-health).
+This is a spinoff of [The Nuffield Health project](nuffield-health).
 
-### The brief
+## The brief
 
 Now, I’ve been trying to find a better metaphor for this, but the truth is I
 kind of like this one. This is a representation of our brief.
@@ -33,7 +36,7 @@ ready. We were smashing it.
 
 ![](images/blog/understanding_ux/running_bird.jpeg)
 
-### And then we hit a bump
+## And then we hit a bump
 
 > But the app should also track the user’s health progression and encourage them
 > to quit unhealthy habits and incorporate better lifestyle choices into their
@@ -55,7 +58,7 @@ in two weeks. We covered two white walls with our sketches.
 
 ![](images/blog/understanding_ux/white_wall.jpeg)
 
-### And then, another bump
+## And then, another bump
 
 And then Max said:
 
@@ -77,7 +80,7 @@ high-fidelity clickable prototype by Friday.
 But I eventually did. I caught up. There’s a photo of the three of us flying in
 unison above and focusing on designing a joyous app, so I won’t repeat myself.
 
-### Going back to the brief, the research and our very own personal experiences
+## Going back to the brief, the research and our very own personal experiences
 
 There was this section in our brief that required us to come up with a way to
 encourage people to make better lifestyle choices. At first we thought a health
@@ -112,7 +115,7 @@ According to BJ Fogg, only three things will change behaviour in the long term.
 BJ Fogg goes on to claim that taking baby steps is the way to go because it’s
 easy, it makes you feel good and it’s — therefore– rewarding.
 
-### Making healthier habits a delight
+## Making healthier habits a delight
 
 Becoming healthier has never been this fun. Maybe this is a bit of an
 overstatement, but it’s our app, so we feel sort of entitled to say this.
@@ -127,7 +130,7 @@ And here’s the final prototype.
 
 ![](images/blog/understanding_ux/final_prototype.png)
 
-### Conclusions: understanding the problem
+## Conclusions: understanding the problem
 
 I loved how this brief was not about an app, or a set of requirements, or even
 about the design itself. This brief was about a problem, a real problem, which

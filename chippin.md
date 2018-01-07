@@ -21,8 +21,9 @@ Therefore, **Chippin functions as a payment gateway and increases the chances of
 users finishing their payment transactions.**
 
 ![](images/case_studies/chippin/old_design.png)
+<figcaption>Original screens and branding.</figcaption>
 
-**THE OBJECTIVE**
+### The objective
 
 To review the user journey from landing to payments and make this as simple and
 intuitive as possible while ensuring there is enough information for the user to
@@ -33,6 +34,7 @@ complete the transaction.
 ### The competition
 
 ![](images/case_studies/chippin/competitor_analysis.png)
+
 
 * Chippin’s proposition is unique in the marketplace
 * Competitor business models include fundraising, payment gateways and bill
@@ -48,22 +50,23 @@ splitting
 
 > **“I like that it has just a few steps”**
 
-## Assessing the current platform: User Experiences
+## Assessing the current platform: User experiences and feedback
 
 Once we started testing the current flow with real users (see below), we quickly
 realised it was an emotional rollercoaster; there were a lot of ups and downs,
 and adding contributors was frustrating. Users also had issues with the site’s
 level of trustworthiness, were not aware of the brand and were unsure as to how
-secure the process was.
-
-![](images/case_studies/chippin/experience_map.png)
-
-Below we have listed some of the feedback we received on several of the current
+secure the process was. We have also listed some of the feedback we received on several of the current
 site’s features.
 
+![](images/case_studies/chippin/experience_map.png)
+<figcaption>Experience map</figcaption>
+
 ![](images/case_studies/chippin/feedback_on_current_design.png)
+<figcaption>Feedback on the current platform</figcaption>
 
 ![](images/case_studies/chippin/feedback_on_current_design_two.png)
+<figcaption>Feedback on the current platform</figcaption>
 
 After a few user interviews and testings it became clear to us that there four
 main themes we would be focusing on during the following two weeks:
@@ -107,13 +110,10 @@ cramming it up with information. **The page had to also include information on t
 product that’s going to be purchased and create continuity** from the previous
 screen, which is the merchant’s checkout screen.
 
-### First iterations
-
 ![](images/case_studies/chippin/first_iterations_one.png)
 
 ![](images/case_studies/chippin/first_iterations_two.png)
 
-### Final version
 
 ![](images/case_studies/chippin/first_iterations_three.png)
 
@@ -128,10 +128,9 @@ it as straightforward as possible.
 
 ![](images/case_studies/chippin/first_iterations_six.png)
 
-**BONUS IMAGE:** This is our mess of a wire-flow (because we thought of all the
-different possibilities)
 
 ![](images/case_studies/chippin/user_flow.png)
+<figcaption>Bonus: This is a screenshot of our screen flow on Sketch. We tried to plan for all different possibilities.</figcaption>
 
 ## The Prototype
 
@@ -151,4 +150,10 @@ here](https://invis.io/3SEKP2Y64#/265872443_Desktop){:target="_blank"}. Please f
 
 ## Next Steps
 
-![](images/case_studies/chippin/next_steps.png)
+* The current solution doesn't solve the potential issues caused by adding new contributors to the dashboard.
+
+* The need for someone's email might add an extra layer of friction. An integration with Facebook would help users interact through an alternative channel.
+
+* The underwriting tick box could actually be mistaken for a T&Cs check box, which could cause users to agree without understanding this feature.
+
+* The new flow does not include any feedback for when things go wrong (e.g. when users don't lock the amounts).

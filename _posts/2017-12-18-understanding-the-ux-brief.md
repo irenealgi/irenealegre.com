@@ -26,7 +26,7 @@ section for making doctor’s appointments. It was all fine. A booking process! 
 definitely knew how to do that.
 
 ![](images/blog/understanding_ux/flying_birds.jpeg)
-<span class="figcaption_hack">This is the three of us happily flying across the sky</span>
+<figcaption>This is the three of us happily flying across the sky</figcaption>
 
 So we started doing our interviews, finding out what people’s habits were,
 checking out the competition — all of the things. It was fine.

@@ -74,10 +74,15 @@ iterations for three of the main screens, and some of the feedback we received
 at each stage.
 
 ![](images/case_studies/nuffield_health/booking_screens.png)
+<figcaption>From left to right: paper, mid-fidelity and high-fidelity booking screens.</figcaption>
 
 ![](images/case_studies/nuffield_health/booking_two.png)
+<figcaption>From left to right: paper, mid-fidelity and high-fidelity booking screens.</figcaption>
+
 
 ![](images/case_studies/nuffield_health/booking_three.png)
+<figcaption>From left to right: paper, mid-fidelity and high-fidelity booking screens.</figcaption>
+
 
 ## Sketching and Designing the Health Tracker
 
@@ -129,21 +134,13 @@ options, briefly explain the benefits of the selected goal and finally guide
 them through the process of completing it.**
 
 ![](images/case_studies/nuffield_health/screen_flow.png)
-
-We designed a mid-fidelity prototype and began testing. Here’s some feedback we
-got from our users.
+<figcaption>Screen flow.</figcaption>
 
 ![](images/case_studies/nuffield_health/feedback_one.png)
-
-We added in some informative pop-ups, as well as labeled the icons.
-
-![](images/case_studies/nuffield_health/bottom_buttons.png)
-
-And, finally, we designed a high-fidelity prototype.
+<figcaption>Mid-fidelity prototype and feedback.</figcaption>
 
 ![](images/case_studies/nuffield_health/high_fidelity_prototype.png)
-
-
+<figcaption>High-fidelity prototype.</figcaption>
 
 ## Next Steps
 

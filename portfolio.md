@@ -93,8 +93,6 @@ has one, and so I thought I should have one myself. So I scrapped that too.
 * An about page with a photo, some links and my contact details
 * A link to the blog
 
-![](images/case_studies/portfolio/home_page.png)
-
 ## Changing the font
 
 I know that — in theory– sans-serif fonts work better on the web, but I really
@@ -108,8 +106,6 @@ I was inspired by Arturo's own website, which has an [archive](http://arturoherr
 It was clean and functional.
 
 ## Designing alongside a dev
-
-![](images/case_studies/portfolio/long_home_page.png)
 
 Arturo said he would build the website himself (and yes that is a [Virginia
 Woolf

@@ -1,5 +1,7 @@
-# The Linguistic Aspect of Information Architecture, or Why Tomatoes Are Societal
-Hybrids
+---
+layout: post
+title: "The Linguistic Aspect of Information Architecture"
+---
 
 ![](images/blog/tomatoes/tomatoes.jpeg)
 
@@ -29,7 +31,7 @@ also called a ‘fruit’, though it is not developed from the ovary: the strawb
 is an example. — [Oxford
 Dictionaries](https://en.oxforddictionaries.com/explore/is-a-tomato-a-fruit-or-a-vegetable)
 
-### This is truly a case of t*uh*-mey-toh vs t*uh*-mah-toh, after all
+## This is truly a case of t*uh*-mey-toh vs t*uh*-mah-toh, after all
 
 It was decided back in freaking 1893 that tomatoes by the Supreme Court of the
 United States that, under U.S. customs regulations, **the tomato should be
@@ -61,7 +63,7 @@ different from that which I have read here from the dictionaries.”
 consumers would never be able to find them on their websites.** Except that’s
 not always the case.
 
-### Doing my grocery shopping
+## Doing my grocery shopping
 
 Here’s Morrisons, following *the law*. Morrisons makes tomatoes very easy to
 find, categorising them as vegetables.
@@ -85,7 +87,7 @@ thing. This confuses me.
 
 ![](images/blog/tomatoes/sainsburys_two.png)
 
-### Mapping out the world
+## Mapping out the world
 
 I’m a big fan of Linguistics — I mean, I kind of have a degree in English, after
 all, and Linguistics made up a big chunk of my degree. I like how language maps
@@ -98,7 +100,7 @@ next to the lettuce, not side by side with the strawberries. And I like how
 Information Architects make a point of understanding how people perceive and
 describe the world and translating their view into their designs.
 
-### Sometimes it’s difficult. Or very difficult.
+## Sometimes it’s difficult. Or very difficult.
 
 Let’s look at Clarks’ shoe collection for women. Before anything else, they
 distinguish between *Shoes *and *Boots*, as if not boots were not a type of
@@ -131,7 +133,7 @@ but then again — I haven’t done any user testing.
 
 ![](images/blog/tomatoes/asos.png)
 
-### This is just the beginning
+## This is just the beginning
 
 This article is by no means a critique of how some very popular e-commerce sites
 have categorised their products, but rather an in-depth appreciation of the
@@ -141,28 +143,3 @@ As a Junior UX Designer, I find Information Architecture and Taxonomy engrossing
 because they tap into how the user understands the world, the industry and
 –ultimately– your product. I will continue to do some research on this and will
 probably write a more advanced post on Information Architecture early next year.
-
-In the meantime…
-
-### Say hello!
-
-You can always write to me at irenealgi@gmail.com.
-
-If you are one of those people who use and actually *get *social media,
-congratulations! You’ll find me prattling about on
-[Twitter](https://twitter.com/irenealgi) and posting beautiful, inspirational
-pictures (and some selfies) on
-[Instagram](https://www.instagram.com/irenealgi/).
-
-* [Information
-Architecture](https://medium.com/tag/information-architecture?source=post)
-* [UX Design](https://medium.com/tag/ux-design?source=post)
-* [UX](https://medium.com/tag/ux?source=post)
-* [Linguistics](https://medium.com/tag/linguistics?source=post)
-
-By clapping more or less, you can signal to us which stories really stand out.
-
-### [Irene Alegre](https://medium.com/@irenealgi)
-
-Books, Marketing, Design, UX & Startups. I also write. Views are my imaginary
-friend’s.

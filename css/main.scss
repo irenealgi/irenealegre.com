@@ -93,6 +93,33 @@ $accent_color: #F93457;
   padding-right: 10%;
 }
 
+.home_project_button {
+  font-family: $sans_serif_font_family;
+  font-size: 20px;
+  font-weight: 400;
+  margin-top: 2%;
+  margin-bottom: 4%;
+  display: inline-block;
+  text-align: center;
+  vertical-align: middle;
+  padding: 12px 26px;
+  border: 2px solid $main_color;
+  border-radius: 2px;
+  background: white;
+  color: $main_color;
+}
+
+.home_project_button:focus {
+  color: $main_color;
+}
+
+.home_project_button:hover {
+  border-radius: 2px;
+  background-color: $main_color;
+  color: white;
+  text-decoration: none;
+}
+
 #header {
   padding-top: 150px;
   font-family: $sans_serif_font_family;

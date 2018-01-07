@@ -1,4 +1,17 @@
 ---
 layout: default
-title: "Irene Alegre | Blog"
+title: "Blog"
 ---
+
+{% include page_title.html %}
+
+<div class="container">
+  <div id="post" class="col-sm-8 col-sm-offset-2">
+    {% for post in site.posts %}
+      <div class="archive">
+        <span class="date">{{ post.date | date_to_string }}</span>
+        <a class="title" href="{{ post.url }}">{{ post.title }}</a>
+      </div>
+    {% endfor %}
+  </div>
+</div>

@@ -3,8 +3,6 @@ layout: post
 title: "The Linguistic Aspect of Information Architecture"
 ---
 
-![](images/blog/tomatoes/tomatoes.jpeg)
-
 ‘The tomato is one of my favourite fruits’, I told my partner once, casually, as
 if I was telling him that my favourite shade of blue was turquoise, or that I
 was thinking of wearing a cocktail dress to my cousin’s wedding the week after.
@@ -17,32 +15,29 @@ heated discussion even more than I do.
 
 Oh, but it is.
 
-> The [confusion](https://en.oxforddictionaries.com/definition/confusion){:target="_blank"} about
+> The confusion about
 > ‘fruit’ and ‘vegetable’ arises because of the differences in usage between
 scientists and cooks. Scientifically speaking, a tomato is definitely a fruit.
 True fruits are developed from the
-[ovary](https://en.oxforddictionaries.com/definition/ovary){:target="_blank"} in the base of the
+ovary in the base of the
 flower, and contain the
-[seeds](https://en.oxforddictionaries.com/definition/seed){:target="_blank"} of the plant (though
-[cultivated](https://en.oxforddictionaries.com/definition/cultivate){:target="_blank"} forms may
+seeds of the plant (though
+cultivated forms may
 be seedless). Blueberries, raspberries, and oranges are true fruits, and so are
 many kinds of nut. Some plants have a soft part which supports the seeds and is
 also called a ‘fruit’, though it is not developed from the ovary: the strawberry
-is an example. — [Oxford
-Dictionaries](https://en.oxforddictionaries.com/explore/is-a-tomato-a-fruit-or-a-vegetable){:target="_blank"}
+is an example. — Oxford
+Dictionaries
 
 ## This is truly a case of t*uh*-mey-toh vs t*uh*-mah-toh, after all
 
-It was decided back in freaking 1893 that tomatoes by the Supreme Court of the
-United States that, under U.S. customs regulations, **the tomato should be
-classified as a vegetable rather than a fruit.**
+It was decided by the Supreme Court of the
+United States back in freaking 1893 that, under U.S. customs regulations, [**the tomato should be
+classified as a vegetable rather than a fruit.**](https://supreme.justia.com/cases/federal/us/149/304/case.html){:target="_blank"}
 
-I don’t know about you, but I find
-[this](https://supreme.justia.com/cases/federal/us/149/304/case.html){:target="_blank"}
-fascinating.
+I don’t know about you, but I find this fascinating.
 
-> One of the witnesses answered as follows:
-
+> One of the witnesses answered as follows:  
 > “Well, it does not classify all things there, but they are correct as far as
 > they go. It does not take all kinds of fruit or vegetables; it takes a portion
 of them. I think the words ‘fruit’ and ‘vegetable’ have the same meaning in
@@ -53,8 +48,7 @@ Dictionary under the term ‘vegetable,’ as ‘cabbage, cauliflower, turnips,
 potatoes, peas, beans, and the like,’ probably covered by the words ‘and the
 like.’”
 
-> The other witness testified:
-
+> The other witness testified:  
 > “I don’t think the term ‘fruit’ or the term ‘vegetables’ had, in March, 1883,
 > and prior thereto, any special meaning in trade and commerce in this country
 different from that which I have read here from the dictionaries.”
@@ -81,7 +75,7 @@ like their old friend Morrisons.
 ![](images/blog/tomatoes/sainsburys_one.png)
 
 But then they I searched for tomatoes using the search bar and this just blew my
-mind. *Christmas > The Big Day > Christmas Brunch > Full cooked breakfast. *I
+mind. *Christmas > The Big Day > Christmas Brunch > Full cooked breakfast*. I
 mean, what? As a user, I don’t understand why they just made tomatoes a seasonal
 thing. This confuses me.
 
@@ -91,7 +85,7 @@ thing. This confuses me.
 
 I’m a big fan of Linguistics — I mean, I kind of have a degree in English, after
 all, and Linguistics made up a big chunk of my degree. I like how language maps
-out the world, and how — by the mere process of *naming — *it puts things into
+out the world, and how — by the mere process of *naming* — it puts things into
 categories.
 
 Tomatoes might be a fruit, but as long as people use and see them as a
@@ -103,18 +97,18 @@ describe the world and translating their view into their designs.
 ## Sometimes it’s difficult. Or very difficult.
 
 Let’s look at Clarks’ shoe collection for women. Before anything else, they
-distinguish between *Shoes *and *Boots*, as if not boots were not a type of
+distinguish between *Shoes* and *Boots*, as if not boots were not a type of
 shoe. Then you can select Black Shoes, where I’m assuming you’ll find
 high-heeled shoes, brogues, trainers or pumps, all of them — of course– black.
 
 ![](images/blog/tomatoes/clarks.png)
 
 You can also select *Heels*, which is a slightly misleading term because *all
-shoes have heels*, but the user is most likely assuming they mean *high *heels.
+shoes have heels*, but the user is most likely assuming they mean *high* heels.
 But then you can also select *Party Styles*, which will probably include high
 heels and pumps, but not trainers.
 
-Even though they make a clear distinction between *Shoes *and *Boots*, once you
+Even though they make a clear distinction between *Shoes* and *Boots*, once you
 select *Wedges* within the *Shoes* category, this is the first thing you see.
 
 ![](images/blog/tomatoes/clarks_two.png)
@@ -128,7 +122,7 @@ perfect for the winter months. Party Shoes might be flat and comfy, smart and
 covered or open-toed and with 4-inch heels. Who knows?
 
 Let’s also appreciate the fact that Socks & Tights can be found within the Shoes
-category. I would have thought they should be in *Accessories *or *Underwear*,
+category. I would have thought they should be in *Accessories* or *Underwear*,
 but then again — I haven’t done any user testing.
 
 ![](images/blog/tomatoes/asos.png)

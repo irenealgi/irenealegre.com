@@ -14,7 +14,7 @@ title: "Nuffield Health: Improving Your Lifestyle Choices, One Habit at a Time (
 
 ![](images/case_studies/nuffield_health/final_design.png)
 
-> “Nuffield Health provides their customers with what they need, when they need
+> “Nuffield provides their customers with what they need, when they need
 > it”
 
 Nuffield Health is one of the leading not-for-profit UK healthcare
@@ -46,7 +46,7 @@ Proposition).**
 
 
 
-The problem of people not being healthy is *not *knowledge.
+The problem of people not being healthy is *not* knowledge.
 People know what they should be doing to stay healthy and/or become healthier:
 exercise and eat their greens. That’s not the problem.
 
@@ -128,7 +128,7 @@ does this pretty well. Here are two user reviews for this app:
 Becoming healthier has never been this fun. Maybe this is a bit of an
 overstatement, but it’s our app, so we feel sort of entitled to say this.
 
-Below are the first sketches of our *Goals Screen. ***The user is prompted to
+Below are the first sketches of our *Goals Screen*. **The user is prompted to
 set a new goal, and then is taken through several screens that give them several
 options, briefly explain the benefits of the selected goal and finally guide
 them through the process of completing it.**
@@ -149,7 +149,7 @@ next:
 
 * Develop a section for users to learn how to be more mindful with guided
 meditations and breathing exercises
-* Develop a ‘My Health’ screen that gives customers a full overview of their
+* Develop a *My Health* screen that gives customers a full overview of their
 health
 * Allows app users to tackle two or more journeys at the same time (eg. being more
 active and reducing stress)

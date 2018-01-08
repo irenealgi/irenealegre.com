@@ -49,6 +49,8 @@ $accent_color: #F93457;
   text-align: center;
   transform: translate(-50%, -50%);
   font-family: $sans_serif_font_family;
+  padding-left: 1%;
+  padding-right: 1%;
 }
 
 #home_header_name {
@@ -66,10 +68,35 @@ $accent_color: #F93457;
   margin-right: 3%;
   margin-bottom: 9%;
   overflow: hidden;
+}
 
-  img {
+.home_project_content {
+  margin-top: 15px;
+}
+
+@media(min-width: 680px) {
+  .home_project img {
     width: 450px;
     margin-top: 13px;
+  }
+
+  .home_project_pic {
+    width: 46%;
+    margin-left: 2%;
+    margin-right: 2%;
+    float: left;
+  }
+
+  .even .home_project_pic {
+    float: right;
+  }
+
+  .home_project_content {
+    width: 46%;
+    margin-top: 0px;
+    margin-left: 2%;
+    margin-right: 2%;
+    float: left;
   }
 }
 

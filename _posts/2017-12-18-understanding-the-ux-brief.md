@@ -16,7 +16,7 @@ It was flashy. It was big. And it was slightly intimidating. Here’s a flashbac
 to me recapping on the brief a few weeks ago. It’s all a bit meta.
 
 > Our client wanted an app that would allow their customers to **book medical
-> appointments **and other Nuffield Health services, but the app should also
+> appointments** and other Nuffield Health services, but the app should also
 **track the user’s health progression and encourage them to quit unhealthy
 habits and incorporate better lifestyle choices** into their lives.
 
@@ -31,7 +31,7 @@ definitely knew how to do that.
 So we started doing our interviews, finding out what people’s habits were,
 checking out the competition — all of the things. It was fine.
 
-When the time to start sketching arrived, we were ready. We were *more *than
+When the time to start sketching arrived, we were ready. We were *more* than
 ready. We were smashing it.
 
 ![](images/blog/understanding_ux/running_bird.jpeg)

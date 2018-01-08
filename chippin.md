@@ -3,15 +3,14 @@ layout: post
 title: "UX Project: Re-designing Chippin’s user flow"
 ---
 
-![](images/case_studies/chippin/welcome_page.png)
-
 * **Project type:** Client project (within General Assembly's scheme)
 * **Participants:** Meera Rao, Daniel Green, Irene Alegre
 * **Duration:** 2 weeks
 * **Tools:** Pen and paper, Omnigraffle, Sketch, White walls, Invision
 * **Methodologies:** User interviews, user testing, branding, design studio, sketching, prototyping, persona creation, user flows
-* [**Link to clickable prototype**](https://projects.invisionapp.com/share/3SEKP2Y64#/screens/265872443_Desktop){:target="_blank"}
+* [**View the clickable prototype**](https://invis.io/E5EKP2MZ3#/265872443_Desktop){:target="_blank"}
 
+![](images/case_studies/chippin/welcome_page.png)
 
 ## The Brief
 
@@ -33,8 +32,7 @@ complete the transaction.
 
 ### The competition
 
-![](images/case_studies/chippin/competitor_analysis.png)
-
+Glide, Splitit and Make It Social are among our competitors. Looking at their business propositions, the following stood out:
 
 * Chippin’s proposition is unique in the marketplace
 * Competitor business models include fundraising, payment gateways and bill
@@ -44,11 +42,9 @@ splitting
 
 ### User reviews
 
-> **“Great concept. I hate chasing people for money!”**
-
-> **“Quick Stripe payment is great”**
-
-> **“I like that it has just a few steps”**
+> “Great concept. I hate chasing people for money!”   
+> “Quick Stripe payment is great”  
+> “I like that it has just a few steps”
 
 ## Assessing the current platform: User experiences and feedback
 
@@ -131,22 +127,6 @@ it as straightforward as possible.
 
 ![](images/case_studies/chippin/user_flow.png)
 <figcaption>Bonus: This is a screenshot of our screen flow on Sketch. We tried to plan for all different possibilities.</figcaption>
-
-## The Prototype
-
-You can access the prototype by [clicking
-here](https://invis.io/3SEKP2Y64#/265872443_Desktop){:target="_blank"}. Please follow the steps below:
-
-1.  Select the Chippin option on Fairfax & Favor’s checkout screen
-1. Start your Chippin
-1. Add your first contributor by clicking on the blank box
-1. Click on *+Add contributor*
-1. Add your second contributor by clicking on the blank box
-1. Repeat this process until you have Christina, Maya, Jane and Tony
-1. Solve the small splitting problem — we’ll leave you to figure that one out!
-1. Once you are done with the little puzzle, add a note for the contributors
-1. Send the email, start payment, fill in your details and check out the dashboard
-1. That’s it!
 
 ## Next Steps
 

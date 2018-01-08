@@ -52,7 +52,7 @@ Suddenly, I wasn’t happy with it anymore. I hated it.
 ## Re-designing and re-building
 
 **By then I had actually built the site with some help from my very patient
-boyfriend Arturo, but mostly on my own.** I was really impressed with myself,
+partner [Arturo Herrero](http://arturoherrero.com/){:target="_blank"}, but mostly on my own.** I was really impressed with myself,
 although when Arturo saw the CSS sheet he almost cried. Apparently it was quite
 messy, but hey — it worked.
 
@@ -89,12 +89,12 @@ has one, and so I thought I should have one myself. So I scrapped that too.
 ## Changing the font
 
 I know that — in theory– sans-serif fonts work better on the web, but I really
-like* Medium*’s format, and the platform uses a big serif font. PT Serif at
+like *Medium*’s format, and the platform uses a big serif font. PT Serif at
 21px, to be more exact. And, yes, that’s what you’ll find on my website because,
 if something works, there’s no point in fixing it.
 
 ## Designing the blog
-I was inspired by Arturo's own website, which has an [archive](http://arturoherrero.com/articles/){:target="_blank"} with some content he's written over the years. I liked the simplicity of it, and the fact that I could have the link at the top take users to a list with all the blog posts, and they could always go back to the same link for more, thus removing the need for pagination.
+I was inspired by Arturo's own website, which has an archive with some content he's written over the years. I liked the simplicity of it, and the fact that I could have the link at the top take users to a list with all the blog posts, and they could always go back to the same link for more, thus removing the need for pagination.
 
 It was clean and functional.
 
@@ -110,10 +110,10 @@ I wanted it. A really good idea.
 
 * What size are the images? — *450x450*
 * What size is the font? — *21px*
-* What’s the distance between this and that element?
 * Is this a title? And is *this* a title? Can they be the same style? Why not? —
 *because they convey different types of information*
 * Are blog posts and case studies going to look the same? — *yes*
+* What’s the distance between this and that element? ...
 
 ## Conclusions
 

@@ -128,7 +128,7 @@ selected goal and finally guide them through the process of completing it.**
 
 And here’s the final prototype.
 
-![](images/blog/understanding_ux/final_prototype.png)
+![](images/blog/understanding_ux/high_fidelity_prototype_two.png)
 
 ## Conclusions: understanding the problem
 

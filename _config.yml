@@ -19,6 +19,8 @@ description: Hello, I'm Irene. I'm a UX Designer based in London
 # Build settings
 markdown: kramdown
 
+permalink: :title
+
 sass:
   style: :compressed
 

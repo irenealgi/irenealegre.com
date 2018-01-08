@@ -1,0 +1,19 @@
+---
+layout: default
+title: "Blog"
+---
+
+{% include center_title.html %}
+
+<div class="container">
+  <div id="post" class="col-lg-8 col-lg-offset-2">
+    <div id="articles">
+      {% for post in site.posts %}
+        <div class="article">
+          <span class="date">{{ post.date | date_to_string }}</span><span class="separator">✏︎</span>
+          <a class="title" href="{{ post.url }}">{{ post.title }}</a>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>

@@ -17,14 +17,14 @@ But it wasn’t always that way.
 ## Defining the specs
 
 So many things could go in there; my photography, my blog, my Harry Potter
-collection! At first I went a little but crazy. I mean, I’d never had my own web
+collection! At first I went a little bit crazy. I mean, I’d never had my own web
 page before and I just wanted it to have it all.
 
 But I was sensible. I *am* a sensible person, after all. So I just kept the idea
 of the blog, and then chucked everything else in there. Because you can turn a
 blog into *anything*.
 
-So after battling against my own desires, I settled down to keep the following
+So after battling against my own desires, I settled on to keep the following
 sections:
 
 * **Home page:** this would have an introduction, plus the most recent case

@@ -7,6 +7,7 @@ I'm proud of my reading list, and how it's improved over the years. I began read
 **2018**
 
 1. *The Story of a New Name*, Elena Ferrante
+1. *Steal Like an Artist*, Austin Kleon
 
 **2017**
 1. *The power of now*,	Eckhart Tolle

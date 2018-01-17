@@ -7,7 +7,7 @@ I’m a learner. Challenges help me thrive.
 
 After spending two years doing B2B Marketing at [Onfido](https://onfido.com/){:target="_blank"}, I made the decision to focus on how users experience a product rather than whether they will eventually buy it – or not. UX design is about understanding user and business needs in equal measure, and finding a middle-ground between the two.
 
-I enjoy solving problems and coming up with universal solutions that will stand the test of time and will make sense to as many users as possible.
+I enjoy solving problems and coming up with universal solutions that will stand the test of time and will make sense to as many users as possible. My design process is guided by a bit of user research, a pinch of common sense, a few [design heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/){:target="_blank"} and lots of testing and iterating.
 
 I thrive in environments that evolve and adapt quickly, and I’m not afraid to learn new things, start using new tools and take on board new projects – if anything, that makes me the happiest employee on Earth.
 

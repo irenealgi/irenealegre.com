@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "5 Things I Love about UX Design"
+title: "5 Things I Love About UX Design"
 ---
 
 ## The name

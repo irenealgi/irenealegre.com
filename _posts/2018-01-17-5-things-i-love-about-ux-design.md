@@ -3,7 +3,7 @@ layout: post
 title: "5 Things I Love about UX Design"
 ---
 
-### The name
+## The name
 
 Let's get back to the basics here. The very basics. UX Design is about designing *experiences*. Like when you go to IKEA and you can find all the things you want and you see all the products displayed beautifully, and you get so inspired, and then at some point you're feeling hungry and –bam!– there's the restaurant, and you come out of the store feeling that was an amazing experience. 
 
@@ -15,13 +15,13 @@ IKEA (the business) has acquired a new customer.
 
 It's a win-win! Kind of. 
 
-### The people
+## The people
 
 The people I interact with on a daily basis, the teams, colleagues, classmates. The energy, the appetite for learning, the tech industry, the meetups and blog posts and Youtube videos. 
 
 And then, the people I design for. The users, the ones who have a problem and are looking for a solution – not another problem. The people who are going to be interacting with the design, hopefully feeling great about the experience: good about themselves, smart, satisfied and grateful.
 
-### The process
+## The process
 
 I think of the UX process as a staircase; it's always the same, and you need it in order to move upwards. However, you can remove a step here or there, and you'll still get there – you just need to skip over the gaps. If you have too many gaps, however, you run the risk of sticking foot in there and not being able to take it out. 
 
@@ -35,7 +35,7 @@ The UX process is the same. You pick the steps that work best for your product, 
 
 The answer to all of these questions depends largely on the project itself, which is why I like the process so much: you grab the tools you need to do your job, you drop those you deem unnecessary for this particular project. And you make sure you don't leave so many gaps you won't be able to walk up your stair.
 
-### The tools
+## The tools
 
 Hello Sketch! Our love-hate relationship would make for a great romance novel. Here's the deal: you irritate me sometimes, but I still enjoy spending time with you. Even when you make it really hard to do something that in theory should be very simple. Even when I try to select *this* and you go and select *that*. Even when you crash on me, and yes that has happened, do not try to deny it or blame it on the laptop.
 
@@ -43,7 +43,7 @@ I like you because sometimes you pull really nice tricks, like that time you syn
 
 This is also a shout out to you, Photoshop – we've known each other for a while now, and the long-term acquaintance makes it easy for us to work easily together. We both know each other's strengths and shortcomings, and we can work around that. 
 
-### *That* smile
+## *That* smile
 
 Oh, dear, when something clicks in the mind of a user and the product fu**ing works. I smile, they smile, it's all super perfect. Except it never is perfect. That's why UX designers are obsessed with iteration, and all we do is iterate on that. 
 

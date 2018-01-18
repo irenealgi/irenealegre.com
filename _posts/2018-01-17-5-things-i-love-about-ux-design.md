@@ -23,7 +23,7 @@ And then, the people I design for. The users, the ones who have a problem and ar
 
 ## The process
 
-I think of the UX process as a staircase; it's always the same, and you need it in order to move upwards. However, you can remove a step here or there, and you'll still get there – you just need to skip over the gaps. If you have too many gaps, however, you run the risk of sticking foot in there and not being able to take it out. 
+I think of the UX process as a staircase; it's always the same, and you need it in order to move upwards. However, you can remove a step here or there, and you'll still get there – you just need to skip over the gaps. If you have too many gaps, however, you run the risk of sticking your foot in there and not being able to take it out. 
 
 The UX process is the same. You pick the steps that work best for your product, and as long as it takes you upwards you're going to be fine. 
 
@@ -33,13 +33,13 @@ The UX process is the same. You pick the steps that work best for your product, 
 * Is a paper prototype really necessary? 
 * Do we really need to go through several iterations of a mid-fidelity prototype, or can we jump straight into high-fidelity?
 
-The answer to all of these questions depends largely on the project itself, which is why I like the process so much: you grab the tools you need to do your job, you drop those you deem unnecessary for this particular project. And you make sure you don't leave so many gaps you won't be able to walk up your stair.
+The answer to all of these questions depends largely on the project itself, which is why I like the process so much: you grab the tools you need to do your job, you drop those you deem unnecessary for this particular project. And you make sure you don't leave so many gaps you won't be able to walk up your staircase.
 
 ## The tools
 
 Hello Sketch! Our love-hate relationship would make for a great romance novel. Here's the deal: you irritate me sometimes, but I still enjoy spending time with you. Even when you make it really hard to do something that in theory should be very simple. Even when I try to select *this* and you go and select *that*. Even when you crash on me, and yes that has happened, do not try to deny it or blame it on the laptop.
 
-I like you because sometimes you pull really nice tricks, like that time you synchronised my style guides and you made me smile. And yes, we all know I had to use a [plugin](https://www.youtube.com/watch?v=RRiPIjcmo48){:target="_blank"} to do that, but we all need some help from our friends sometimes, don't we? Oh, and you also make working with Invision a breeze to work with. Except for when you don't, of course. 
+I like you because sometimes you pull really nice tricks, like that time you synchronised my style guides and you made me smile. And yes, we all know I had to use a [plugin](https://www.youtube.com/watch?v=RRiPIjcmo48){:target="_blank"} to do that, but we all need a little help from our friends sometimes, don't we? Oh, and you also make working with Invision a breeze to work with. Except for when you don't, of course. 
 
 This is also a shout out to you, Photoshop – we've known each other for a while now, and the long-term acquaintance makes it easy for us to work easily together. We both know each other's strengths and shortcomings, and we can work around that. 
 

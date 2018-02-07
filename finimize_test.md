@@ -36,8 +36,8 @@ The dashboard will consist of the following:
 * A dynamic graph that updates constantly and has several views (e.g. yearly, weekly)
 * The same sections found in the Investment Screen, with the amount of money invested in each and whatever has been gained from it expressed in pounds and a percentage number.
 * A section that indicates the amount of money available for investment.
-* A clear CTA that takes the user to the Investment Screen, where they can invest more.
-* A secondary CTA that will allow users to retrieve money from their investments and move it back to Cash Savings
+* A clear CTA that takes the user to the Investment Screen, where they can invest more. I have chosen to keep the Investment Screen as the main screen for investing because it keeps the platform coherent and simplifies the process of investing.
+* A secondary CTA that will allow users to retrieve money from their investments and move it back to Cash Savings. This is important, as many users might change their mind and/or need the money for an emergency.
 
 
 ![](images/tests/finimize_welcome.png)
@@ -48,3 +48,4 @@ The dashboard will consist of the following:
 * I would be keen to have an educational/informative section. This could be achieved by making each investment section clickable so that we can take the user to a next screen where more information on the specific investment is showcased as well as an overview of its market status.
 * Another option for the educational piece could be to have a 'Financial News' section, such as what you have on your Newsletter, and have a link to it on the Welcome Screen.
 * It could also be interesting to have a "Recurrent Investment" option, so that the user can select that option and not have to think what to do each time, or even have it automated so that it happens without the user having to go on the site every month.
+* Finally, my main focus when designing this screen was to make it as easy as possible fo the user to save money and watch it grow. I would need feedback from users to better understand what their needs are, but from conversations with my partner who is into value investing I have decided this is what matters most.

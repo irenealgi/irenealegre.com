@@ -41,6 +41,7 @@ The dashboard will consist of the following:
 
 
 ![](images/tests/finimize_welcome.png)
+![](images/tests/welcome_screen_v2.png)
 
 
 ## Next Steps

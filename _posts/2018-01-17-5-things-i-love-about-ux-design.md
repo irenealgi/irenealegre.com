@@ -5,6 +5,12 @@ title: "5 Things I Love About UX Design"
 
 ## The name
 
+There are many things I love about working in UX, but some reasons are closer to your heart than others, mostly because they often bring pleasure to your day, challenge you in the best possible way and feel rewarding. 
+
+Here are the five things I love the most about UX Design.
+
+## The name
+
 Let's get back to the basics here. The very basics. UX Design is about designing *experiences*. Like when you go to IKEA and you can find all the things you want and you see all the products displayed beautifully, and you get so inspired, and then at some point you're feeling hungry and –bam!– there's the restaurant, and you come out of the store feeling that was an amazing experience. 
 
 Well, *that* amazing experience you had has been designed so that you feel great about buying furniture, and also so that you buy as much stuff as possible on top of what you actually needed when you first entered the store.

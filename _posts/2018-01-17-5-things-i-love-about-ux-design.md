@@ -3,7 +3,7 @@ layout: post
 title: "5 Things I Love About UX Design"
 ---
 
-## The name
+
 
 There are many things I love about working in UX, but some reasons are closer to your heart than others, mostly because they often bring pleasure to your day, challenge you in the best possible way and feel rewarding. 
 

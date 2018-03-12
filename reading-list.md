@@ -6,11 +6,17 @@ I'm proud of my reading list, and how it's improved over the years. I began read
 
 **2018**
 
-1. *The Story of a New Name*, Elena Ferrante
+1. *The Story of a New Name*, Elena Ferrante ⭐️ 
 1. *Steal Like an Artist*, Austin Kleon
 1. *Creative Confidence*, Tom & David Kelley
+1. *Start with why*, Simon Sinek ⭐️
+1. *Of Human Bondage*, W. Somerset Maugham ⭐️
+2. *The opposite of loneliness*, Marina Keegan
+2. *Atomic Design*, Brad Frost ⭐️
+3. *Impact Mapping*, Gojko Adzic
 
 **2017**
+
 1. *The power of now*,	Eckhart Tolle
 1. *The gifts of imperfection*,	René Brown
 1. *Feeling Good: The New Mood Therapy*,	David Burns
@@ -43,6 +49,7 @@ I'm proud of my reading list, and how it's improved over the years. I began read
 1. *It's Okay to Laugh*, Nora McInerny Purmort ⭐️
 
 **2016**
+
 1. *Winter*, Marissa Meyer
 1. *Pebbles of perception*, Laurence Endersen
 1. *The art of fiction*, David Lodge  ⭐️
@@ -72,6 +79,7 @@ I'm proud of my reading list, and how it's improved over the years. I began read
 1. *The Reader*,	Bernhard Schlink
 
 **2015**
+
 1. *The Miniaturist*, Jessie Burton
 1. *A Long Way Down*, Nick Hornby
 1. *Voyage in the Dark*, Jean Rhys
@@ -99,6 +107,7 @@ I'm proud of my reading list, and how it's improved over the years. I began read
 1. *On writing*, Stephen King ⭐️
 
 **2014**
+
 1. *We Need to Talk About Kevin*,	Lionel Shriver
 1. *Estupor y temblores*,	Amélie Nothomb
 1. *Miss Pettigrew Lives For A Day*,	Winifred Watson ⭐️
@@ -140,6 +149,7 @@ I'm proud of my reading list, and how it's improved over the years. I began read
 1. *Bound to secrecy*,	Vamba Sherif
 
 **2013**
+
 1. *The Perks of Being a Wallflower*, Stephen Chbosky ⭐️
 1. *The Handmaid's Tale*,	Margaret Atwood ⭐️
 1. *Apples*,	Richard Milward ⭐️
@@ -172,6 +182,7 @@ I'm proud of my reading list, and how it's improved over the years. I began read
 1. *The sorrows of an American*,	Siri Hustvedt
 
 **2012**
+
 1. *Vanity Fair*,	William Makepeace Thackeray ⭐️
 1. *The age of innocence*,	Edith Wharton
 1. *Cinder*,	Marissa Meyer

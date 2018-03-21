@@ -6,14 +6,16 @@ I'm proud of my reading list, and how it's improved over the years. I began read
 
 **2018**
 
-1. *The Story of a New Name*, Elena Ferrante ⭐️ 
+1. *The Story of a New Name*, Elena Ferrante ⭐️
 1. *Steal Like an Artist*, Austin Kleon
 1. *Creative Confidence*, Tom & David Kelley
 1. *Start with why*, Simon Sinek ⭐️
 1. *Of Human Bondage*, W. Somerset Maugham ⭐️
-2. *The opposite of loneliness*, Marina Keegan
 2. *Atomic Design*, Brad Frost ⭐️
 3. *Impact Mapping*, Gojko Adzic
+1. *Why Grow Up?: Subversive Thoughts for an Infantile Age*, Susan Neiman ⭐️
+1. *The problem that has no name*, Betty Friedan ⭐️
+1. *Seven Brief Lessons on Physics*, Carlo Rovelli ⭐️
 
 **2017**
 

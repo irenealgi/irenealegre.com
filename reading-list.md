@@ -16,6 +16,12 @@ I'm proud of my reading list, and how it's improved over the years. I began read
 1. *Why Grow Up?: Subversive Thoughts for an Infantile Age*, Susan Neiman ⭐️
 1. *The problem that has no name*, Betty Friedan ⭐️
 1. *Seven Brief Lessons on Physics*, Carlo Rovelli ⭐️
+2. *Mental Healers*, Stefan Zweig
+3. *Why Be Happy When You Could Be Normal?*, Jeanette Winterson
+4. *Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days*, Jake Knapp, John Zeratsky and Brad Kowitz
+5. *The Nature of Software Development*, Ron Jeffries
+6. *Little Women*, Louisa May Alcott
+7. *Good Wives*, Louisa May Alcott
 
 **2017**
 

@@ -22,6 +22,8 @@ I'm proud of my reading list, and how it's improved over the years. I began read
 5. *The Nature of Software Development*, Ron Jeffries ⭐️
 6. *Little Women*, Louisa May Alcott ⭐️
 7. *Good Wives*, Louisa May Alcott ⭐️
+8. *Messy: The Power of Disorder to Transform Our Lives*, Tim Harford ⭐️
+9. *100 Things Every Designer Needs to Know about People*, Susan M. Weinschenk ⭐️
 
 **2017**
 

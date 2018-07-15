@@ -25,7 +25,7 @@ I'm proud of my reading list, and how it's improved over the years. I began read
 8. *Messy: The Power of Disorder to Transform Our Lives*, Tim Harford ⭐️
 9. *100 Things Every Designer Needs to Know about People*, Susan M. Weinschenk ⭐️
 10. *Design Systems: A practical guide to creating design languages for digital products*, Alla Kholmatova ⭐️
-11. *Travels with Charley: In Search of America*, John Steinbeck
+11. *Travels with Charley: In Search of America*, John Steinbeck ⭐️
 12. *Stuart: A Life Backwards*, Alexander Masters ⭐️
 13. *Montaigne*, Stefan Zweig ⭐️
 14. *The Artist's Way*, Julia Cameron

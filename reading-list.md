@@ -18,7 +18,7 @@ I'm proud of my reading list, and how it's improved over the years. I began read
 1. *Seven Brief Lessons on Physics*, Carlo Rovelli ⭐️
 2. *Mental Healers*, Stefan Zweig ⭐️
 3. *Why Be Happy When You Could Be Normal?*, Jeanette Winterson ⭐️
-4. *Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days*, Jake Knapp, John Zeratsky and Brad Kowitz 
+4. *Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days*, Jake Knapp, John Zeratsky and Brad Kowitz
 5. *The Nature of Software Development*, Ron Jeffries ⭐️
 6. *Little Women*, Louisa May Alcott ⭐️
 7. *Good Wives*, Louisa May Alcott ⭐️
@@ -29,6 +29,13 @@ I'm proud of my reading list, and how it's improved over the years. I began read
 12. *Stuart: A Life Backwards*, Alexander Masters ⭐️
 13. *Montaigne*, Stefan Zweig ⭐️
 14. *The Artist's Way*, Julia Cameron
+15. *Hormonal*, Martie Haselton
+16. *12 Rules for Life: An Antidote to Chaos*, Jordan B. Peterson
+17. *Notes on a Nervous Planet*, Matt Haig
+18. *Those Who Leave and Those Who Stay (The Neapolitan Novels, #3)*, Elena Ferrante
+19. *The Story of the Lost Child (The Neapolitan Novels, #4)*, Elena Ferrante
+20. *Articulating Design Decisions: Communicate with Stakeholders, Keep Your Sanity, and Deliver the Best User Experience*, Tom Greever
+21. *Digital Color And Type*, Rob Carter
 
 **2017**
 

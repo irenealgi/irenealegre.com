@@ -10,7 +10,7 @@ title: "Nuffield Health: Improving Your Lifestyle Choices, One Habit at a Time (
 * **Duration:** 2 weeks
 * **Tools:** Pen and paper, Sketch, White walls, Invision, Marvel
 * **Processes:** User interviews, user testing, branding, design studio, sketching, prototyping, persona creation, user flows, experience mapping
-* [**Link to final prototype**](https://invis.io/KUE9O9534){:target="_blank"}
+* [**Link to final prototype**](https://invis.io/YNONTVVGRFZ#/326463901_1){:target="_blank"}
 
 ![](images/case_studies/nuffield_health/final_design.png)
 

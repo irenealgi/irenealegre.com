@@ -8,7 +8,6 @@ title: "UX Project: Re-designing Chippin’s user flow"
 * **Duration:** 2 weeks
 * **Tools:** Pen and paper, Omnigraffle, Sketch, White walls, Invision
 * **Methodologies:** User interviews, user testing, branding, design studio, sketching, prototyping, persona creation, user flows
-* [**View the clickable prototype**](https://invis.io/E5EKP2MZ3#/265872443_Desktop){:target="_blank"}
 
 ![](images/case_studies/chippin/welcome_page.png)
 

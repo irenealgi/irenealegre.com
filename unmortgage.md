@@ -9,7 +9,6 @@ title: "Unmortgage: Managing Your Account"
 * **Duration:** 3 days
 * **Tools:** Pen and paper, Sketch, Whimsical, Figma
 * **Processes:** User testing, mind-mapping, sketching, prototyping
-* [**Link to final prototype**](https://www.figma.com/proto/CYKYwJfTWAWEZSxqyns4X7rc/Unmortgage?node-id=1%3A15&viewport=-34%2C399%2C0.0665196&scaling=min-zoom){:target="_blank"} 
 
 
 > “For people who can afford to rent, but want to own, enjoy the benefits of home ownership with as little as a 5% deposit.

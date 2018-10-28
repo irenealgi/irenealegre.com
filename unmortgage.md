@@ -15,7 +15,7 @@ title: "Unmortgage: Managing Your Account"
 > “For people who can afford to rent, but want to own, enjoy the benefits of home ownership with as little as a 5% deposit.
 Unmortgage allows you to part own, part rent your dream home.”
 
-Unmortgage is a new startup challenging the mortgage industry, and their concept is simple: you start by owning 5% of your home and an investment company takes responsibility for the remaining 95%, on which you pay a monthly rent. As you continue to buy more of your property, your ownership will increase while your rent will decrease.
+[Unmortgage](https://unmortgage.com/){:target="_blank"} is a new startup challenging the mortgage industry, and their concept is simple: you start by owning 5% of your home and an investment company takes responsibility for the remaining 95%, on which you pay a monthly rent. As you continue to buy more of your property, your ownership will increase while your rent will decrease.
 
 ## The Brief: Focusing on the Living Experience
 

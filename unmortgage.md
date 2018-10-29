@@ -54,7 +54,7 @@ What can I say, this makes me really happy. Maybe I'm weird, who knows. Also, th
 
 Given the scope of the brief, I found myself having to think carefully about how all the screens, functionalities and sections would be distributed.
 
-I opted for a two-level navigation, [similar to what Giffgaff do](images/case_studies/unmortgage/Giffgaff.png){:target="_blank"}, but I would require some user tesing to make sure this navigation would make sense to a variety of users.
+I opted for a two-level navigation, [similar to what Giffgaff do](images/case_studies/unmortgage/Giffgaff.png){:target="_blank"}, but I would require some user tesing to make sure this navigation makes sense to a variety of users.
 
 ![](images/case_studies/unmortgage/Site map.png)
 
@@ -78,7 +78,7 @@ I solved this by displaying the next payment date.
 
 #### Last payment and calculation breakdown
 
-I merged these two together and created a style for "History Pages", as I knew I would need it for other sections as well.
+I merged these two together and created a component for "History Pages", as I knew I would need it for other sections as well.
 
 Here, you can see your latest payment as well as all other payments. Since my proposal displays Staircasing, Rent and Maintenance separately (even if paid in bulk), having a calculation breakdown ceased to be important.
 
@@ -90,7 +90,7 @@ The following screen does not enable you to calculate your next payment necessar
 
 ![](images/case_studies/unmortgage/Rent calculator.png)
 
-On a second thought, I could also try have the calculator within the page to make it more accessible and prompt the user to play with it.
+On a second thought, I could also try to have the calculator within the page to make it more accessible and prompt the user to play with it.
 
 ![](images/case_studies/unmortgage/Rent calculator (alt).png)
 
@@ -98,7 +98,7 @@ On a second thought, I could also try have the calculator within the page to mak
 ## Increasing My Ownership
 
 - The current ownership level (starts out with a minimum of 5%)
-- Property valuation (This happens 4 times a year)
+- Property valuation (this happens 4 times a year)
 - Property valuation history
 - If I want to make one-off staircasing payment
 - Or arrange regular staircasing payment
@@ -121,9 +121,9 @@ Both options are accessible through the Staircasing Screen. If you want to contr
 
 ![](images/case_studies/unmortgage/Contribute towards ownership (mid).png)
 
-The tricky bit comes when the user wants to set up a recurring payment *because* they can't exceed the 5% annual contribution allowance. This meant that it had to be very clear what happened to the money once the 5% limit was reached. 
+The tricky bit comes when the user wants to set up a recurring payment *because* they can't exceed the 5% annual contribution allowance. This meant that it had to be very clear what happens to the money once the 5% limit is reached. 
 
-On top of that, I also thought I'd be important that the user could choose how often they would like to make the payment, and what the amount would be. The form will also translate the amount into an ownership percentage based on the number of annual instalments.
+On top of that, I also thought it'd be important that the user could choose how often they would like to make the payment, and what the amount would be. The form will also translate the amount into an ownership percentage based on the number of annual instalments.
 
 ![](images/case_studies/unmortgage/Staircasing form (mid).png)
 
@@ -150,9 +150,9 @@ Finally, I kept the Documentation screen separate from everything else and as si
 
 ## The Visuals
 
-Using Unmortgage's color palette and a font that looks similar to theirs, I designed the high-fidelity visuals for three of the screens presented above. 
+Using Unmortgage's colour palette and a font that looks similar to theirs, I designed the high-fidelity visuals for three of the screens presented above. 
 
-Because this is a site users are going to come back to over and over in order to pay their rent or contribute to the ownership of their property, I decided to combine into a subdued style with a lot of white space and pastel shades.
+Because this is a site users are going to come back to over and over in order to pay their rent or contribute to the ownership of their property, I decided to combine the colours into a subdued palette with a lot of white space and pastel shades.
 
 ![](images/case_studies/unmortgage/Valuation History (evolution).png)
 ![](images/case_studies/unmortgage/Ownership form (evolution).png)

@@ -11,6 +11,7 @@ I'm proud of my reading list, and how it's improved over the years. I began read
 1. *Creative Confidence*, Tom & David Kelley
 1. *Start with why*, Simon Sinek ⭐️
 1. *Of Human Bondage*, W. Somerset Maugham ⭐️
+2. *The opposite of loneliness*, Martina Keegan
 2. *Atomic Design*, Brad Frost ⭐️
 3. *Impact Mapping*, Gojko Adzic
 1. *Why Grow Up?: Subversive Thoughts for an Infantile Age*, Susan Neiman ⭐️
@@ -30,13 +31,17 @@ I'm proud of my reading list, and how it's improved over the years. I began read
 13. *Montaigne*, Stefan Zweig ⭐️
 14. *The Artist's Way*, Julia Cameron
 15. *Hormonal*, Martie Haselton
-16. *12 Rules for Life: An Antidote to Chaos*, Jordan B. Peterson
-17. *Notes on a Nervous Planet*, Matt Haig
+16. *12 Rules for Life: An Antidote to Chaos*, Jordan B. Peterson ⭐️
+17. *Notes on a Nervous Planet*, Matt Haig ⭐️
 18. *Those Who Leave and Those Who Stay (The Neapolitan Novels, #3)*, Elena Ferrante
-19. *The Story of the Lost Child (The Neapolitan Novels, #4)*, Elena Ferrante
+19. *The Story of the Lost Child (The Neapolitan Novels, #4)*, Elena Ferrante ⭐️
 20. *Articulating Design Decisions: Communicate with Stakeholders, Keep Your Sanity, and Deliver the Best User Experience*, Tom Greever
-21. *Digital Color And Type*, Rob Carter
+21. *He comes next*, Ian Kerner
+21. *Digital Color And Type*, Rob Carter ⭐️
 22. *Sketching User Experiences: The Workbook*, Bill Buxton,  Saul Greenberg, Sheelagh Carpendale, Nicolai Marquardt
+23. *The Vignelli Canon*, Massimo Vignelli ⭐️ 
+24. *Radical Candor*, Kim Malone Scott
+25. *Designing with the Mind in Mind: Simple Guide to Understanding User Interface Design Rules*, Jeff Johnson ⭐️
 
 **2017**
 

@@ -51,8 +51,8 @@ They will also be working on Suzanne's mental health, as she's been quite stress
 
 After a lot of [thinking, creating user personas, storyboarding, sketching and just – well – doodling](https://drive.google.com/open?id=1i1agdQ3ebcL3ua5rXugp5XGRDEZQ1g7c){:target="_blank"}, I came up with the following user flows for the desktop web app (Rosie the GP) and the mobile app (Suzanne the patient).
 
-![](images/case_studies/healum/Flowcharts/Rosie Flowchart.png)
-![](images/case_studies/healum/Flowcharts/Suzanne Flowchart.png)
+![](images/case_studies/healum/flowcharts/Rosie Flowchart.png)
+![](images/case_studies/healum/flowcharts/Suzanne Flowchart.png)
 
 Basically, Rosie is in charge of creating the plan while Suzanne can *only* review the plan, follow the instructions and check-in every time she completes a meal or exercise.
 
@@ -69,28 +69,28 @@ When the time came to work on the visuals, I realised there were a lot of things
 #### Food recipe (database) filter
 This one is quite faithful to its [original wireframe](https://drive.google.com/open?id=19HwhkVuw7hhX5L2eWA5Zl6nb5hZBsvq7){:target="_blank"}. This screen is inspired by [LEON's menu](https://leon.co/menu/all-day/){:target="_blank"}, which proposes a set of filters that reduce your list of items until you are left with the ones most suitable for you (or your patient). I changed the filters to fit the requirements of a doctor looking to improve their patient's health and body weight.
 
-![](images/case_studies/healum/Desktop/Filter.png)
+![](images/case_studies/healum/desktop/Filter.png)
 
 
 #### Patient profile
 There is no wireframe for this screen, as while working on the final prototype I realised this page was very much needed. This screen functions as a "Patient Profile", where the doctor can see any previous reports (not in the example), medication the patient is on and latest test results, as well as the healthcare plan the patient is on (which is also created through this page).
 
-![](images/case_studies/healum/Desktop/Patient Profile.png)
+![](images/case_studies/healum/desktop/Patient Profile.png)
 
 #### Health plan screen
 This screen deviates slightly from its [original version](https://drive.google.com/open?id=1db1HP7O4L_l6Eq3qkRzEsQ8Np0YslShr){:target="_blank"}, but not that much. In here, Rosie can find all of Suzanne's goals for the next week (or whatever period of time), as well as see how many of these have been accomplished already (and how many times). It mirrors the mobile app's welcome screen.
 
-![](images/case_studies/healum/Desktop/Suzanne's plan.png)
+![](images/case_studies/healum/desktop/Suzanne's plan.png)
 
 ### Mobile app
 
 #### Welcome screen, filter and Food recipes screen
 
-![](images/case_studies/healum/Mobile/Mobile Mockups 1.png)
+![](images/case_studies/healum/mobile/Mobile Mockups 1.png)
 
 #### Food recipes screen, Check-in screen and Food recipe screen
 
-![](images/case_studies/healum/Mobile/Mobile Mockups 2.png)
+![](images/case_studies/healum/mobile/Mobile Mockups 2.png)
 
 ## Conclusions
 

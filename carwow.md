@@ -44,13 +44,7 @@ The new Pricing Page takes the shape of a table that lists all models and all de
 
 ### Conclusions
 
-This project required a massive team effort, as it grew in complexity the more in depth we went, and the following people where also involved in the design process:
-
-- Chris Manning and Seb Margolis – Product Managers
-- Amardeep Rai and Brent Palmer – Product Designers
-- Kate Sims – User Researcher
-- Luke Williams, Emiliano Mancuso, Stephen Lloyd, Jade Dickinson and Christian Gregg – Software Engineers
-- Tilly Smallwood and Will Jackson – Partnership Team
+This project required a massive team effort, as it grew in complexity the more in depth we went.
 
 **Who knew something so simple could turn into something so complicated?** 
 

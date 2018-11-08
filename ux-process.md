@@ -11,9 +11,9 @@ You know how there are several schools of psychotherapy, like CBT, talk therapy,
 
 Well, **that's what my process is like**. It's a combination of tools, concepts and systems that I've been collecting for the past year from books, conferences, blogs, youtuber-designers, colleagues and – well – just plain old work experience. **And I don't necessarily use them all every time I approach a new design problem.**
 
-Sometimes a change is so small it doesn't need further user testing – sometimes repeated complaints from current users are enough to go on (speak to the Customer Support team, they *really* know what's out there). Sometimes you finding out that something in the flow doesn't even – uh – make sense to yourself (the original designer!) might be enough to just go fix that before users figure out who you are and start making voodo dolls with your face on them. 
+Sometimes a problem is so small it doesn't need further user testing – sometimes repeated complaints from current users are enough to go on (speak to the Customer Support team, they *really* know what's out there). Sometimes you finding out that something in the flow doesn't even – uh – make sense to yourself (the original designer!) might be enough to just go fix that before users figure out who you are and start making voodo dolls with your face on them. 
 
-Sometimes, however, a change is so big that it requires a lot of thinking and discussing *before* you even go into it. A rule of thumb is that if it's going to take a long time to design and build, you might as well take just as much time getting the problem, specs, research and potential solutions right *first*. In that case, I'm fully on board with getting the post-its, the white walls, the markers and the people into one room and going through a full-on [Design Sprint](https://www.goodreads.com/book/show/25814544-sprint){:target="_blank"}.
+Sometimes, however, a problem is so big that it requires a lot of thinking and discussing *before* you even go into it. A rule of thumb is that if it's going to take a long time to design and build, you might as well take just as much time getting the problem, specs, research and potential solutions right *first*. In that case, I'm fully on board with getting the post-its, the white walls, the markers and the people into one room and going through a full-on [Design Sprint](https://www.goodreads.com/book/show/25814544-sprint){:target="_blank"}.
 
 Here are some of the things I like to do as part of my UX Process.
 
@@ -33,7 +33,7 @@ And if the product is a brand new concept no one's ever heard of, congrats on yo
 
 ## User personas and flows
 
-This stage of the UX process really pleases the fiction writer in me because I can start to make up stories for user personas. For instance, this is me working on a user persona for a young-ish NHS patient who is very overweight and needs to bring their BMI down:
+This stage of the UX process really pleases the fiction writer in me because I can start to make up stories for user personas. For instance, this is me working on a user persona for a young-ish NHS patient who is very overweight and needs to bring their weight down:
 
 > Suzanne is particularly motivated to change, as she’s struggling to keep up with her fiance’s fitness levels, and last time they went trekking she had to quit the trip mid-way and get a bus. She also loves dancing, and would like to dance at her wedding without getting tired – she’s getting married in six months! The plan is to get her down to 65-70 kg by the end of the year.
 
@@ -44,7 +44,7 @@ After having a user persona in place, it's time to work out the current flow –
 ### User flows
 User flows don't necessarily represent everything that happens online. In fact, user flows are meant to represent everything that happens from the moment Suzanne realises she's too overweight to the moment she feels super happy she's lost those 15kg. Is all of that going to happen within the realm of the product? Heck no! But Suzanne going to spinning classes and cooking yummy broccoli recipes will also be part of the user flow. 
 
-My **user flows also involve storyboarding**, because I'm terrible at drawing but *that* I can do, and I enjoy it. 
+My **user flows also involve storyboarding**, because I enjoy drawing cute comic strips with characters (I mean, users). 
 
 ### Wireflows or screen flows
 Now, this is when I start doing diagrams. I know, they are not as exciting as sketches or wireframes, but this is just what I do. 

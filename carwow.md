@@ -14,6 +14,8 @@ title: "Designing the new Pricing Page for carwow's Dealer Dashboard"
 
 The current Pricing Page allows dealers to view a list of the models they are already selling and the discount (pricing) they are selling them at. It also gives them an overview of the market by displaying the average and maximum discount for that car (on carwow).
 
+![](images/case_studies/carwow/old_design.png)
+
 Because it's display only, in order to make changes to their pricing dealers have to contact carwow's HQ and speak to their Partnership Manager. This involves dealers having to create a separate spreadsheet with all their pricing changes for models and derivatives, sending that across to their PM and then having the PM manually input the data and make the changes. 
 
 It's an inefficient system that relies heavily on carwow's workforce doing admin work and prevents dealers from taking full ownership of their carwow account.

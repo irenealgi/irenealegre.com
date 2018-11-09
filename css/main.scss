@@ -18,12 +18,12 @@ $accent_color: #F93457;
 #navigation {
   position: absolute;
   margin-top: 25px;
-  right: 15px;
+  right: 30px;
   z-index: 1000;
 }
 
 .navigation_item {
-  margin: 20px;
+  margin: 25px;
 
   > a {
     font-family: $sans_serif_font_family;

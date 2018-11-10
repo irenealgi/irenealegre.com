@@ -8,7 +8,7 @@ As part of a plan to improve on my UI skills, I have decided to go through the [
 #### Day 03 | Landing page | 50 mins
 Very simple landing page for a social network for female travelers looking for companionship during their time abroad. There's not much to it, but LOVED the image, so – yeah. 
 
-![](images/case_studies/30_days_challenge/day_3.png)
+![](images/case_studies/30_days_challenge/day_3.gif)
 
 
 #### Day 02 | Credit card checkout | 3-4 hrs

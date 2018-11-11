@@ -17,7 +17,7 @@ Checkout page for an independent e-commerce business selling clothes. The design
 
 
 #### Day 01 | Sign up screen | 2-3 hrs
-Sign in screen for an app targeted at bycicle riders wanting to find their way around a specific city. Like Citymapper, but for bikes. The idea comes from a particular problem I often face when trying to find my way around London.
+Sign in screen for an app targeted at bicycle riders wanting to find their way around a specific city. Like Citymapper, but for bikes. The idea comes from a particular problem I often face when trying to find my way around London.
 
 This sign in screen assumes the user already has an account.
 ![](images/case_studies/30_days_challenge/Day_1.png)

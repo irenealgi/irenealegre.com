@@ -5,8 +5,15 @@ title: "100 Days of UI"
 
 As part of a plan to improve on my UI skills, I have decided to go through the [100 Days of UI](http://www.dailyui.co/){:target="_blank"} challenge.
 
+#### Day 04 | Calculator | 1 hr
+
+Super simple re-design of a calculator. Tried to find some inspo but couldn't find anything exciting AND functional at the same time, so ended up going with a ready-tested design of a calculator app for iPhone.
+
+![](images/case_studies/30_days_challenge/day_4.png)
+
+
 #### Day 03 | Landing page | 50 mins
-Very simple landing page for a social network for female travelers looking for companionship during their time abroad. There's not much to it, but LOVED the image, so – yeah. 
+Very simple landing page for a social network for female travelers looking for companionship during their time abroad. I loved the image, and also spent some time figuring out how to do animations on Sketch using the Timeline plugin :)
 
 ![](images/case_studies/30_days_challenge/day_3.gif)
 

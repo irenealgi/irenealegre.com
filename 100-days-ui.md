@@ -5,6 +5,16 @@ title: "100 Days of UI"
 
 As part of a plan to improve on my UI skills, I have decided to go through the [100 Days of UI](http://www.dailyui.co/){:target="_blank"} challenge.
 
+#### Day 07 | Settings Screen | 1 hr 30 mins
+
+I spent more time working this one out and thinking what app I'd be designing settings for and what settings would be included rather than on the actual UI. 
+
+I also looked at other apps on my phone to understand behaviour and information architecture, especially in how they split Push and Email notifications. I found inspiration in Strava's settings screen in particular.
+
+This is a Settings Screen for the same app I worked on for Day 06.
+
+![](images/case_studies/30_days_challenge/day_7.png)
+
 #### Day 06 | User profile | 3hrs
 
 User profile for an app where photographers, models, MUAs and other artists can connect and schedule photoshoots.

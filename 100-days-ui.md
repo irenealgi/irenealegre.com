@@ -5,6 +5,22 @@ title: "100 Days of UI"
 
 As part of a plan to improve on my UI skills, I have decided to go through the [100 Days of UI](http://www.dailyui.co/){:target="_blank"} challenge.
 
+#### Day 09 | Music player | 3 hrs
+
+Very simple design for a music player, using shadows to add some texture and a white, minimalist background.
+
+The background would change colour depending on the colour scheme of the record cover.
+
+![](images/case_studies/30_days_challenge/day_9.png)
+
+#### Day 08 | 404 error page | 2 hrs
+
+I had an idea of having an 404 error page with a list of random things to do (to draw that smile on their faces) and a maze they could complete containing the numbers "404".
+
+I'll be honest, I don't love this, but that's the best I've been able to do so far. Might revisit this one in the future.
+
+![](images/case_studies/30_days_challenge/day_8.png)
+
 #### Day 07 | Settings Screen | 1 hr 30 mins
 
 I spent more time working this one out and thinking what app I'd be designing settings for and what settings would be included rather than on the actual UI. 

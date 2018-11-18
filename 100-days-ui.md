@@ -5,6 +5,12 @@ title: "100 Days of UI"
 
 As part of a plan to improve on my UI skills, I have decided to go through the [100 Days of UI](http://www.dailyui.co/){:target="_blank"} challenge.
 
+#### Day 10 | Social Media Share | 2 hrs
+
+Sharing buttons for Instagram – whatsapp, Twitter and Facebook. I turned it into an animation to continue working on that.
+
+![](images/case_studies/30_days_challenge/day_10.gif)
+
 #### Day 09 | Music player | 3 hrs
 
 Very simple design for a music player, using shadows to add some texture and a white, minimalist background.

@@ -3,7 +3,15 @@ layout: post
 title: "100 Days of UI"
 ---
 
+
+
 As part of a plan to improve on my UI skills, I have decided to go through the [100 Days of UI](http://www.dailyui.co/){:target="_blank"} challenge.
+
+#### Day 11 | Flash messages | 2 hrs
+
+Adorable vectors by [Drawnhy97](https://www.freepik.com/free-vector/coloured-girl-avatars_872952.htm){:target="_blank"} to inform a user when they've gotten some German words right – or when they haven't. 
+
+![](images/case_studies/30_days_challenge/day_11.png)
 
 #### Day 10 | Social Media Share | 2 hrs
 

@@ -7,6 +7,14 @@ title: "100 Days of UI"
 
 As part of a plan to improve on my UI skills, I have decided to go through the [100 Days of UI](http://www.dailyui.co/){:target="_blank"} challenge.
 
+#### Day 13 | Direct Messaging | 3-4 hrs
+
+Design for an app that enables users to contact different therapists and other specialists depending on their needs. Specialists hide behind the owl names to make it a smoother process.
+
+Note: this is not a long-term therapy service, but rather serves the same purpose of a hotline.
+
+![](images/case_studies/30_days_challenge/day_13.png)
+
 #### Day 12 | Single Product Page | 3-4 hrs
 
 Two versions for the same product: a pair of patterned Doc Martens boots.

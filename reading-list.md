@@ -42,6 +42,12 @@ I'm proud of my reading list, and how it's improved over the years. I began read
 23. *The Vignelli Canon*, Massimo Vignelli ⭐️ 
 24. *Radical Candor*, Kim Malone Scott
 25. *Designing with the Mind in Mind: Simple Guide to Understanding User Interface Design Rules*, Jeff Johnson ⭐️
+26. *The Queen's Gambit*, Walter Tevis
+27. *Olivia*, Dorothy Strachey
+28. *Design as Art*, Bruno Munari ⭐️
+29. *Lucy Gayheart*, Willa Cather
+30. *It Doesn't Have to Be Crazy at Work*, Jason Fried ⭐️
+31. *The Subtle Art of Not Giving a Fxck: A Counterintuitive Approach to Living a Good Life*, Mark Manson ⭐️
 
 **2017**
 

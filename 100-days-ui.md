@@ -7,6 +7,25 @@ title: "100 Days of UI"
 
 As part of a plan to improve on my UI skills, I have decided to go through the [100 Days of UI](http://www.dailyui.co/){:target="_blank"} challenge.
 
+#### Day 15 | Switch | 15 mins
+
+Very quick and simple design for a switch that enables the user to water the plants automatically as and when it's needed.
+
+![](images/case_studies/30_days_challenge/day_15.png)
+
+
+
+#### Day 14 | Countdown Timer | 1-2 hrs
+
+So I've been sitting on this one for weeks, mostly because I have just started a new job and blablabla. I did the sketching a week ago, and finally sat down to turn it into a mockup.
+
+And I actually don't hate it! It's a chess clock. I checked the App Store for inspiration and I couldn't find anything inspiring, so here's my take on this.
+
+I might review this one in the future, but for the time being – let's get this going.
+
+![](images/case_studies/30_days_challenge/day_14.png)
+
+
 #### Day 13 | Direct Messaging | 3-4 hrs
 
 Design for an app that enables users to contact different therapists and other specialists depending on their needs. Specialists hide behind the owl names to make it a smoother process.

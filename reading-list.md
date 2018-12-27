@@ -4,7 +4,7 @@ title: "Reading List"
 ---
 2018 has been my best reading year so far; I have also delved deeply into non-fiction and design books while becoming very picky with any fiction books I did commit to reading.
 
-It's interesting to see how my interests have both changed and expanded throughout the years, and especially in 2018. As a fiction reader I was already quite eclectic and never read solely within a niche, but I'd have never thought I would be swapping fiction for biographies, essays, books about design and – most surprising of all – self-help books. 
+It's interesting to see how my curiosity has both changed and expanded throughout the years, and especially in 2018. As a fiction reader I was already quite eclectic and never read solely within a niche, but I'd have never thought I would be swapping fiction for biographies, essays, books about design and – most surprising of all – self-help books. 
 
 I've found myself reading travel literature by Steinbeck, biographies by Zweig, books about sex and hormonal changes and a colourful array of books on intentional living. 
 
@@ -12,11 +12,11 @@ And then, of course, there have been the essays on art and design, technical boo
 
 As for fiction, I've discovered the little gem that is _Good Wives_, finished the _Neapolitan Novels_ by Elena Ferrante (which was really satisfying) and did not fall in love with Maugham, which was surprising.
 
-I started off the year with a list of books I wanted to read – and never got around to actually reading. I don't think I'll try to do this in 2019 – it didn't work for me. There's just too much I want to read, and I'm an impulsive reader.  
+I started off the year with a list of books I wanted to read – and never got around to actually reading. I don't think I'll try to do this in 2019 – it didn't work for me. There's just too much I want to read, and I'm an impulsive reader at heart, so in 2019 I plan to be an even more eclectic reader, expanding my horizons in all directions, as valuable knowledge can come from any source.  
 
-##2018 (45)
+## 2018 (45)
 
-####Fiction (9)
+#### Fiction (9)
 
 1. *The Story of a New Name*, Elena Ferrante ⭐️
 2. *Of Human Bondage*, W. Somerset Maugham ⭐️
@@ -29,7 +29,7 @@ I started off the year with a list of books I wanted to read – and never got a
 28. *Lucy Gayheart*, Willa Cather
 
 
-####Design (14)
+#### Design (14)
 
 1. *Steal Like an Artist*, Austin Kleon
 1. *Creative Confidence*, Tom & David Kelley
@@ -46,19 +46,19 @@ I started off the year with a list of books I wanted to read – and never got a
 24. *Designing with the Mind in Mind: Simple Guide to Understanding User Interface Design Rules*, Jeff Johnson ⭐️
 25. *Design as Art*, Bruno Munari ⭐️
 
-####About Work (3)
+#### About Work (3)
 
 1. *Start with why*, Simon Sinek ⭐️
 2. *Radical Candor*, Kim Malone Scott
-3. *It Doesn't Have to Be Crazy at Work*, Jason Fried and Heinemeier Hansson ⭐️
+3. *It Doesn't Have to Be Crazy at Work*, J. Fried and H. Hansson ⭐️
 
-####Commercial Nonfiction (3)
+#### Commercial Nonfiction (3)
 
 1. *Seven Brief Lessons on Physics*, Carlo Rovelli ⭐️
 1. *Hormonal*, Martie Haselton
 2. *Factfulness: Ten Reasons We're Wrong About the World – and Why Things Are Better Than You Think*, Rosling, Hans ⭐️
 
-####Essays, Biographies and Misc. (8)
+#### Essays, Biographies and Misc. (8)
 
 1. *The opposite of loneliness*, Martina Keegan
 2. *Why Grow Up?: Subversive Thoughts for an Infantile Age*, Susan Neiman ⭐️
@@ -69,7 +69,7 @@ I started off the year with a list of books I wanted to read – and never got a
 7. *Stuart: A Life Backwards*, Alexander Masters ⭐️
 13. *Montaigne*, Stefan Zweig ⭐️
 
-####Self-improvement and Personal Growth (8)
+#### Self-improvement and Personal Growth (8)
 
 1. *Messy: The Power of Disorder to Transform Our Lives*, Tim Harford ⭐️
 2. *The Artist's Way*, Julia Cameron
@@ -81,9 +81,9 @@ I started off the year with a list of books I wanted to read – and never got a
 8. *Reasons to Stay Alive*, Matt Haig ⭐️
 
 
-##2017 (30)
+## 2017 (30)
 
-####Fiction (6)
+#### Fiction (6)
 
 1. *Assassin's Apprentice*, Robin Hobbs
 2. *Nina is Not OK*, Shappi Khorsandi
@@ -92,7 +92,7 @@ I started off the year with a list of books I wanted to read – and never got a
 5. *The Woman in White*, Wilkie Collins
 1. *My Brilliant Friend (L'amica geniale, #1)*, Elena Ferrante ⭐️
 
-####Self-improvement and Personal Growth (11)
+#### Self-improvement and Personal Growth (11)
 1. *The power of now*,	Eckhart Tolle
 1. *The gifts of imperfection*,	René Brown
 2. *Feeling Good: The New Mood Therapy*,	David Burns
@@ -105,7 +105,7 @@ I started off the year with a list of books I wanted to read – and never got a
 7. *Come as You Are: The Surprising New Science that Will Transform Your Sex Life*, Emily Nagoski ⭐️
 8. *The Power of Habit: Why We Do What We Do in Life and Business*, Charles Duhigg ⭐️
 
-####Design (6)
+#### Design (6)
 
 1. *Emotional Design: Why We Love (or Hate) Everyday Things*, Donald A. Norman
 1. *101 Things I Learned in Architecture School*, Matthew Frederick
@@ -114,7 +114,7 @@ I started off the year with a list of books I wanted to read – and never got a
 1. *Search Patterns: Design for Discovery*, Peter Morville
 1. *The Sketchnote Handbook: The Illustrated Guide to Visual Note Taking*, Mike Rohde ⭐️
 
-####Essays, Biographies and Misc. (6)
+#### Essays, Biographies and Misc. (6)
 
 1. *The World of Yesterday*, Stefan Zweig ⭐️
 2. *But You Did Not Come Back*, Marceline Loridan-Ivens
@@ -123,14 +123,14 @@ I started off the year with a list of books I wanted to read – and never got a
 5. *Siddhartha*, Hermann Hesse ⭐️
 1. *It's Okay to Laugh*, Nora McInerny Purmort ⭐️
 
-####About Work (1)
+#### About Work (1)
 
 1. *Poke the Box*, Seth Godin
 
 
-##2016 (27)
+## 2016 (27)
 
-####Fiction (15)
+#### Fiction (15)
 
 1. *Winter*, Marissa Meyer
 2. *Brideshead Revisited*, Evelyn Waugh ⭐️
@@ -148,7 +148,7 @@ I started off the year with a list of books I wanted to read – and never got a
 1. *A little life*,	Hanya Yanagihara ⭐️
 2. *The Reader*,	Bernhard Schlink
 
-####Essays, Biographies and Misc. (5)
+#### Essays, Biographies and Misc. (5)
 
 1. *Pebbles of perception*, Laurence Endersen
 1. *The art of fiction*, David Lodge  ⭐️
@@ -156,7 +156,7 @@ I started off the year with a list of books I wanted to read – and never got a
 3. *The News*, Alain de Botton
 4. *Time in Fiction*
 
-####Self-improvement and Personal Growth (5)
+#### Self-improvement and Personal Growth (5)
 
 1. *To sell is human*, Daniel H. Pink
 1. *Write*, The Guardian
@@ -164,13 +164,13 @@ I started off the year with a list of books I wanted to read – and never got a
 3. *Zero degrees of empathy*, Simon Baron-Cohen
 4. *Growth Hacker*,	Ryan Holiday
 
-####Commercial Nonfiction (2)
+#### Commercial Nonfiction (2)
 
 1. *Sapiens: A Brief History of Humankind*, Yuval Noah Harari ⭐️
 2. *Thinking fast and slow*,	Daniel Kahneman ⭐️
 
 
-##2015 (25)
+## 2015 (25)
 
 1. *The Miniaturist*, Jessie Burton
 1. *A Long Way Down*, Nick Hornby
@@ -198,7 +198,7 @@ I started off the year with a list of books I wanted to read – and never got a
 1. *Far from the madding crowd*, Thomas Hardy ⭐️
 1. *On writing*, Stephen King ⭐️
 
-##2014 (39)
+## 2014 (39)
 
 1. *We Need to Talk About Kevin*,	Lionel Shriver
 1. *Estupor y temblores*,	Amélie Nothomb
@@ -240,7 +240,7 @@ I started off the year with a list of books I wanted to read – and never got a
 1. *Under the skin*,	Michel Faber
 1. *Bound to secrecy*,	Vamba Sherif
 
-##2013 (30)
+## 2013 (30)
 
 1. *The Perks of Being a Wallflower*, Stephen Chbosky ⭐️
 1. *The Handmaid's Tale*,	Margaret Atwood ⭐️
@@ -273,7 +273,7 @@ I started off the year with a list of books I wanted to read – and never got a
 1. *El cel de Lisboa*,	Marina Rubio i Martori
 1. *The sorrows of an American*,	Siri Hustvedt
 
-##Before 2013
+## Before 2013
 
 1. *Vanity Fair*,	William Makepeace Thackeray ⭐️
 1. *The age of innocence*,	Edith Wharton

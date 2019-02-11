@@ -7,6 +7,12 @@ title: "100 Days of UI"
 
 As part of a plan to improve on my UI skills, I have decided to go through the [100 Days of UI](http://www.dailyui.co/){:target="_blank"} challenge.
 
+#### Day 16 | Pop-up/Overlay | 20 minimalist
+
+For this design I used the idea of [Unmortgage](https://www.unmortgage.com/){:target="_blank"}, the company I work for currently. This is a concept idea for a site where users can start browsing through properties.
+
+![](images/case_studies/30_days_challenge/day_16.png)
+
 #### Day 15 | Switch | 15 mins
 
 Very quick and simple design for a switch that enables the user to water the plants automatically as and when it's needed.
@@ -45,7 +51,7 @@ I think the first one looks better, but the second one is way more functional, d
 
 #### Day 11 | Flash messages | 2 hrs
 
-Adorable vectors by [Drawnhy97](https://www.freepik.com/free-vector/coloured-girl-avatars_872952.htm){:target="_blank"} to inform a user when they've gotten some German words right – or when they haven't. 
+Adorable vectors by [Drawnhy97](https://www.freepik.com/free-vector/coloured-girl-avatars_872952.htm){:target="_blank"} to inform a user when they've gotten some German words right – or when they haven't.
 
 ![](images/case_studies/30_days_challenge/day_11.png)
 
@@ -73,7 +79,7 @@ I'll be honest, I don't love this, but that's the best I've been able to do so f
 
 #### Day 07 | Settings Screen | 1 hr 30 mins
 
-I spent more time working this one out and thinking what app I'd be designing settings for and what settings would be included rather than on the actual UI. 
+I spent more time working this one out and thinking what app I'd be designing settings for and what settings would be included rather than on the actual UI.
 
 I also looked at other apps on my phone to understand behaviour and information architecture, especially in how they split Push and Email notifications. I found inspiration in Strava's settings screen in particular.
 

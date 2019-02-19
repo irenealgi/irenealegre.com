@@ -15,13 +15,10 @@ As for fiction, I've discovered the little gem that is _Good Wives_, finished th
 I started off the year with a list of books I wanted to read – and never got around to actually reading. I don't think I'll try to do this in 2019 – it didn't work for me. There's just too much I want to read, and I'm an impulsive reader at heart, so in 2019 I plan to be an even more eclectic reader, expanding my horizons in all directions, as valuable knowledge can come from any source.  
 
 
-⭐️ It was great  
-😵 Did not finish 
-
 **2019**
 
 1. *Can't Hurt Me: Master Your Mind and Defy the Odds*, David Goggins ⭐️
-2. *Roman Republic*, Isaac Asimov 😵
+2. *Roman Republic*, Isaac Asimov (DNF)
 3. *Ulysses and the weasel: a nice introduction to financial markets*, Georg von Wallwitz
 4. *Planning for Everything: The Design of Paths and Goals*, Peter Morville ⭐️
 5. *A Room of One's Own*, Virginia Woolf ⭐️

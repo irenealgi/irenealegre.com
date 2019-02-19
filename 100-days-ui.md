@@ -7,7 +7,7 @@ title: "100 Days of UI"
 
 As part of a plan to improve on my UI skills, I have decided to go through the [100 Days of UI](http://www.dailyui.co/){:target="_blank"} challenge.
 
-#### Day 16 | Pop-up/Overlay | 20 minimalist
+#### Day 16 | Pop-up/Overlay | 20 minutes
 
 For this design I used the idea of [Unmortgage](https://www.unmortgage.com/){:target="_blank"}, the company I work for currently. This is a concept idea for a site where users can start browsing through properties.
 

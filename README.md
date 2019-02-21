@@ -25,7 +25,7 @@ brew cask install atom
 - Install Ruby Version Manager:
 
 ```
-brew upgrade rbenv ruby-build
+brew install rbenv ruby-build
 echo 'eval "$(rbenv init -)"' >> ~/.bash_profile
 ```
 

@@ -11,4 +11,4 @@ When I’m not designing, I love to [read](reading-list) and write, cycle and pl
 
 You will find a comprehensive list of all my UX skills and work experience [in my CV](irene-alegre-cv.pdf){:target="_blank"}.
 
-For any queries, send an email to **<irenealgi@gmail.com>**
+For any queries, send an email to <irenealgi@gmail.com>

@@ -8,7 +8,7 @@ title: "Internal tools for Unmortgage"
 * **Tools:** Pen and paper, Sketch, Whimsical, Invision
 * **Processes:** User testing, card sorting, mind-mapping, sketching, prototyping
 
-![](images/case_studies/unmortgage-prefiltering/main.png)
+![](images/case_studies/unmortgage-prefiltering/main-image.png)
 
 Unmortgage is an alternative to renting that enables customers to gradually purchase the home they live in. Home buyers contribute with a 5% deposit while an institutional investor covers the cost of the rest of the property so that the customer can buy it from them little by little.
 

@@ -1,7 +1,7 @@
 ---
 ---
 
-$sans_serif_font_family: "Montserrat", sans-serif;
+$sans_serif_font_family: 'Montserrat', sans-serif;
 $serif_font_family: "PT Serif", serif;
 $main_color: #4F4F4F;
 $light_color: #B5B5B5;
@@ -235,18 +235,20 @@ h1 {
 
 h2 {
   font-size: 34px;
-  font-weight: 400;
+  font-weight: 500;
   font-family: $sans_serif_font_family;
   line-height: 42px;
-  margin-top: 40px;
-  margin-bottom: -10px;
+  margin-top: 56px;
+  margin-bottom: -5px;
 }
 
 h3 {
   font-size: 26px;
   font-weight: 400;
   font-family: $sans_serif_font_family;
-  margin-bottom: -10px;
+  line-height: 1.15;
+  margin-top: 20px;
+  margin-bottom: 10px;
 }
 
 a {

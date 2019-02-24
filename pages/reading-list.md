@@ -1,12 +1,13 @@
 ---
 layout: post
 title: "Reading List"
+permalink: reading-list
 ---
 2018 has been my best reading year so far; I have also delved deeply into non-fiction and design books while becoming very picky with any fiction books I did commit to reading.
 
-It's interesting to see how my curiosity has both changed and expanded throughout the years, and especially in 2018. As a fiction reader I was already quite eclectic and never read solely within a niche, but I'd have never thought I would be swapping fiction for biographies, essays, books about design and – most surprising of all – self-help books. 
+It's interesting to see how my curiosity has both changed and expanded throughout the years, and especially in 2018. As a fiction reader I was already quite eclectic and never read solely within a niche, but I'd have never thought I would be swapping fiction for biographies, essays, books about design and – most surprising of all – self-help books.
 
-I've found myself reading travel literature by Steinbeck, biographies by Zweig, books about sex and hormonal changes and a colourful array of books on intentional living. 
+I've found myself reading travel literature by Steinbeck, biographies by Zweig, books about sex and hormonal changes and a colourful array of books on intentional living.
 
 And then, of course, there have been the essays on art and design, technical books on interface design, typography and information architecture, and books about productivity at work and in life.
 
@@ -59,7 +60,7 @@ I started off the year with a list of books I wanted to read – and never got a
 21. *He comes next*, Ian Kerner
 21. *Digital Color And Type*, Rob Carter ⭐️
 22. *Sketching User Experiences: The Workbook*, Bill Buxton,  Saul Greenberg, Sheelagh Carpendale, Nicolai Marquardt
-23. *The Vignelli Canon*, Massimo Vignelli ⭐️ 
+23. *The Vignelli Canon*, Massimo Vignelli ⭐️
 24. *Radical Candor*, Kim Malone Scott
 25. *Designing with the Mind in Mind: Simple Guide to Understanding User Interface Design Rules*, Jeff Johnson ⭐️
 26. *The Queen's Gambit*, Walter Tevis

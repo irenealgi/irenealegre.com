@@ -1,6 +1,7 @@
 ---
 layout: about
 title: "About Me"
+permalink: about
 ---
 
 Product designer with a special focus on UX, market research and having a deep understanding of business needs and objectives. I bring a holistic approach to product development, taking into account views and ideas from all stakeholders and delivering designs that are functional, easy to use and understand, and pleasant to the eye.

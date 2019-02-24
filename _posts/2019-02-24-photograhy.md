@@ -1,0 +1,43 @@
+---
+layout: post
+title: "Photography | Turkey: Cappadocia & Istambul"
+---
+
+In September 2018 we went to Turkey. We started off in Istambul, where we spent 5 days walking around the city and protecting ourselves from the heat with plenty of water and lunches in covered restaurants.
+
+The mosques were beautiful, and I enjoyed taking photos of the many mosaics we came across, as well as the incredible sunsets along the Bosporus. But what I enjoyed the most was walking around in the least visited side of the city, where locals do their own thing and you can see the city as it is, in all its glorious light and darkness.
+
+![](images/photos/turkey/tu_1.jpg)
+![](images/photos/turkey/tu_2.jpg)
+![](images/photos/turkey/tu_19.jpg)
+![](images/photos/turkey/tu_21.jpg)
+![](images/photos/turkey/tu_22.jpg)
+![](images/photos/turkey/tu_27.jpg)
+![](images/photos/turkey/tu_30.jpg)
+![](images/photos/turkey/tu_32.jpg)
+![](images/photos/turkey/tu_33.jpg)
+![](images/photos/turkey/tu_34.jpg)
+![](images/photos/turkey/tu_39.jpg)
+![](images/photos/turkey/tu_37.jpg)
+![](images/photos/turkey/tu_40.jpg)
+
+It was the scenery of the Cappadocia that stole our hearts, however. Even now, just looking at the photos I'm astounded by its natural beauty. Shaped by eons of volcanic activity and erosion, the rock formations in Cappadocia are otherworldly, and so it feels like you are on a different planet.
+
+And, yes, we did do the balloon thing. How could we not?
+
+![](images/photos/turkey/tu_47.jpg)
+![](images/photos/turkey/tu_46.jpg)
+![](images/photos/turkey/tu_45.jpg)
+![](images/photos/turkey/tu_44.jpg)
+![](images/photos/turkey/tu_48.jpg)
+![](images/photos/turkey/tu_52.jpg)
+![](images/photos/turkey/tu_50.jpg)
+![](images/photos/turkey/tu_49.jpg)
+![](images/photos/turkey/tu_54.jpg)
+![](images/photos/turkey/tu_61.jpg)
+![](images/photos/turkey/tu_57.jpg)
+![](images/photos/turkey/tu_66.jpg)
+![](images/photos/turkey/tu_64.jpg)
+![](images/photos/turkey/tu_71.jpg)
+![](images/photos/turkey/tu_72.jpg)
+![](images/photos/turkey/tu_97.jpg)

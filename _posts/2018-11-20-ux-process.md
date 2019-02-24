@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "My UX Process"
+separator: ✏️
 ---
 
 **Disclaimer:** *This is a long post, partly because the basics have already been covered on countless of blogs, books and Youtube tutorials, and mostly because I love writing. You can skip to the section headers and bits in bold, and that should give you a rough idea of what my process is like. Or you can read the whole thing, if you've got the time. Your choice.*

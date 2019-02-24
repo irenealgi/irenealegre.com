@@ -85,8 +85,7 @@ An “add more” sign and a “back button” did the trick here. I also added 
 progression bar so that the user would know how much they had left before
 finishing with the sign up process.
 
-[See the full
-wire-flow](the-nanny-app–wire-flows.pdf){:target="_blank"}
+[See the full wire-flow](images/case_studies/nanny_app/the-nanny-app–wire-flows.pdf){:target="_blank"}
 
 ## Defining The Nanny App’s brand
 

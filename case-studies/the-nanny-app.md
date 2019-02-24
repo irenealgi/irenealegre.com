@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Nanny App — Conceptual UX Project"
+permalink: the-nanny-app
 ---
 
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "UX Portfolio Design"
+permalink: portfolio
 ---
 
 * **Project type:** Personal project

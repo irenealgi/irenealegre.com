@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Nuffield Health: Improving Your Lifestyle Choices, One Habit at a Time (concept project)"
+permalink: nuffield-health
 ---
 
 

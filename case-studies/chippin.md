@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "UX Project: Re-designing Chippin’s user flow"
+permalink: chippin
 ---
 
 * **Project type:** Client project (within General Assembly's scheme)

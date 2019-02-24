@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Designing the new Pricing Page for carwow's Dealer Dashboard"
+permalink: carwow
 ---
 
 * **Project type:** Work project
@@ -16,7 +17,7 @@ The current Pricing Page allows dealers to view a list of the models they are al
 
 ![](images/case_studies/carwow/old_design.png)
 
-Because it's display only, in order to make changes to their pricing dealers have to contact carwow's HQ and speak to their Partnership Manager. This involves dealers having to create a separate spreadsheet with all their pricing changes for models and derivatives, sending that across to their PM and then having the PM manually input the data and make the changes. 
+Because it's display only, in order to make changes to their pricing dealers have to contact carwow's HQ and speak to their Partnership Manager. This involves dealers having to create a separate spreadsheet with all their pricing changes for models and derivatives, sending that across to their PM and then having the PM manually input the data and make the changes.
 
 It's an inefficient system that relies heavily on carwow's workforce doing admin work and prevents dealers from taking full ownership of their carwow account.
 
@@ -48,17 +49,12 @@ The new Pricing Page takes the shape of a table that lists all models and all de
 
 This project required a massive team effort, as it grew in complexity the more in depth we went.
 
-**Who knew something so simple could turn into something so complicated?** 
+**Who knew something so simple could turn into something so complicated?**
 
-There were so many iterations for this project that I lost count, mostly because problems arose on every front. From the way the data was stored, to actual usability problems, to the pricing system and process itself, the Pricing Page was challenging in every way. 
+There were so many iterations for this project that I lost count, mostly because problems arose on every front. From the way the data was stored, to actual usability problems, to the pricing system and process itself, the Pricing Page was challenging in every way.
 
 Here's what I learned from this project:
 
 - Get *all of the requirements* from the start. Make sure everything that needs to be included is in the brief from the start. Push, and push, until you can be certain that that is the case.
 - Speak to the devs early on to figure out how data is stored and what the limitations and constraints are in terms of functionality.
 - Do a hella lot of testing. And when you have, test more. Get the flows right and the job is halfway there.
-
-
-
-
-

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Internal tool for Unmortgage"
+permalink: unmortgage
 ---
 
 * **Project type:** Work project

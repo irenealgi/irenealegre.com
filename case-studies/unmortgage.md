@@ -38,6 +38,23 @@ The following are the numerous steps through which the PS Team will go for every
 For each of these questions, the PS Team have to go on different sites, flick through images, floorplans, Google Maps and property listings, and then go back to the spreadsheet to fill out each category.
 
 
+## The brief
+
+The Property Specialist Team needed a solution that was:
+
+1. Fast (so that they can get as many properties into the system as possible).
+1. Easy to use (so that there is as little friction as possible, and so that new product specialists can start using it quickly and with ease).
+1. Pleasant to the eye (aesthetics were not a priority, but it is a tool they will be looking at for hours at a time).
+
+With **speed** as my main priority, I started working on a piece of software that would reduce (or even eliminate!) the need to go back and forth from online resource to online resource. In order to do that, I had to make sure that the relevant data could be pulled from the various sources.
+
+Given that this is an internal tool for a team that does go through internal training _anyway_, **ease of use** was not as much of a priority as speed. However, in the old process the users were asked to _rate_ each part of the property from 1-4 where 1 was really bad and 4 was really good. After doing some digging, it became apparent that the users were struggling with 2s and 3s, which added an unnecessary level of friction to the process and made our data more error prone (as the ratings were very subjective). I raised the issue with the Data Team, who agreed to simplify the data requirements and change our rating system to an _Is this xxxxx good enough?_, where YES or NO would be the only possible answers.
+
+After testing this assumption, it became clear that users were indeed more comfortable rating properties in that way.
+
+The first designs for this tool inherited the styling of another internal tool within Unmortgage. The resulting designs were somewhat functional but lacked structure and definition. **It being a set of screens with several groups of information, it was very important to get the details right in order to achieve objectives 1 and 2.**
+
+
 ## A tool to rule them all
 
 I went on to design a tool that would enable the PS Team to speed up the pre-filtering process and help us build a database of acceptable properties faster and more robustly.

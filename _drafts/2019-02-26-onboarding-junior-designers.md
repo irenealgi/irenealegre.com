@@ -52,7 +52,7 @@ Stick to those answers.
 
 You get the gist of it. And if the design team has more than 3 people in it, all of these should be happening _anyways_, regardless of whether a Junior Designer is thrown into the mix.
 
-Yes, I know, Tommy has done things this way his whole life, and Julia prefers to work in this other way and it works for her. But wait until Julia has to take over Tommy's work and can't understand how the sketch file is laid out, and Tommy is in Hawaii for the whole month. Or wait until Tommy, who has been working here for three years, leaves, and then Julia starts working with Tommy's cross-functional team and we discover that Tommy and Julia have different ways of documenting, handing over and communicating her designs, so the developers have to learn the system all over again.
+Yes, I know, Tommy has done things this way his whole life, and Julia prefers to work in this other way and it works for her. But wait until Julia has to take over Tommy's work and can't understand how the sketch file is laid out, and Tommy is in Hawaii for the whole month. Or wait until Tommy, who has been working here for three years, leaves, and then Julia starts working with Tommy's cross-functional team and we discover that Tommy and Julia have different ways of documenting, handing over and communicating their designs, so the developers have to learn the system all over again.
 
 And now imagine a Junior Designer trying to understand how to do all of these things, because they have never done them before. So they ask Tommy, and then they ask Julia, and the result is the hybrid of two systems that don't mix well together.
 

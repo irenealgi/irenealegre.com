@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Irene Alegre | UX Designer
-description: Hello, I'm Irene. I'm a UX Designer based in London
+title: Irene Alegre | Product Designer
+description: Hello, I'm Irene. I'm a Product Designer based in London.
 
 # Build settings
 markdown: kramdown

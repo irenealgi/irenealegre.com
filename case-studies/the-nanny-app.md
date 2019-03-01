@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "The Nanny App — Conceptual UX Project"
-description: The Nanny App is being designed to enable parents and nannies to meet up and arrange a babysitting schedule that works for
-everyone.
+description: The Nanny App is being designed to enable parents and nannies to meet up and arrange a babysitting schedule that works for everyone.
 permalink: the-nanny-app
 ---
 

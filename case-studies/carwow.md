@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Designing the new Pricing Page for carwow's Dealer Dashboard"
+description: carwow is a marketplace for car buyers and car dealers.
 permalink: carwow
 ---
 

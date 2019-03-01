@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "UX Project: Re-designing Chippin’s user flow"
+description: Chippin enables online merchants to allow their
+customers to easily and securely share the cost of an online purchase.
 permalink: chippin
 ---
 

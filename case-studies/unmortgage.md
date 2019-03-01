@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Internal tool for Unmortgage"
+description: Unmortgage is an alternative to renting that enables customers to gradually purchase the home they live in.
 permalink: unmortgage
 ---
 

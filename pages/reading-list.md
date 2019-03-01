@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Reading List"
+description: All of the books!
 permalink: reading-list
 ---
 2018 has been my best reading year so far; I have also delved deeply into non-fiction and design books while becoming very picky with any fiction books I did commit to reading.

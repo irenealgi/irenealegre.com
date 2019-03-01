@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "UX Portfolio Design"
+description: A case study on my own portfolio. It's all a little bit meta.
 permalink: portfolio
 ---
 

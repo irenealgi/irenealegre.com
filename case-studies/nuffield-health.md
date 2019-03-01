@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Nuffield Health: Improving Your Lifestyle Choices, One Habit at a Time (concept project)"
+description: Our client wanted an app that would allow their customers to book medical appointments and other Nuffield Health services.
 permalink: nuffield-health
 ---
 

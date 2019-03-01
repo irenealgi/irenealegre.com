@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Onboarding Junior Designers 101"
+description: Onboarding new people is hard. Onboarding new people who are also new to the job is even harder.
 separator: ✏️
 ---
 

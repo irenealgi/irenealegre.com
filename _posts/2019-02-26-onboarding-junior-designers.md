@@ -1,22 +1,15 @@
 ---
 layout: post
-title: "Onboarding Junior Designers 101"
+title: "How to onboard a Junior Designer"
 description: Onboarding new people is hard. Onboarding new people who are also new to the job is even harder.
 separator: ✏️
 ---
 
-Onboarding new people is hard. Onboarding new people who are also new to the job is even harder. Gerren Lamson from Creative Market [wrote a great blog post about their new onboarding process](https://medium.com/building-creative-market/revamping-our-onboarding-process-for-product-designers-d1db35534ef) where he covers the basics, such as:
+Onboarding new people is hard. Onboarding new people who are also new to the job is even harder. Gerren Lamson from Creative Market <a href="https://medium.com/building-creative-market/revamping-our-onboarding-process-for-product-designers-d1db35534ef" target="_blank_">wrote a great blog post about their new onboarding process</a> where he covers the basics, such as making sure several team members have met the new designer during the interview process, being open about team KPIs and strategy or telling them about the team's core values.
 
-- Making sure several team members have met the new designer during the interview process, as well as being open about team KPIs, strategy, future plans, etc.
-- Being there when they arrive on their first day!
-- Tell them about the team's core values, introduce them to everyone, introduce them to the product(s)
-- Explain where things are stored, what software we use, etc.
-- Have 1:1 meetings to make sure they are doing well
-- And many, many, many more...
+But I wanted to talk about onboarding Junior Designers specifically because I think the industry needs to talk more about this – especially now that UX/UI designers are in high demand and, at the same time, design bootcamps are churning out new designers every three months (including myself).
 
-But I wanted to talk about – specifically – onboarding Junior Designers because I haven't found much on that topic, and I think it is very much needed.
-
-Hiring a Junior Designer has its pros and cons.
+Like most things in life, hiring a Junior Designer has its pros and cons.
 
 ### The pros of hiring a Junior Designer
 
@@ -27,6 +20,8 @@ For starters, they are cheaper – let's just get that one out of the way. They 
 The cons, however, are that they will need your time and support a lot more often than a more senior designer. They will be less autonomous, and they will (usually) require going through more iterations before they reach a design solution they (and others) are happy with.
 
 All of these, of course, are subject to their personality, overall work and life experience, and self-confidence. Do very bright, very independent designer grads who get things right on the first, maybe second, maybe third round exist? Yes! Do they abound? Probably not.
+
+Here are some things you should be doing if you are thinking of hiring a Junior Designer.
 
 ## Get everyone on the team onboard
 
@@ -65,6 +60,11 @@ Am I saying Junior Designers are like 5 year-old kids who can't think for themse
 
 Needless to say, rules and processes can change as needed, but in order to do that they need to be assessed – potentially discussed – and eventually communicated.
 
+## Have something meaningful for them to do
+
+This one would seem obvious, but I've actually seen Junior Designers getting frustrated because they either have nothing to do or have something to do that is (in their perception) below their capabilities. This in turn builds resentment towards the more senior designers, and may start eroding their self-confidence.
+
+While you might not trust your Junior Designer to tackle the bigger projects on their own, they are more than capable of contributing to them and giving support to the more experienced designers. This is, in fact, how they are going to learn!
 
 ## Have the bandwidth
 

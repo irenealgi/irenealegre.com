@@ -46,7 +46,7 @@ Stick to those answers.
 - **How do we communicate our work to stakeholders?**
 - **How do we communicate our work to the rest of the product team?**
 
-You get the gist of it. And if the design team has more than 3 people in it, all of these should be happening _anyways_, regardless of whether a Junior Designer is thrown into the mix.
+You get the idea. And if the design team has more than 3 people in it, all of these should be happening _anyways_, regardless of whether a Junior Designer is thrown into the mix.
 
 Yes, I know, Tommy has done things this way his whole life, and Julia prefers to work in this other way and it works for her. But wait until Julia has to take over Tommy's work and can't understand how the sketch file is laid out, and Tommy is in Hawaii for the whole month. Or wait until Tommy, who has been working here for three years, leaves, and then Julia starts working with Tommy's cross-functional team and we discover that Tommy and Julia have different ways of documenting, handing over and communicating their designs, so the developers have to learn the system all over again.
 

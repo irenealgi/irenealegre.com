@@ -20,7 +20,7 @@ brew cask install github
 brew cask install atom
 ```
 
-- Clone repostiry with GitHub desktop application
+- Clone repository with GitHub desktop application
 
 - Install Ruby Version Manager:
 
@@ -52,7 +52,7 @@ bundle install
 - Go to the directory where your portfolio is to run website on local
 
 ```
-bundle exec jekyll server
+bundle exec jekyll server --livereload
 ```
 
 - Go to http://127.0.0.1:4000

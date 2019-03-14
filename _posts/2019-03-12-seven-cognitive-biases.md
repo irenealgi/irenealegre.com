@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "7 cognitive biases and how to spot them"
+title: "7 Cognitive biases and how to spot them"
 description: These are some of my 'favourite' cognitive biases, and how they affect design interaction, rational choices and interpersonal relationships
 separator: ✏️
 ---

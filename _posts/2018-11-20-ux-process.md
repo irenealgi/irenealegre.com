@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My UX Process"
+title: "My UX process"
 description: A (not so brief) explanation of how I work as a designer.
 separator: ✏️
 ---

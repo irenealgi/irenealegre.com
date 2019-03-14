@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "7 Cognitive Biases and How To Spot Them"
+title: "7 cognitive biases and how to spot them"
 description: These are some of my 'favourite' cognitive biases, and how they affect design interaction, rational choices and interpersonal relationships
 separator: ✏️
 ---
@@ -16,11 +16,11 @@ A cognitive bias is a **systematic pattern of deviation from norm or rationa
 
 ### How many cognitive biases are out there?
 
-Many cognitive biases can be merged or are closely related to one another, but the Wikipedia lists about 104 of them. Below I will be covering 7 cognitive biases that I find particularly interesting from a Design/Marketing perspective.
+Many cognitive biases can be merged or are closely related to one another, but the <a href="https://en.wikipedia.org/wiki/List_of_cognitive_biases" target="_blank">_Wikipedia_ lists about 104</a> of them. Below I will be covering 7 cognitive biases that I find particularly interesting from a Design/Marketing perspective.
 
 ## 1. Anchoring Bias
 
-Anchoring or focalism is a cognitive bias where **an individual relies too heavily on an initial piece of information offered** (considered to be the "anchor") when making decisions.
+Anchoring or _focalism_ is a cognitive bias where **an individual relies too heavily on an initial piece of information offered** (considered to be the "anchor") when making decisions.
 
 This can affect us when negotiating a salary or the price of a car, as well as when we go shopping during a sale. Studies have shown that arbitrary numerical anchors – such as the last two digits of your ID card – can influence the amount we are willing to pay for a given product.
 
@@ -45,8 +45,8 @@ It's important to be aware of this heuristic because it affects what we worry ab
 
 Confirmation bias is the **tendency to search for, interpret, favour, and recall information in a way that confirms one's preexisting beliefs or hypotheses.** People display this bias when they gather or remember information selectively, or when they interpret it in a biased way. The effect is stronger for emotionally charged issues and for deeply entrenched beliefs.
 
-- In research, it is essential to be as detached as possible from your initial assumptions, as they can cloud your judgment later in the research process – we mighyt assume we are right from the start.
-- When discussing politics or religion, people who are particularly attached to their ideas struggle to come to terms with the incongruences within any belief system – we might assume so and so can do no wrong, that we know 'the truth' and others don't, or that a politician is evil.
+- In research, it is essential to be as detached as possible from your initial assumptions, as they can cloud your judgment later in the research process – we might assume we are right from the start.
+- When discussing politics or religion, people who are particularly attached to their ideas struggle to come to terms with the incongruence within any belief system – we might assume so and so can do no wrong, that we know 'the truth' and others don't, or that a politician is evil.
 - When it comes to our feelings towards other people or institutions, we tend to defend and justify actions and events that we would not be backing up if it weren't for those feelings – me might assume that they did something bad with good intentions even if evidence proves otherwise.
 
 ## 4. Empathy gap
@@ -92,10 +92,15 @@ The bias blind spot is the **cognitive bias of recognising the impact of bia
 
 While working on an explanation or example for the Confirmation bias, I came up with the idea that _Pride and Prejudice_'s was built upon the confirmation bias. Without going into too much detail, the main character – Elizabeth Bennet – has a first encounter with the hero – Darcy – that doesn't go well and influences her opinion of him for the rest of the story. As a result, everything Darcy does in order to fix that relationship will be misinterpreted by Elizabeth, as she is looking for ways to confirm that Darcy is a despicable man (because, really, he didn't think her attractive enough to dance with).
 
-When I came up with this thesis, I googled it up and found an article about that same idea, which confirmed my thesis. This alone confirmed my own assumption, meaning I fell into the confirmation bias myself!
+When I came up with this thesis, I _googled_ it up and found an article about that same idea, which confirmed my thesis. This alone confirmed my own assumption, meaning I fell into the confirmation bias myself!
 
 ## Find out more
 
 I hope I have given you some food for thought, and that you want to learn more about cognitive biases. The books below are great introductions to cognitive biases and behavioural economics.
+
+- _Predictably Irrational_, Dan Ariely
+- _Thinking, Fast and Slow_, Daniel Kahneman
+- _The art of thinking clearly_, Rolf Dobelli
+- _Factfulness_, Hans Rosling
 
 ![](images/blog/cognitive-biases/books-about-cognitive-biases.png)

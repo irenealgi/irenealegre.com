@@ -4,17 +4,6 @@ title: "Reading List"
 description: All of the books!
 permalink: reading-list
 ---
-2018 has been my best reading year so far; I have also delved deeply into non-fiction and design books while becoming very picky with any fiction books I did commit to reading.
-
-It's interesting to see how my curiosity has both changed and expanded throughout the years, and especially in 2018. As a fiction reader I was already quite eclectic and never read solely within a niche, but I'd have never thought I would be swapping fiction for biographies, essays, books about design and – most surprising of all – self-help books.
-
-I've found myself reading travel literature by Steinbeck, biographies by Zweig, books about sex and hormonal changes and a colourful array of books on intentional living.
-
-And then, of course, there have been the essays on art and design, technical books on interface design, typography and information architecture, and books about productivity at work and in life.
-
-As for fiction, I've discovered the little gem that is _Good Wives_, finished the _Neapolitan Novels_ by Elena Ferrante (which was really satisfying) and did not fall in love with Maugham, which was surprising.
-
-I started off the year with a list of books I wanted to read – and never got around to actually reading. I don't think I'll try to do this in 2019 – it didn't work for me. There's just too much I want to read, and I'm an impulsive reader at heart, so in 2019 I plan to be an even more eclectic reader, expanding my horizons in all directions, as valuable knowledge can come from any source.  
 
 
 **2019**
@@ -25,6 +14,9 @@ I started off the year with a list of books I wanted to read – and never got a
 4. *Planning for Everything: The Design of Paths and Goals*, Peter Morville ⭐️
 5. *A Room of One's Own*, Virginia Woolf ⭐️
 6. *Circe*, Madeline Miller
+7. *Skin in the Game: The Hidden Asymmetries in Daily Life*, Nicholas Nassim Taleb
+8. *The Untethered Soul: The Journey Beyond Yourself*, Michael A. Singer ⭐️
+9. *Predictably Irrational: The Hidden Forces That Shape Our Decisions*, Dan Ariely ⭐️
 
 **2018**
 

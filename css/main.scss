@@ -1,8 +1,8 @@
 ---
 ---
 
-$sans_serif_font_family: 'Montserrat', sans-serif;
-$serif_font_family: "PT Serif", serif;
+$sans_serif_font_family: 'Lato', sans-serif;
+$serif_font_family: "EB Garamond", serif;
 $main_color: #4F4F4F;
 $light_color: #B5B5B5;
 $accent_color: #F93457;
@@ -13,7 +13,7 @@ $accent_color_two: #8e8e8e;
   max-width: 1440px;
   color: $main_color;
   font-family: $serif_font_family;
-  font-size: 21px;
+  font-size: 23px;
   overflow-x: hidden;
 }
 
@@ -116,7 +116,8 @@ $accent_color_two: #8e8e8e;
 }
 
 .home_project_type {
-  font-weight: bold;
+  font-weight: regular;
+  font-size: 25px;
 }
 
 .home_project_text {
@@ -230,11 +231,11 @@ $accent_color_two: #8e8e8e;
 
 h1 {
   font-size: 42px;
-  font-weight: 600;
+  font-weight: 500;
 }
 
 h2 {
-  font-size: 34px;
+  font-size: 32px;
   font-weight: 500;
   font-family: $sans_serif_font_family;
   line-height: 42px;

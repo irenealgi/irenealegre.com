@@ -1,6 +1,6 @@
 ---
 layout: about
-title: "About Me"
+title: "About me"
 description: Product designer with a special focus on UX, market research and having a deep understanding of business needs and objectives.
 permalink: about
 ---

@@ -17,6 +17,9 @@ permalink: reading-list
 7. *Skin in the Game: The Hidden Asymmetries in Daily Life*, Nicholas Nassim Taleb
 8. *The Untethered Soul: The Journey Beyond Yourself*, Michael A. Singer ⭐️
 9. *Predictably Irrational: The Hidden Forces That Shape Our Decisions*, Dan Ariely ⭐️
+10. *Understanding Context: Environment, Language, and Information Architecture*, Andrew Hinton ⭐️
+11. *My Favorite Half-Night Stand*, Christina Lauren (DNF)
+12. *Universal Principles of Design: 100 Ways to Enhance Usability, Influence Perception, Increase Appeal, Make Better Design Decisions, and Teach Through Design*, William Lidwell
 
 **2018**
 
@@ -63,8 +66,8 @@ permalink: reading-list
 30. *It Doesn't Have to Be Crazy at Work*, Jason Fried ⭐️
 31. *The Subtle Art of Not Giving a Fxck: A Counterintuitive Approach to Living a Good Life*, Mark Manson ⭐️
 32. *Mark Manson on Relationships*, Mark Manson
-33. *Factfulness: Ten Reasons We're Wrong About the World – and Why Things Are Better Than You Think*, Hans Rosling
-34. *Reasons to Stay Alive*, Matt Haig
+33. *Factfulness: Ten Reasons We're Wrong About the World – and Why Things Are Better Than You Think*, Hans Rosling ⭐️
+34. *Reasons to Stay Alive*, Matt Haig 
 
 
 **2017**

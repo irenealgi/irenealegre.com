@@ -7,7 +7,7 @@ separator: ✏️
 
 Every designer follows some sort of design principle(s). Regardless of whether such principles have been thought through and set in stone or whether they have been kept vague and never properly considered, they still exist. Just like with core moral values, not choosing your own design principles doesn’t mean you won’t have any – you still will. However, they might not be the ones you’d have chosen for yourself if you’d given them some thought.
 
-An upcoming interview with Monzo prompted me to sit down and think carefully about what my design principles might be. I looked at several lists of design principles, from [Dieter Ram](https://hackernoon.com/dieter-rams-10-principles-of-good-design-e7790cc983e9)’s to [Calm Technology](https://www.designprinciplesftw.com/collections/principles-of-calm-technology)’s and [Airbnb](https://principles.design/examples/airbnb-design-principles)’s, and then write down my very own.
+In order to come up with my own principles, I looked at several lists of design principles, from [Dieter Ram](https://hackernoon.com/dieter-rams-10-principles-of-good-design-e7790cc983e9)’s to [Calm Technology](https://www.designprinciplesftw.com/collections/principles-of-calm-technology)’s and [Airbnb](https://principles.design/examples/airbnb-design-principles)’s, and then wrote down my very own.
 
 So without further ado, here they are.
 

@@ -1,9 +1,10 @@
 ---
 ---
 
-$sans_serif_font_family: 'Lato', sans-serif;
-$serif_font_family: "EB Garamond", serif;
-$main_color: #4F4F4F;
+$sans_serif_font_family: 'Montserrat', sans-serif;
+$serif_font_family: 'Crimson Text', serif;
+$content_color: #4c4c4c;
+$title_color: #2b2b2b;
 $light_color: #B5B5B5;
 $accent_color: #F93457;
 $accent_color_two: #8e8e8e;
@@ -11,9 +12,10 @@ $accent_color_two: #8e8e8e;
 #content {
   margin: auto;
   max-width: 1440px;
-  color: $main_color;
+  color: $content_color;
   font-family: $serif_font_family;
-  font-size: 23px;
+  line-height: 1.4em;
+  font-size: 26px;
   overflow-x: hidden;
 }
 
@@ -29,7 +31,8 @@ $accent_color_two: #8e8e8e;
 
   > a {
     font-family: $sans_serif_font_family;
-    color: $main_color;
+    color: $title_color;
+    font-weight: 200;
     text-decoration: none;
   }
 
@@ -57,11 +60,15 @@ $accent_color_two: #8e8e8e;
 
 #home_header_name {
   font-size: 64px;
+  line-height: 1.8em;
+  color: $title_color;
+  font-weight: 400;
 }
 
 #home_header_description {
   font-size: 36px;
-  font-weight: 100;
+  font-weight: 200;
+  color: $title_color;
   margin-top: 10px;
 }
 
@@ -105,9 +112,10 @@ $accent_color_two: #8e8e8e;
 .home_project_title {
   font-family: $sans_serif_font_family;
   font-size: 40px;
-  font-weight: 500;
+  font-weight: 400;
   text-decoration: none;
-  color: $main_color;
+  color: $title_color;
+  line-height: 1.3em;
 }
 
 .home_project_title:hover {
@@ -116,8 +124,10 @@ $accent_color_two: #8e8e8e;
 }
 
 .home_project_type {
-  font-weight: regular;
-  font-size: 25px;
+  font-family: $sans_serif_font_family;
+  font-weight: 200;
+  color: $title_color;
+  font-size: 24px;
 }
 
 .home_project_text {
@@ -135,19 +145,19 @@ $accent_color_two: #8e8e8e;
   text-align: center;
   vertical-align: middle;
   padding: 12px 26px;
-  border: 1px solid $main_color;
+  border: 1px solid $title_color;
   border-radius: 2px;
   background: white;
-  color: $main_color;
+  color: $title_color;
 }
 
 .home_project_button:focus {
-  color: $main_color;
+  color: $title_color;
 }
 
 .home_project_button:hover {
   border-radius: 2px;
-  background-color: $main_color;
+  background-color: $title_color;
   color: white;
   text-decoration: none;
 }
@@ -187,10 +197,6 @@ $accent_color_two: #8e8e8e;
   }
 }
 
-#text {
-  line-height: 33px;
-}
-
 #articles {
   .date {
     font-family: $sans_serif_font_family;
@@ -211,7 +217,7 @@ $accent_color_two: #8e8e8e;
     border-bottom: 1px solid $light_color;
 
     a.title {
-      color: $main_color;
+      color: $content_color;
       text-decoration: none;
     }
 
@@ -231,23 +237,39 @@ $accent_color_two: #8e8e8e;
 
 h1 {
   font-size: 42px;
-  font-weight: 500;
+  font-weight: 400;
+  font-family: $sans_serif_font_family;
+  color: $title_color;
+  line-height: 1.4em;
 }
 
 h2 {
-  font-size: 32px;
-  font-weight: 500;
-  font-family: $sans_serif_font_family;
-  line-height: 42px;
+  font-size: 36px;
+  font-weight: 600;
+  font-family: $serif_font_family;
+  color: $title_color;
+  line-height: 1.4em;
   margin-top: 56px;
   margin-bottom: -5px;
+
 }
 
 h3 {
+  font-size: 30px;
+  font-weight: 600;
+  font-family: $serif_font_family;
+  color: $title_color;
+  line-height: 1.4em;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+h4 {
   font-size: 26px;
-  font-weight: 400;
-  font-family: $sans_serif_font_family;
-  line-height: 1.15;
+  font-weight: 600;
+  font-family: $serif_font_family;
+  color: $title_color;
+  line-height: 1.4em;
   margin-top: 20px;
   margin-bottom: 10px;
 }

@@ -5,13 +5,13 @@ description: "Monzo Oven Exercise"
 permalink: monzo
 ---
 
-After a crazy night out, Monzo’s CEO has decided to pivot the company from the financial market to the far more interesting field of kitchen appliances.
+After a crazy night out, Monzo's CEO has decided to pivot the company from the financial market to the far more interesting field of kitchen appliances.
 
 Our first project is to **design the companion iPhone or Android app for the revolutionary Monzo next-gen smart oven.**
 
 ## What we have and what we can do
 
-The only interactive bit on it is the handle to open the door. All the remaining functions must be entirely managed from the app (and that’s what we need you to design).
+The only interactive bit on it is the handle to open the door. All the remaining functions must be entirely managed from the app (and that's what we need you to design).
 
 Thanks to wireless connectivity and a bunch of inputs and sensors the oven can potentially communicate all this information to and from the app. These are not requirements, just the ingredients we can take advantage of.
 

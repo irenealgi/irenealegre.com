@@ -27,7 +27,7 @@ Thanks to wireless connectivity and a bunch of inputs and sensors the oven can p
 
 I am designing an app with **Isabel** in mind. Isabel is a female in her 60s who loves technology but is not too fussed about cooking. Upon hearing about this design challenge, she was very keen to try the oven out and disappointed when she learned that this was a concept and that the oven does not exist.
 
-Isabel expressed an interest in managing an oven from an app (she owns an iPhone XR), and being able to change temperature as and when needed, as well as being able to switch off her oven if she ever forgets to. She also found the smoke detector functionality very useful.
+Isabel expressed an interest in managing an oven from an app (she owns an iPhone XS), and being able to change temperature as and when needed, as well as being able to switch off her oven if she ever forgets to. She also found the smoke detector functionality very useful.
 
 Isabel did not see the use in scheduling an oven in advance, as she struggled to imagine when that would be useful.
 

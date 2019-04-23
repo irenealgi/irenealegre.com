@@ -25,22 +25,22 @@ Thanks to wireless connectivity and a bunch of inputs and sensors the oven can p
 
 ## Interviewing users
 
-I am designing an app with **Isabel** in mind. Isabel is a female in her 60s who loves technology but is not too fussed about cooking. Upon hearing about this design challenge, she was very keen to try it out and disappointed when she learned that this was a concept and that the oven does not exist.
+I am designing an app with **Isabel** in mind. Isabel is a female in her 60s who loves technology but is not too fussed about cooking. Upon hearing about this design challenge, she was very keen to try the oven out and disappointed when she learned that this was a concept and that the oven does not exist.
 
-Isabel expressed an interest in managing an oven from an app (she owns an iPhone XR), and being able to change temperature as and when needed, as well as being able to switch off her oven if she ever forgets too. She also found the smoke detector functionality very useful.
+Isabel expressed an interest in managing an oven from an app (she owns an iPhone XR), and being able to change temperature as and when needed, as well as being able to switch off her oven if she ever forgets to. She also found the smoke detector functionality very useful.
 
 Isabel did not see the use in scheduling an oven in advance, as she struggled to imagine when that would be useful.
 
-> I would never leave food in the oven so as to start cooking it later on. That's strange, and a little bit disgusting. I would also never leave my house with the oven in progress, as that could be dangerous!
+> I would never leave food in the oven so as to start cooking it later on. That's strange, and a little bit gross. I would also never leave my house with the oven in progress, as that could be dangerous!
 
 
 ## Main user flow and screens
 
-The main user flow is pretty straightforward, and follows what most users would do handling a conventional oven
+The main user flow is pretty straightforward, and follows what most users would do handling a conventional oven:
 
 ![](images/case_studies/monzo/oven-flow.png)
 
-From considering the user flow, I decided that there would be four main screens.
+From considering the user flow, I decided that there would be four main screens:
 
 ![](images/case_studies/monzo/monzo-oven-screens.png)
 
@@ -50,7 +50,7 @@ In order to continue with the task, I had to make some assumptions and discard a
 
 ### Scheduling your cooking
 
-I am making the choice not to include programming capabilities for the MVP. However, users can still schedule using a reminder app, calendar or alarm and start the oven from wherever they are should they want to.
+I am making the choice not to include scheduling capabilities for the MVP. However, users can still schedule using a reminder app, calendar or alarm and start the oven from wherever they are should they want to.
 
 ### Viewing levels of dirt
 
@@ -64,7 +64,7 @@ In terms of data display, **the oven will only display whether it needs to be cl
 
 Inspired by my own oven at home, I kept the modes simple: Heating, Grilling and Defrosting.
 
-**Defrosting should be making use of the incorporated scale**, whereby the oven would be defining temperature and time values, however that has not been included in the mockups.
+**Defrosting should be making use of the incorporated scale**, whereby the oven would be defining temperature and time values, however that screen has not been included in the mockups.
 
 ### Food temperature
 
@@ -74,16 +74,16 @@ Ideally, I would have liked to include a capability whereby the user can set an 
 
 Push notifications should inform the user of the following:
 
-- Oven is ready to use (has completed heating up)
-- Time is up (accompanied by an alarm)
-- Food is burning (accompanied by an alarm)
-- Oven requires cleaning
+- Oven is ready to use (has completed heating up).
+- Time is up (accompanied by an alarm).
+- Food is burning (accompanied by an alarm).
+- Oven requires cleaning.
 
 ### Warranty & Support
 
 The oven will come with some sort of warranty, and the related documentation will be accessible from the app.
 
-There will also be a FAQ section and contact details should the customer not be able to sort the issue out by themselves.
+There will also be an FAQ section and contact details should the customer not be able to sort an issue out by themselves.
 
 ## Sketches/Wireframes
 

@@ -20,6 +20,13 @@ permalink: reading-list
 10. *Understanding Context: Environment, Language, and Information Architecture*, Andrew Hinton ⭐️
 11. *My Favorite Half-Night Stand*, Christina Lauren (DNF)
 12. *Universal Principles of Design: 100 Ways to Enhance Usability, Influence Perception, Increase Appeal, Make Better Design Decisions, and Teach Through Design*, William Lidwell
+13. *They Were Sisters*, Dorothy Whipple
+14. *Making and Breaking the Grid: A Graphic Design Layout Workshop*, Timothy Samara
+15. *A Little History of Philosophy*, Nigel Warburton
+16. *Pure*, Rose Bretécher
+17. *Then She Was Gone*, Lisa Jewell
+18. *Magallanes: El hombre y su gesta*, Stefan Zweig
+19. *All the Bright Places*, Jennifer Niven
 
 **2018**
 
@@ -67,7 +74,7 @@ permalink: reading-list
 31. *The Subtle Art of Not Giving a Fxck: A Counterintuitive Approach to Living a Good Life*, Mark Manson ⭐️
 32. *Mark Manson on Relationships*, Mark Manson
 33. *Factfulness: Ten Reasons We're Wrong About the World – and Why Things Are Better Than You Think*, Hans Rosling ⭐️
-34. *Reasons to Stay Alive*, Matt Haig 
+34. *Reasons to Stay Alive*, Matt Haig
 
 
 **2017**

@@ -1,6 +1,8 @@
 ---
 ---
 
+@import "syntax";
+
 $sans_serif_font_family: 'Montserrat', sans-serif;
 $serif_font_family: 'Crimson Text', serif;
 $content_color: #4c4c4c;
@@ -8,6 +10,7 @@ $title_color: #2b2b2b;
 $light_color: #B5B5B5;
 $accent_color: #F93457;
 $accent_color_two: #8e8e8e;
+$code_color: #f9f9f9;
 
 #content {
   margin: auto;
@@ -106,6 +109,12 @@ $accent_color_two: #8e8e8e;
     margin-left: 2%;
     margin-right: 2%;
     float: left;
+  }
+}
+
+@media(max-width: 400px) {
+  #navigation {
+    right: 0px;
   }
 }
 
@@ -304,4 +313,30 @@ blockquote {
   font-style: italic;
   border-left: 3px solid $light_color;
   padding-left: 20px;
+}
+
+p > code, li > code {
+  font-family: Consolas, Menlo, "Courier New", monospace;
+  background-color: $code_color;
+  border-radius: 2px;
+  padding: 1px 1px 1px 1px;
+  font-size: 73%;
+  white-space: nowrap;
+}
+
+code {
+  border: none;
+  padding: 0px;
+}
+
+pre {
+  margin: 20px 0px 20px 0px;
+  background-color: $code_color;
+  border-radius: 15px;
+  padding: 1em;
+  padding-right: 10px;
+  padding-left: 15px;
+  overflow: auto;
+  font-size: 73%;
+  line-height: 1.3em;
 }

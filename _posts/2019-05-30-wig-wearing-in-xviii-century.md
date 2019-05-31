@@ -19,7 +19,7 @@ Flash-forward a hundred years, and it's the XVIII century, when men started addi
 
 > Powdered wigs (men) and powdered natural hair with supplemental hairpieces (women) became essential for full dress occasions and continued in use until almost the end of the 18th century. - Wikipedia
 
-During the XVIII century, however, the wig-wearing trend started losing his former shine and wigs became smaller and more formal, being used as part of a uniform for certain professions. Understandably, wigs became a fashion *faux pas* in France after the French Revolution, as they were perceived as a 'royal' accessory.
+During the XVIII century, however, the wig-wearing trend started losing its former shine and wigs became smaller and more formal, being used as part of a uniform for certain professions. Understandably, wigs became a fashion *faux pas* in France after the French Revolution, as they were perceived as a 'royal' accessory.
 
 This is some information that most people probably didn't need, but in case someone wants to delve deeper into the matter, here are a couple of resources I used to write this brief note:
 

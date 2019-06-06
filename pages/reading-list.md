@@ -8,24 +8,24 @@ permalink: reading-list
 
 **2019**
 
-1. *Can't Hurt Me: Master Your Mind and Defy the Odds*, David Goggins ⭐️
+1. *Can't Hurt Me*, David Goggins ⭐️
 2. *Roman Republic*, Isaac Asimov (DNF)
-3. *Ulysses and the weasel: a nice introduction to financial markets*, Georg von Wallwitz
-4. *Planning for Everything: The Design of Paths and Goals*, Peter Morville ⭐️
+3. *Ulysses and the weasel*, Georg von Wallwitz
+4. *Planning for Everything*, Peter Morville ⭐️
 5. *A Room of One's Own*, Virginia Woolf ⭐️
 6. *Circe*, Madeline Miller
-7. *Skin in the Game: The Hidden Asymmetries in Daily Life*, Nicholas Nassim Taleb
-8. *The Untethered Soul: The Journey Beyond Yourself*, Michael A. Singer ⭐️
-9. *Predictably Irrational: The Hidden Forces That Shape Our Decisions*, Dan Ariely ⭐️
-10. *Understanding Context: Environment, Language, and Information Architecture*, Andrew Hinton ⭐️
+7. *Skin in the Game*, Nicholas Nassim Taleb
+8. *The Untethered Soul*, Michael A. Singer ⭐️
+9. *Predictably Irrational*, Dan Ariely ⭐️
+10. *Understanding Context*, Andrew Hinton ⭐️
 11. *My Favorite Half-Night Stand*, Christina Lauren (DNF)
-12. *Universal Principles of Design: 100 Ways to Enhance Usability, Influence Perception, Increase Appeal, Make Better Design Decisions, and Teach Through Design*, William Lidwell
-13. *They Were Sisters*, Dorothy Whipple
-14. *Making and Breaking the Grid: A Graphic Design Layout Workshop*, Timothy Samara
-15. *A Little History of Philosophy*, Nigel Warburton
+12. *Universal Principles of Design*, William Lidwell
+13. *They Were Sisters*, Dorothy Whipple ⭐️
+14. *Making and Breaking the Grid*, Timothy Samara ⭐️
+15. *A Little History of Philosophy*, Nigel Warburton ⭐️
 16. *Pure*, Rose Bretécher
 17. *Then She Was Gone*, Lisa Jewell
-18. *Magallanes: El hombre y su gesta*, Stefan Zweig
+18. *Magallanes*, Stefan Zweig ⭐️
 19. *All the Bright Places*, Jennifer Niven
 
 **2018**
@@ -38,18 +38,18 @@ permalink: reading-list
 2. *The opposite of loneliness*, Martina Keegan
 2. *Atomic Design*, Brad Frost ⭐️
 3. *Impact Mapping*, Gojko Adzic
-1. *Why Grow Up?: Subversive Thoughts for an Infantile Age*, Susan Neiman ⭐️
+1. *Why Grow Up?*, Susan Neiman ⭐️
 1. *The problem that has no name*, Betty Friedan ⭐️
 1. *Seven Brief Lessons on Physics*, Carlo Rovelli ⭐️
 2. *Mental Healers*, Stefan Zweig ⭐️
 3. *Why Be Happy When You Could Be Normal?*, Jeanette Winterson ⭐️
-4. *Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days*, Jake Knapp, John Zeratsky and Brad Kowitz
+4. *Sprint*, Jake Knapp, John Zeratsky and Brad Kowitz
 5. *The Nature of Software Development*, Ron Jeffries ⭐️
 6. *Little Women*, Louisa May Alcott ⭐️
 7. *Good Wives*, Louisa May Alcott ⭐️
-8. *Messy: The Power of Disorder to Transform Our Lives*, Tim Harford ⭐️
+8. *Messy*, Tim Harford ⭐️
 9. *100 Things Every Designer Needs to Know about People*, Susan M. Weinschenk ⭐️
-10. *Design Systems: A practical guide to creating design languages for digital products*, Alla Kholmatova ⭐️
+10. *Design Systems*, Alla Kholmatova ⭐️
 11. *Travels with Charley: In Search of America*, John Steinbeck ⭐️
 12. *Stuart: A Life Backwards*, Alexander Masters ⭐️
 13. *Montaigne*, Stefan Zweig ⭐️
@@ -57,23 +57,23 @@ permalink: reading-list
 15. *Hormonal*, Martie Haselton
 16. *12 Rules for Life: An Antidote to Chaos*, Jordan B. Peterson ⭐️
 17. *Notes on a Nervous Planet*, Matt Haig ⭐️
-18. *Those Who Leave and Those Who Stay (The Neapolitan Novels, #3)*, Elena Ferrante
-19. *The Story of the Lost Child (The Neapolitan Novels, #4)*, Elena Ferrante ⭐️
-20. *Articulating Design Decisions: Communicate with Stakeholders, Keep Your Sanity, and Deliver the Best User Experience*, Tom Greever
+18. *Those Who Leave and Those Who Stay*, Elena Ferrante
+19. *The Story of the Lost Child*, Elena Ferrante ⭐️
+20. *Articulating Design Decisions*, Tom Greever
 21. *He comes next*, Ian Kerner
 21. *Digital Color And Type*, Rob Carter ⭐️
-22. *Sketching User Experiences: The Workbook*, Bill Buxton,  Saul Greenberg, Sheelagh Carpendale, Nicolai Marquardt
+22. *Sketching User Experiences*, Bill Buxton,  Saul Greenberg, Sheelagh Carpendale, Nicolai Marquardt
 23. *The Vignelli Canon*, Massimo Vignelli ⭐️
 24. *Radical Candor*, Kim Malone Scott
-25. *Designing with the Mind in Mind: Simple Guide to Understanding User Interface Design Rules*, Jeff Johnson ⭐️
+25. *Designing with the Mind in Mind*, Jeff Johnson ⭐️
 26. *The Queen's Gambit*, Walter Tevis
 27. *Olivia*, Dorothy Strachey
 28. *Design as Art*, Bruno Munari ⭐️
 29. *Lucy Gayheart*, Willa Cather
 30. *It Doesn't Have to Be Crazy at Work*, Jason Fried ⭐️
-31. *The Subtle Art of Not Giving a Fxck: A Counterintuitive Approach to Living a Good Life*, Mark Manson ⭐️
+31. *The Subtle Art of Not Giving a Fxck*, Mark Manson ⭐️
 32. *Mark Manson on Relationships*, Mark Manson
-33. *Factfulness: Ten Reasons We're Wrong About the World – and Why Things Are Better Than You Think*, Hans Rosling ⭐️
+33. *Factfulness*, Hans Rosling ⭐️
 34. *Reasons to Stay Alive*, Matt Haig
 
 
@@ -84,29 +84,29 @@ permalink: reading-list
 1. *Feeling Good: The New Mood Therapy*,	David Burns
 1. *Love yourself like your life depends on it*,	Kamal Ravikant
 1. *Assassin's Apprentice*, Robin Hobbs
-1. *A Guide to the Good Life: The Ancient Art of Stoic Joy*, William B. Irvine
+1. *A Guide to the Good Life*, William B. Irvine
 1. *Nina is Not OK*, Shappi Khorsandi
 1. *Man's Search for Meaning*, Victor E. Frankl
 1. *The World of Yesterday*, Stefan Zweig ⭐️
 1. *Poke the Box*, Seth Godin
 1. *But You Did Not Come Back*, Marceline Loridan-Ivens
-1. *Mindwise: Why We Misunderstand What Others Think, Believe, Feel, and Want*, Nicholas Epley ⭐️
-1. *The Little Book of Talent: 52 Tips for Improving Your Skills*, Daniel Coyle
-1. *Bird by Bird: Some Instructions on Writing and Life*, Anne Lamott ⭐️
-1. *Essentialism: The Disciplined Pursuit of Less*, Gref McKeown ⭐️
-1. *Come as You Are: The Surprising New Science that Will Transform Your Sex Life*, Emily Nagoski ⭐️
+1. *Mindwise*, Nicholas Epley ⭐️
+1. *The Little Book of Talent*, Daniel Coyle
+1. *Bird by Bird*, Anne Lamott ⭐️
+1. *Essentialism*, Gref McKeown ⭐️
+1. *Come as You Are*, Emily Nagoski ⭐️
 1. *Jane Eyre*, Charlotte Brontë (re-read) ⭐️
 1. *When Breat Becomes Air*, Paul Kalanithi ⭐️
-1. *The Power of Habit: Why We Do What We Do in Life and Business*, Charles Duhigg ⭐️
+1. *The Power of Habit*, Charles Duhigg ⭐️
 1. *The Priory*, Dorothy Whipple ⭐️
-1. *Emotional Design: Why We Love (or Hate) Everyday Things*, Donald A. Norman
+1. *Emotional Design*, Donald A. Norman
 1. *101 Things I Learned in Architecture School*, Matthew Frederick
-1. *Intertwingled: Information Changes Everything*, Peter Morville ⭐️
+1. *Intertwingled*, Peter Morville ⭐️
 1. *Don't Make Me Think*, Steve Krug
-1. *Search Patterns: Design for Discovery*, Peter Morville
-1. *The Sketchnote Handbook: The Illustrated Guide to Visual Note Taking*, Mike Rohde ⭐️
+1. *Search Patterns*, Peter Morville
+1. *The Sketchnote Handbook*, Mike Rohde ⭐️
 1. *The Woman in White*, Wilkie Collins
-1. *My Brilliant Friend (L'amica geniale, #1)*, Elena Ferrante ⭐️
+1. *My Brilliant Friend*, Elena Ferrante ⭐️
 1. *Siddhartha*, Hermann Hesse ⭐️
 1. *It's Okay to Laugh*, Nora McInerny Purmort ⭐️
 

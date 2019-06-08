@@ -18,7 +18,7 @@ For any queries, send an email to <irenealgi@gmail.com>
 
 #### More about me
 
-* [My Design Principles](https://irenealegre.com/my-design-principles){:target="_blank"}
-* [My UX Process](https://irenealegre.com/ux-process){:target="_blank"}
-* [12 Great Books I Read in 2018](https://irenealegre.com/12-books-2018){:target="_blank"}
-* [Reading List](https://irenealegre.com/reading-list){:target="_blank"}
+* [My Design Principles](/my-design-principles)
+* [My UX Process](/ux-process)
+* [12 Great Books I Read in 2018](/12-books-2018)
+* [Reading List](/reading-list)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "N-Sure: an app to keep track of your insurance policies"
-description: "Monzo Oven Exercise"
+description: "Thought Machine exercise"
 permalink: thought-machine
 ---
 

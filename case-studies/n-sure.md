@@ -1,11 +1,16 @@
 ---
 layout: post
 title: "N-Sure: an app to keep track of your insurance policies"
-description: "Thought Machine exercise"
-permalink: thought-machine
+description: "Design concept for an insurance tracker"
+permalink: n-sure
 ---
 
-### Problem statement
+* **Project type:** Concept project, Design challenge
+* **Duration:** 2 days
+* **Tools:** Pen and paper, Sketch
+* **Processes:** Sketching, prototyping, persona creation, user flows
+
+### The problem
 
 Keeping track of all the various personal insurance policies that we have is difficult. Take a typical couple who have children, a house, a cat and a car. For such a household the following types of insurance are pretty likely to be in place all the time:
 
@@ -22,15 +27,9 @@ Although some of these insurance products might be sourced from the same provide
 
 People will have different solutions in place to keep track, perhaps an email folder or even a file folder but very few would say they are on top of the admin or know where the right information is when you need it, say when needing to claim or change provider.
 
-### Scenario
+### The challenge
 
-You are joining a startup which is looking to take advantage of new legislation requiring insurance providers to standardise their policy language and provide public APIs. This company has built techniques to import any insurance policy either through forwarded insurance policy emails or through a lookup of provider + policy ID.
-
-The company is calling on you to help design their native app that will allow users to track and manage their insurance policies.
-
-### Design task
-
-To get the ball rolling on your first day your new boss asks you to pick a journey that you think would be important within their app and create three short deliverables:
+To get the ball rolling on your first day your new boss asks you to pick a journey that you think would be important within their Android app and create three short deliverables:
 
 1. A short research proposal which describes your selected journey and sets out what questions you would have for users to hone your design for it. (Max 300 words)
 2. A wireflow that sets out how you would structure the journey (low fidelity, hand drawn is fine)
@@ -38,7 +37,7 @@ To get the ball rolling on your first day your new boss asks you to pick a journ
 
 Your boss tells you to take no more than half a day on this task and asks that you assemble your deliverables as a single web page for review.
 
-## The task
+### Choosing a flow and defining a research strategy
 
 For my first project at N-Sure, I'd like to tackle the 'Add New Insurance Policy' journey, which should take the user from the moment they choose to add a new policy all the way to them viewing the information about their policy.
 
@@ -59,7 +58,7 @@ I'd also like to test the following:
 - How comfortable would they be with giving us access to their inbox and/or forwarding the N-Sure team emails from their insurance company?
 - Is our concept trustworthy, or are we asking for too sensitive information?
 
-## Jenna needs to add a new policy to her tracker
+### The flows: Jenna needs to add a new policy to her tracker
 
 Jenna just got a new motorcycle and has put it under insurance.
 
@@ -68,11 +67,13 @@ Already being an N-Sure user, Jenna only needs to add her new motorcycle insuran
 ![](images/case_studies/n-sure/flows.png)
 ![](images/case_studies/n-sure/wireflows.png)
 
+### Final designs
+
 Here are a three mockups displaying the home screen, the screen where you can choose what type of insurance you will add, and the screen where you input the information to find your policy.
 
 The step where the user selects how they are going to search for the information (policy ID vs forwarding emails) has been omitted.
 
-![](images/case_studies/n-sure/insurancemockup.png)
+![](images/case_studies/n-sure/n-sure-mockup.png)
 
 Left to right:
 

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Healum"
+description: "Healum Test"
+permalink: healum-test
 ---
 
 * **Project type:** Technical test

@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "Unmortgage: Managing Your Account"
+title: "Unmortgage Test"
+description: "Unmortgage Test"
+permalink: unmortgage-test
 ---
 
 
@@ -25,18 +27,18 @@ As an owner-tenant...
 1. I need to pay my rent every month
 2. I need to increase my ownership regularly
 3. I need to maintain the property and report maintenance issues
-4. I need to be able to access some critical Documents 
+4. I need to be able to access some critical Documents
 
 
 ## Understanding The Product
 
-My first step was to spend some time on their website to really understand their product. This mostly involved playing with their calculator, which gives you an approximate idea on how much money you could spend on a house with the help of Unmortgage, as opposed to using other means to support your purchase. 
+My first step was to spend some time on their website to really understand their product. This mostly involved playing with their calculator, which gives you an approximate idea on how much money you could spend on a house with the help of Unmortgage, as opposed to using other means to support your purchase.
 
-The calculator takes into account two main variables: household income and first-time deposit. 
+The calculator takes into account two main variables: household income and first-time deposit.
 
 ![](images/case_studies/unmortgage/Online calculator.png)
 
-My main issue with the tool was that I was not able to bring the value of my potential house down, and therefore if I increased my household income both value and rent would exceed my needs and expectations. 
+My main issue with the tool was that I was not able to bring the value of my potential house down, and therefore if I increased my household income both value and rent would exceed my needs and expectations.
 
 > "Maybe I earn a lot of money but I want to spend little on rent and I have no desire to own a super expensive property" – myself
 
@@ -46,7 +48,7 @@ In this situation, I (as a user) am forced to lie about my income, which is not 
 
 This was probably overkill, but I *really* needed to understand this, so I went back to my trusty Google Sheets and created an "Unmortgage Calculator" where I can play around with several values and find out how much more would I need to contribute to purchase an additional 5% (£30,000) OR how much of my property would £10,000 buy me at this point in time (1.6%).
 
-![](images/case_studies/unmortgage/Calculator.png) 
+![](images/case_studies/unmortgage/Calculator.png)
 
 What can I say, this makes me really happy. Maybe I'm weird, who knows. Also, this unexpectedly helped me build the "Rent Calculator" I'm displaying in the next section.
 
@@ -64,11 +66,11 @@ I opted for a two-level navigation, [similar to what Giffgaff do](images/case_st
 Main problems to cover:
 
 - How to calculate my next payment due
-- When will my rent increase and by how much 
+- When will my rent increase and by how much
 - Last payment and calculation breakdown
 - Payment history - old invoices etc
 
-#### When will rent increase, and by how much? 
+#### When will rent increase, and by how much?
 I really struggled with this one because rent can increase due to a change in valuation, which is – I believe – a bit unpredictable and outside the user's control, *but* it can also decrease if the user contributes towards ownership.
 
 I solved this by displaying the next payment date.
@@ -111,7 +113,7 @@ Displaying current ownership level is done both on the Account Details screen an
 
 #### Displaying valuation history
 
-For this screen I used the aforementioned "History Page" component, and added a graph that would visually introduce the ups and downs of property valuation overtime. 
+For this screen I used the aforementioned "History Page" component, and added a graph that would visually introduce the ups and downs of property valuation overtime.
 
 ![](images/case_studies/unmortgage/Valuation history (midi).png)
 
@@ -121,7 +123,7 @@ Both options are accessible through the Staircasing Screen. If you want to contr
 
 ![](images/case_studies/unmortgage/Contribute towards ownership (mid).png)
 
-The tricky bit comes when the user wants to set up a recurring payment *because* they can't exceed the 5% annual contribution allowance. This meant that it had to be very clear what happens to the money once the 5% limit is reached. 
+The tricky bit comes when the user wants to set up a recurring payment *because* they can't exceed the 5% annual contribution allowance. This meant that it had to be very clear what happens to the money once the 5% limit is reached.
 
 On top of that, I also thought it'd be important that the user could choose how often they would like to make the payment, and what the amount would be. The form will also translate the amount into an ownership percentage based on the number of annual instalments.
 
@@ -132,11 +134,11 @@ To be honest, I think this screen requires a lot more thinking (and more time).
 
 ## Maintanance and Documentation
 
-The user needs to be able to report any maintenance issues they may have, as well as download previous invoices and other documentation. 
+The user needs to be able to report any maintenance issues they may have, as well as download previous invoices and other documentation.
 
 The reporting tool is inspired by the tool I use to interact with my property agency when maintenance issues arise. It's fairly straightforwad: you select the type of issue you want to report and a input box appears so that you can add more details and send in your request.
 
-This could also include the ability to add a date, upload an image or include tenant availability. 
+This could also include the ability to add a date, upload an image or include tenant availability.
 
 ![](images/case_studies/unmortgage/Reporting issue (midi).png)
 
@@ -150,7 +152,7 @@ Finally, I kept the Documentation screen separate from everything else and as si
 
 ## The Visuals
 
-Using Unmortgage's colour palette and a font that looks similar to theirs, I designed the high-fidelity visuals for three of the screens presented above. 
+Using Unmortgage's colour palette and a font that looks similar to theirs, I designed the high-fidelity visuals for three of the screens presented above.
 
 Because this is a site users are going to come back to over and over in order to pay their rent or contribute to the ownership of their property, I decided to combine the colours into a subdued palette with a lot of white space and pastel shades.
 
@@ -163,5 +165,3 @@ Because this is a site users are going to come back to over and over in order to
 This has been the most fun and engaging technical test I've done so far, so thank you Unmortgage for suggesting it!
 
 There are several things that could use a few more time to be thought through, such as the super long and text-heavy "Recurring Staircasing Form" screen, but on the overall I'm pretty happy with this concept.
-
-

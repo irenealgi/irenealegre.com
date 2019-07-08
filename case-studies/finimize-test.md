@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "Designing Finimize's Welcome Page"
+title: "Finimize"
+description: "Finimize Test"
+permalink: finimize-test
 ---
 
 

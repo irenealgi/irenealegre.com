@@ -5,6 +5,9 @@ description: All of the books!
 permalink: reading-list
 ---
 
+**2020**
+
+1. *The Golden Compass*, Philip Pullman
 
 **2019**
 
@@ -27,6 +30,23 @@ permalink: reading-list
 17. *Then She Was Gone*, Lisa Jewell
 18. *Magallanes*, Stefan Zweig ⭐️
 19. *All the Bright Places*, Jennifer Niven
+20. *Tiny Beautiful Things*, Cheryl Strayed ⭐️
+21. *Educated*, Tara Westover ⭐️
+22. *The Making of a Manager*, Julie Zhuo ⭐️
+23. *Half of a Yellow Sun*, Chimamanda Ngozi Adichie
+24. *Everybody Lies*, Seth Stephens-Davidowitz
+25. *Unrequited*, Lisa A. Phillips
+26. *The courage to be disliked*, Ichiro Kishimi ⭐️
+27. *The Language of Things*, Deyan Sudjic
+28. *Life 3.0: Being Human in the Age of Artificial Intelligence*, Max Tegmark
+29. *A guide to psychotherapy*, Gerald Amada
+30. *How to relax*, Thích Nhất Hạnh ⭐️
+31. *Get Out of Your Mind and Into Your Life*, Steven Hayes
+32. *How to love*, Thích Nhất Hạnh
+33. *How to see*, Thích Nhất Hạnh
+34. *How to Live: A Life of Montaigne*, Sarah Bakewell ⭐️
+35. *The Wisdom of No Escape*, Pema Chödrön
+36. *No Mud, No Lotus: The Art of Transforming Suffering*, Thích Nhất Hạnh ⭐️
 
 **2018**
 

@@ -8,6 +8,23 @@ permalink: reading-list
 **2020**
 
 1. *The Golden Compass*, Philip Pullman
+2. *East of Eden*, John Steinbeck ⭐️
+3. *Waking up*, Sam Harris
+4. *Normal people*, Sally Rooney
+5. *An emotional education*, The School of life ⭐️
+6. *The tattooist of Auschwitz*, Heather Morris
+7. *Promising young women*, Caroline O'Donoghue
+8. *How the world thinks*, Julian Baggini
+9. *The Woman Who Thought too Much*, Joanne Limburg ⭐️
+10. *Little fires everywhere*, Celest Ng
+11. *OCD sucks!*, Jeremy Nickel
+12. *The OCD stories*, Stuart Ralph
+13. *How to Deal with OCD*, Elizabeth Forrester
+14. *Fear*, Thich Nhat Hanh
+15. *Eleanor Oliphant is completely fine*, Gail Honeyman
+16. *The Go-Between*, L.P. Hartley
+17. *Jony Ive*, Leander Kahney
+18. *Dark places*, Gillian Flynn
 
 **2019**
 

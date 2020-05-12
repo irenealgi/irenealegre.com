@@ -24,7 +24,7 @@ permalink: reading-list
 15. *Eleanor Oliphant is completely fine*, Gail Honeyman
 16. *Jony Ive*, Leander Kahney
 17. *Dark places*, Gillian Flynn
-18. *Unnatural Causes*, Richard Shepherd
+18. *Unnatural Causes*, Richard Shepherd ⭐️
 
 **2019**
 

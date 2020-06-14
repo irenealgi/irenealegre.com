@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My Design Checklist"
+title: "My design checklist"
 description: Below is a checklist that I will try to keep short but current.
 separator: ✏️
 ---

@@ -25,6 +25,12 @@ permalink: reading-list
 16. *Jony Ive*, Leander Kahney
 17. *Dark places*, Gillian Flynn
 18. *Unnatural Causes*, Richard Shepherd ⭐️
+19. *Mood Indigo*, Boris Vian (DNF)
+20. *Station Eleven*, Emily St. John Mandel ⭐️
+21. *The Checklist Manifesto*, Atul Gawande
+22. *Maya Angelou: Complete Poetry*, Maya Angelou (DNF)
+23. *Needing to know for sure*, Martin N. Seif
+24. *In America*, Susan Sontag
 
 **2019**
 

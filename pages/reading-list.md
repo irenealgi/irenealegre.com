@@ -31,6 +31,21 @@ permalink: reading-list
 22. *Maya Angelou: Complete Poetry*, Maya Angelou (DNF)
 23. *Needing to know for sure*, Martin N. Seif
 24. *In America*, Susan Sontag
+25. *I'm Thinking of Ending Things*, Iain Reid ⭐️
+26. *Design Is Storytelling*, Ellen Lupton ⭐️
+27. *The Man Who Mistook His Wife for a Hat*, Oliver Sacks ⭐️
+28. *Get a Life, Chloe Brown*, Talia Hibbert
+29. *The Empathy Effect*, Helen Riess ⭐️
+30. *Specimen Days*, Michael Cunningham ⭐️
+31. *Leaves of Grass*, Walt Whitman
+32. *My travels through Africa*, Winston Churchill ⭐️
+33. *Calypso*, David Sedaris ⭐️
+34. *Radio Silence*, Alice Oseman
+35. *Someone at a Distance*, Dorothy Whipple ⭐️
+36. *B is for Bauhaus*, Deyan Sudjic ⭐️
+37. *The Photograph*, Penelope Lively
+38. *The Grace Year*, Kim Liggett
+39. *Pillow Thoughts*, Courtney Peppernell
 
 **2019**
 

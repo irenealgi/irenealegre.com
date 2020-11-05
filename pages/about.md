@@ -22,3 +22,4 @@ For any queries, send an email to <irenealgi@gmail.com>
 * [My UX Process](/ux-process)
 * [12 Great Books I Read in 2018](/12-books-2018)
 * [Reading List](/reading-list)
+* [Weekly Log](/log)

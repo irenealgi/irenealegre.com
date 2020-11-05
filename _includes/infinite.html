@@ -1,0 +1,16 @@
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="/js/infinite-jekyll.js"></script>
+
+<div id="infinite">
+  <div class="post-list">
+    {{ content }}
+  </div>
+  <div class="infinite-spinner">
+    <div class="sk-child sk-double-bounce1"></div>
+    <div class="sk-child sk-double-bounce2"></div>
+  </div>
+</div>
+
+<script>
+  infiniteScroll({{ items | map: "url" | jsonify }});
+</script>

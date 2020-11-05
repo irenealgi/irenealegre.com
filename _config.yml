@@ -18,8 +18,12 @@ description: Hello, I'm Irene. I'm a Product Designer based in London.
 
 # Build settings
 markdown: kramdown
-
 permalink: :title
+
+collections:
+  log:
+    output: true
+    permalink: /log/:title/
 
 sass:
   style: :compressed

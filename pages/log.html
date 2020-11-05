@@ -1,0 +1,26 @@
+---
+layout: default
+title: "Log"
+description: The personal blog of product designer Irene Alegre.
+permalink: log
+---
+
+{% include left_title.html %}
+
+<div class="container">
+  <div id="post" class="col-lg-8 col-lg-offset-2">
+  <div id="log_description">What I've been up to every week</div>
+    {% assign items = site.log | reverse %}
+
+    {% capture content %}
+      {% for item in items limit: 10 %}
+        <div class="post">
+          <h2><a class="title" href="{{ item.url }}">{{ item.title }}</a></h2>
+          {{ item.content }}
+        </div>
+      {% endfor %}
+    {% endcapture %}
+
+    {% include infinite.html %}
+  </div>
+</div>

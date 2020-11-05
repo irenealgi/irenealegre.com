@@ -1,6 +1,7 @@
 ---
 ---
 
+@import "spinner";
 @import "syntax";
 
 $sans_serif_font_family: 'Montserrat', sans-serif;
@@ -339,4 +340,18 @@ pre {
   overflow: auto;
   font-size: 73%;
   line-height: 1.3em;
+}
+
+#infinite {
+  .one h2 a {
+    color: inherit;
+    pointer-events: none;
+    cursor: default;
+  }
+
+}
+
+#log_description {
+  color: silver;
+  margin-top: -10px;
 }

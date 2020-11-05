@@ -23,7 +23,7 @@ permalink: :title
 collections:
   log:
     output: true
-    permalink: /log/:title/
+    permalink: /log/:title
 
 sass:
   style: :compressed

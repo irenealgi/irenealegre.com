@@ -14,38 +14,44 @@ permalink: reading-list
 5. *An emotional education*, The School of life ⭐️
 6. *The tattooist of Auschwitz*, Heather Morris
 7. *Promising young women*, Caroline O'Donoghue
-8. *How the world thinks*, Julian Baggini
-9. *The Woman Who Thought too Much*, Joanne Limburg ⭐️
-10. *Little fires everywhere*, Celest Ng
-11. *OCD sucks!*, Jeremy Nickel
-12. *The OCD stories*, Stuart Ralph
-13. *How to Deal with OCD*, Elizabeth Forrester
-14. *Fear*, Thich Nhat Hanh
-15. *Eleanor Oliphant is completely fine*, Gail Honeyman
-16. *Jony Ive*, Leander Kahney
-17. *Dark places*, Gillian Flynn
-18. *Unnatural Causes*, Richard Shepherd ⭐️
-19. *Mood Indigo*, Boris Vian (DNF)
-20. *Station Eleven*, Emily St. John Mandel ⭐️
-21. *The Checklist Manifesto*, Atul Gawande
-22. *Maya Angelou: Complete Poetry*, Maya Angelou (DNF)
-23. *Needing to know for sure*, Martin N. Seif
-24. *In America*, Susan Sontag
-25. *I'm Thinking of Ending Things*, Iain Reid ⭐️
-26. *Design Is Storytelling*, Ellen Lupton ⭐️
-27. *The Man Who Mistook His Wife for a Hat*, Oliver Sacks ⭐️
-28. *Get a Life, Chloe Brown*, Talia Hibbert
-29. *The Empathy Effect*, Helen Riess ⭐️
-30. *Specimen Days*, Michael Cunningham ⭐️
-31. *Leaves of Grass*, Walt Whitman
-32. *My travels through Africa*, Winston Churchill ⭐️
-33. *Calypso*, David Sedaris ⭐️
-34. *Radio Silence*, Alice Oseman
-35. *Someone at a Distance*, Dorothy Whipple ⭐️
-36. *B is for Bauhaus*, Deyan Sudjic ⭐️
-37. *The Photograph*, Penelope Lively
-38. *The Grace Year*, Kim Liggett
-39. *Pillow Thoughts*, Courtney Peppernell
+8. *The Woman Who Thought too Much*, Joanne Limburg ⭐️
+9. *Little fires everywhere*, Celest Ng
+10. *OCD sucks!*, Jeremy Nickel
+11. *The OCD stories*, Stuart Ralph
+12. *How to Deal with OCD*, Elizabeth Forrester
+13. *Fear*, Thich Nhat Hanh
+14. *Eleanor Oliphant is completely fine*, Gail Honeyman
+15. *Jony Ive*, Leander Kahney
+16. *Dark places*, Gillian Flynn
+17. *Unnatural Causes*, Richard Shepherd ⭐️
+18. *Station Eleven*, Emily St. John Mandel ⭐️
+19. *The Checklist Manifesto*, Atul Gawande
+20. *Maya Angelou: Complete Poetry*, Maya Angelou (DNF)
+21. *Needing to know for sure*, Martin N. Seif
+22. *In America*, Susan Sontag
+23. *I'm Thinking of Ending Things*, Iain Reid ⭐️
+24. *Design Is Storytelling*, Ellen Lupton ⭐️
+25. *The Man Who Mistook His Wife for a Hat*, Oliver Sacks ⭐️
+26. *Get a Life, Chloe Brown*, Talia Hibbert
+27. *The Empathy Effect*, Helen Riess ⭐️
+28. *Specimen Days*, Michael Cunningham ⭐️
+29. *Leaves of Grass*, Walt Whitman
+30. *Calypso*, David Sedaris ⭐️
+31. *Radio Silence*, Alice Oseman
+32. *Someone at a Distance*, Dorothy Whipple ⭐️
+33. *B is for Bauhaus*, Deyan Sudjic ⭐️
+34. *The Photograph*, Penelope Lively
+35. *The Grace Year*, Kim Liggett
+36. *Pillow Thoughts*, Courtney Peppernell
+37. *Atomic Habits,* James Clear ⭐️
+38. *We Have Always Lived in the Castle,* Shirley Jackson ⭐️
+39. *[Everyday Information Architecture](https://www.goodreads.com/book/show/45153739-everyday-information-architecture)*, Lisa Maria Martin ⭐️
+40. *[The Vanishing Half](https://www.goodreads.com/book/show/51791252-the-vanishing-half),* Brit Bennett ⭐️
+41. *[Holes](https://www.goodreads.com/book/show/38709.Holes)*, Louis Sachar ⭐️
+42. *[In Order to Live](https://www.goodreads.com/book/show/24611623-in-order-to-live),* Yeonmi Park ⭐️
+43. *[Content Design](https://www.goodreads.com/book/show/36124105-content-design),* Sarah Richards
+44. *[To the Lighthouse](https://www.goodreads.com/book/show/59716.To_the_Lighthouse)*, Virginia Woolf
+45. *[Persuasion](https://www.goodreads.com/book/show/2156.Persuasion)*, Jane Austen ⭐️
 
 **2019**
 

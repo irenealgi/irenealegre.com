@@ -43,7 +43,7 @@ Jane Austen's main characters tend to be mostly likable, mostly nice and friendl
 
 But that's ok because we've all been there at some point in our lives (and maybe we still are), so if we look deep inside and consider their behavior from a place of empathy and understanding we will like them and we will celebrate their small wins towards a better version of themselves.
 
-Every Jane Austen heroine has been given her own character arch. They all learn something from their trials and tribulations and come out wiser on the other side, and that's very interesting to see.
+Every Jane Austen heroine has been given her own character arc. They all learn something from their trials and tribulations and come out wiser on the other side, and that's very interesting to see.
 
 ### They focus on the journey, not the destination
 

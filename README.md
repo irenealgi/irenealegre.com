@@ -10,7 +10,7 @@ A [Jekyll][1] powered blog, hosted by [GitHub Pages][2] at https://irenealegre.c
 - Install [Homebrew][3]:
 
 ```
-/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
 - Install application:
@@ -34,8 +34,8 @@ echo 'eval "$(rbenv init -)"' >> ~/.bash_profile
 - Install Ruby:
 
 ```
-rbenv install 2.6.1
-rbenv global 2.6.1
+rbenv install 2.7.2
+rbenv global 2.7.2
 ```
 
 - Go to the directory where your portfolio is.
@@ -54,6 +54,13 @@ bundle install
 ```
 bundle exec jekyll server --livereload
 ```
+
+The line above can be summarised by alias 'jekyll'. If the alias hasn't been created yet, use the line below to set it up. For the alias to work - if it hasn't been created yet - you will have to restart the tab so that it's updated.
+```
+echo 'alias jekyll="bundle exec jekyll server --livereload"' >> ~/.bash_profile
+```
+
+Therefore, to start the application just type in `jekyll`
 
 - Go to http://127.0.0.1:4000
 

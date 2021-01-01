@@ -6,52 +6,57 @@ permalink: reading-list
 ---
 
 **2020**
-
-1. *The Golden Compass*, Philip Pullman
-2. *East of Eden*, John Steinbeck ⭐️
-3. *Waking up*, Sam Harris
-4. *Normal people*, Sally Rooney
-5. *An emotional education*, The School of life ⭐️
-6. *The tattooist of Auschwitz*, Heather Morris
-7. *Promising young women*, Caroline O'Donoghue
-8. *The Woman Who Thought too Much*, Joanne Limburg ⭐️
-9. *Little fires everywhere*, Celest Ng
-10. *OCD sucks!*, Jeremy Nickel
-11. *The OCD stories*, Stuart Ralph
-12. *How to Deal with OCD*, Elizabeth Forrester
-13. *Fear*, Thich Nhat Hanh
-14. *Eleanor Oliphant is completely fine*, Gail Honeyman
-15. *Jony Ive*, Leander Kahney
-16. *Dark places*, Gillian Flynn
-17. *Unnatural Causes*, Richard Shepherd ⭐️
-18. *Station Eleven*, Emily St. John Mandel ⭐️
-19. *The Checklist Manifesto*, Atul Gawande
-20. *Maya Angelou: Complete Poetry*, Maya Angelou (DNF)
-21. *Needing to know for sure*, Martin N. Seif
-22. *In America*, Susan Sontag
-23. *I'm Thinking of Ending Things*, Iain Reid ⭐️
-24. *Design Is Storytelling*, Ellen Lupton ⭐️
-25. *The Man Who Mistook His Wife for a Hat*, Oliver Sacks ⭐️
-26. *Get a Life, Chloe Brown*, Talia Hibbert
-27. *The Empathy Effect*, Helen Riess ⭐️
-28. *Specimen Days*, Michael Cunningham ⭐️
-29. *Leaves of Grass*, Walt Whitman
-30. *Calypso*, David Sedaris ⭐️
-31. *Radio Silence*, Alice Oseman
-32. *Someone at a Distance*, Dorothy Whipple ⭐️
-33. *B is for Bauhaus*, Deyan Sudjic ⭐️
-34. *The Photograph*, Penelope Lively
-35. *The Grace Year*, Kim Liggett
-36. *Pillow Thoughts*, Courtney Peppernell
-37. *Atomic Habits,* James Clear ⭐️
-38. *We Have Always Lived in the Castle,* Shirley Jackson ⭐️
-39. *[Everyday Information Architecture](https://www.goodreads.com/book/show/45153739-everyday-information-architecture)*, Lisa Maria Martin ⭐️
-40. *[The Vanishing Half](https://www.goodreads.com/book/show/51791252-the-vanishing-half),* Brit Bennett ⭐️
-41. *[Holes](https://www.goodreads.com/book/show/38709.Holes)*, Louis Sachar ⭐️
-42. *[In Order to Live](https://www.goodreads.com/book/show/24611623-in-order-to-live),* Yeonmi Park ⭐️
-43. *[Content Design](https://www.goodreads.com/book/show/36124105-content-design),* Sarah Richards
-44. *[To the Lighthouse](https://www.goodreads.com/book/show/59716.To_the_Lighthouse)*, Virginia Woolf
-45. *[Persuasion](https://www.goodreads.com/book/show/2156.Persuasion)*, Jane Austen ⭐️
+1. *[The Golden Compass](https://www.goodreads.com/book/show/119322.The_Golden_Compass)*, Philip Pullman
+2. *[East of Eden](https://www.goodreads.com/book/show/4406.East_of_Eden)*, John Steinbeck ⭐️
+3. *[Waking up](https://www.goodreads.com/book/show/18774981-waking-up)*, Sam Harris
+4. *[Normal people](https://www.goodreads.com/book/show/41057294-normal-people)*, Sally Rooney
+5. *[An emotional education](https://www.goodreads.com/book/show/43264830-the-school-of-life)*, The School of Life ⭐️
+6. *[The tattooist of Auschwitz](https://www.goodreads.com/book/show/38359036-the-tattooist-of-auschwitz)*, Heather Morris
+7. *[Promising young women](https://www.goodreads.com/book/show/36133254-promising-young-women)*, Caroline O'Donoghue
+8. *[The Woman Who Thought too Much](https://www.goodreads.com/book/show/10606967-the-woman-who-thought-too-much)*, Joanne Limburg ⭐️
+9. *[Little fires everywhere](https://www.goodreads.com/book/show/34273236-little-fires-everywhere)*, Celest Ng
+10. *[OCD sucks!](https://www.goodreads.com/book/show/27402819-ocd-sucks)*, Jeremy Nickel
+11. *[The OCD stories](https://www.goodreads.com/book/show/34701804-the-ocd-stories)*, Stuart Ralph
+12. *[How to Deal with OCD](https://www.goodreads.com/book/show/25820277-how-to-deal-with-ocd)*, Elizabeth Forrester
+13. *[Fear](https://www.goodreads.com/book/show/13623836-fear)*, Thich Nhat Hanh
+14. *[Eleanor Oliphant is completely fine](https://www.goodreads.com/book/show/31434883-eleanor-oliphant-is-completely-fine)*, Gail Honeyman
+15. *[Jony Ive](https://www.goodreads.com/book/show/17707768-jony-ive)*, Leander Kahney
+16. *[Dark places](https://www.goodreads.com/book/show/5886881-dark-places)*, Gillian Flynn
+17. *[Unnatural Causes](https://www.goodreads.com/book/show/27833843-unnatural-causes)*, Richard Shepherd ⭐️
+18. *[Station Eleven](https://www.goodreads.com/book/show/20170404-station-eleven)*, Emily St. John Mandel ⭐️
+19. *[The Checklist Manifesto](https://www.goodreads.com/book/show/6667514-the-checklist-manifesto)*, Atul Gawande
+20. *[Maya Angelou: Complete Poetry](https://www.goodreads.com/book/show/41208165-maya-angelou)*, Maya Angelou (DNF)
+21. *[Needing to know for sure](https://www.goodreads.com/book/show/43319540-needing-to-know-for-sure)*, Martin N. Seif
+22. *[In America](https://www.goodreads.com/book/show/52376.In_America)*, Susan Sontag
+23. *[I'm Thinking of Ending Things](https://www.goodreads.com/book/show/40605223-i-m-thinking-of-ending-things)*, Iain Reid ⭐️
+24. *[Design Is Storytelling](https://www.goodreads.com/book/show/34696391-design-is-storytelling)*, Ellen Lupton ⭐️
+25. *[The Man Who Mistook His Wife for a Hat](https://www.goodreads.com/book/show/63697.The_Man_Who_Mistook_His_Wife_for_a_Hat_and_Other_Clinical_Tales)*, Oliver Sacks ⭐️
+26. *[Get a Life, Chloe Brown](https://www.goodreads.com/book/show/43884209-get-a-life-chloe-brown)*, Talia Hibbert
+27. *[The Empathy Effect](https://www.goodreads.com/book/show/40190156-the-empathy-effect)*, Helen Riess ⭐️
+28. *[Specimen Days](https://www.goodreads.com/book/show/2136.Specimen_Days)*, Michael Cunningham ⭐️
+29. *[Leaves of Grass](https://www.goodreads.com/book/show/27494.Leaves_of_Grass)*, Walt Whitman
+30. *[Calypso](https://www.goodreads.com/book/show/38348476-calypso)*, David Sedaris ⭐️
+31. [*The man who couldn't stop*](https://www.goodreads.com/book/show/20930755-the-man-who-couldn-t-stop), David Adam
+32. *[Radio Silence](https://www.goodreads.com/book/show/25322449-radio-silence)*, Alice Oseman
+33. *[Someone at a Distance](https://www.goodreads.com/book/show/605668.Someone_at_a_Distance)*, Dorothy Whipple ⭐️
+34. *[B is for Bauhaus](https://www.goodreads.com/book/show/17470788-b-is-for-bauhaus)*, Deyan Sudjic ⭐️
+35. *[The Photograph](https://www.goodreads.com/book/show/202858.The_Photograph)*, Penelope Lively
+36. *[The Grace Year](https://www.goodreads.com/book/show/43263520-the-grace-year)*, Kim Liggett
+37. *[Pillow Thoughts](https://www.goodreads.com/book/show/32468495-pillow-thoughts)*, Courtney Peppernell
+38. *[Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits),* James Clear ⭐️
+39. *[We Have Always Lived in the Castle](https://www.goodreads.com/book/show/89724.We_Have_Always_Lived_in_the_Castle),* Shirley Jackson ⭐️
+40. *[Everyday Information Architecture](https://www.goodreads.com/book/show/45153739-everyday-information-architecture?from_search=true&from_srp=true&qid=x5Wrn4vpLR&rank=1)*, Lisa Maria Martin ⭐️
+41. *[The Vanishing Half](https://www.goodreads.com/book/show/51791252-the-vanishing-half?ac=1&from_search=true&qid=lQxTbdMv3I&rank=1),* Brit Bennett ⭐️
+42. *[Holes](https://www.goodreads.com/book/show/38709.Holes?ac=1&from_search=true&qid=w4lTXN3dzU&rank=1)*, Louis Sachar ⭐️
+43. *[In Order to Live: A North Korean Girl's Journey](https://www.goodreads.com/book/show/24611623-in-order-to-live?ac=1&from_search=true&qid=PMVJrPiEhX&rank=1),* Yeonmi Park ⭐️
+44. *[Content Design](https://www.goodreads.com/book/show/36124105-content-design?ac=1&from_search=true&qid=5wOQl6pjH1&rank=1),* Sarah Richards
+45. *[To the Lighthouse](https://www.goodreads.com/book/show/59716.To_the_Lighthouse?ac=1&from_search=true&qid=00gVlAnv5i&rank=1)*, Virginia Woolf
+46. *[Persuasion](https://www.goodreads.com/book/show/2156.Persuasion?ac=1&from_search=true&qid=UUGpz0AxkK&rank=1)*, Jane Austen ⭐️
+47. *[I've been meaning to tell you](https://www.goodreads.com/book/show/37487246-i-ve-been-meaning-to-tell-you)*, David Chariandy
+48. [*I capture the castle*](https://www.goodreads.com/book/show/31122.I_Capture_the_Castle), Dodie Smith ⭐️
+49. [*Red at the bone*](https://www.goodreads.com/book/show/43697186-red-at-the-bone), Jacqueline Woodson
+50. *[Eleanor & Park](https://www.goodreads.com/book/show/15745753-eleanor-park)*, Rainbow Rowell
+51. *[Antifragile](https://www.goodreads.com/book/show/13530973-antifragile)*, Nassim Taleb ⭐️
 
 **2019**
 

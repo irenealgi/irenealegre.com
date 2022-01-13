@@ -4,6 +4,33 @@ title: "Reading List"
 description: All of the books!
 permalink: reading-list
 ---
+**2022**
+
+1. *[The Positive Birth Book: A New Approach to Pregnancy, Birth and the Early Weeks](https://www.goodreads.com/book/show/33870922-the-positive-birth-book)*, Milli Hill ⭐️
+
+**2021**
+
+1. *[The Righteous Mind: Why Good People Are Divided by Politics and Religion](https://www.goodreads.com/book/show/11324722-the-righteous-mind)*, Jonathan Haidt ⭐️
+2. *[Piano for Dummies [With Play-Along](https://www.goodreads.com/book/show/150493.Piano_for_Dummies_With_Play_Along_)*, Blake Neely ⭐️
+3. *[The Eighth Life](https://www.goodreads.com/book/show/41071389-the-eighth-life)*, Nino Haratischwili ⭐️
+4. *[I contain multitudes](https://www.goodreads.com/book/show/36242663-yo-contengo-multitudes)*, Ed Yong ⭐️
+5. *[Goodbye to Berlin](https://www.goodreads.com/book/show/760702.Goodbye_to_Berlin)*, Christopher Isherwood
+6. *[The Testaments](https://www.goodreads.com/book/show/42975172-the-testaments)*, Margaret Atwood
+7. *[Nothing But Blue Sky](https://www.goodreads.com/book/show/49624047-nothing-but-blue-sky)*, Kathleen MacMahon ⭐️
+8. *[Mythos: The Greek Myths Retold](https://www.goodreads.com/book/show/35074096-mythos)*, Stephen Fry ⭐️
+9. *[The Body: A Guide for Occupants](https://www.goodreads.com/book/show/43582376-the-body)*, Bill Bryson ⭐️
+10. *[The Forgotten Garden](https://www.goodreads.com/book/show/3407877-the-forgotten-garden)*, Kate Morton
+11. *[The State of Affairs: Rethinking Infidelity](https://www.goodreads.com/book/show/34017010-the-state-of-affairs)*, Esther Perel ⭐️
+12. *[The Common Reader](https://www.goodreads.com/book/show/18840.The_Common_Reader)*, Virginia Woolf
+13. *[Cassandra at the Wedding](https://www.goodreads.com/book/show/902010.Cassandra_at_the_Wedding)*, Dorothy Baker ⭐️
+14. *[The Wonderful Wizard of Oz](https://www.goodreads.com/book/show/236093.The_Wonderful_Wizard_of_Oz)*, L. Frank Baum
+15. *[The Pursuit of Love](https://www.goodreads.com/book/show/835458.The_Pursuit_of_Love)*, Nancy Mitford
+16. *[Anne of Green Gables](https://www.goodreads.com/book/show/8127.Anne_of_Green_Gables)*, L.M. Montgomery ⭐️
+17. *[Girl Made of Stars](https://www.goodreads.com/book/show/31351689-girl-made-of-stars)*, Ashley Herring Blake
+18. *[Home Body](https://www.goodreads.com/book/show/49656780-home-body)*, Rupi Kaur
+19. *[Perfume: The Story of a Murderer](https://www.goodreads.com/book/show/343.Perfume)*, Patrick Süskind ⭐️
+20. *[The Vegetarian](https://www.goodreads.com/book/show/25489025-the-vegetarian)*, Han Kang
+
 
 **2020**
 1. *[The Golden Compass](https://www.goodreads.com/book/show/119322.The_Golden_Compass)*, Philip Pullman

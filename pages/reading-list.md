@@ -11,7 +11,7 @@ permalink: reading-list
 **2021**
 
 1. *[The Righteous Mind: Why Good People Are Divided by Politics and Religion](https://www.goodreads.com/book/show/11324722-the-righteous-mind)*, Jonathan Haidt ⭐️
-2. *[Piano for Dummies [With Play-Along](https://www.goodreads.com/book/show/150493.Piano_for_Dummies_With_Play_Along_)*, Blake Neely ⭐️
+2. *[Piano for Dummies](https://www.goodreads.com/book/show/150493.Piano_for_Dummies_With_Play_Along_)*, Blake Neely ⭐️
 3. *[The Eighth Life](https://www.goodreads.com/book/show/41071389-the-eighth-life)*, Nino Haratischwili ⭐️
 4. *[I contain multitudes](https://www.goodreads.com/book/show/36242663-yo-contengo-multitudes)*, Ed Yong ⭐️
 5. *[Goodbye to Berlin](https://www.goodreads.com/book/show/760702.Goodbye_to_Berlin)*, Christopher Isherwood

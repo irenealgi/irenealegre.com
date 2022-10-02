@@ -86,3 +86,5 @@ For our first iteration or MVP, I defined the minimum requirements for our new f
 As part of this project, I also had to think of how our customers would be setting up the options for the 3D Configurator. Since 3D files include materials (also known as textures) that match the number of configurable sections in a 3D model, I opted for a system that identified all the textures in a 3D file and displayed them in a form where the user could re-name the texture as a section.
 
 They could then define a colour using the colour picker or a HEX code, which would be displayed alongside the section in the Configurator.
+
+![images/case_studies/poplar-3d-configurator/mvp.png](images/case_studies/poplar-3d-configurator/cms-setup-screen.png)

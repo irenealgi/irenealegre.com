@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Internal tool for Unmortgage"
-description: Unmortgage is an alternative to renting that enables customers to gradually purchase the home they live in.
-permalink: unmortgage
+title: "Internal tool for Wayhome"
+description: Wayhome is an alternative to renting that enables customers to gradually purchase the home they live in.
+permalink: wayhome
 ---
 
 * **Project type:** Work project
@@ -11,10 +11,9 @@ permalink: unmortgage
 * **Processes:** User testing, card sorting, mind-mapping, sketching, prototyping
 
 
+Wayhome is an alternative to renting that enables customers to gradually purchase the home they live in. Home buyers contribute with a 5% deposit while an institutional investor covers the cost of the rest of the property so that the customer can buy it from them little by little.
 
-Unmortgage is an alternative to renting that enables customers to gradually purchase the home they live in. Home buyers contribute with a 5% deposit while an institutional investor covers the cost of the rest of the property so that the customer can buy it from them little by little.
-
-One of Unmortgage's main objectives is to be able to procure prospective home buyers with a database of properties they can flick through and choose their perfect house from. In order to build this database, an Operations Team consisting of Property Specialists (PS) has been tasked with filtering through all UK's properties so as to find the ones that would match the expectations of both customers and institutional investors. The PS team has defined what makes a _good enough_ property and they have started a process they call _pre-filtering_.
+One of Wayhome's main objectives is to be able to procure prospective home buyers with a database of properties they can flick through and choose their perfect house from. In order to build this database, an Operations Team consisting of Property Specialists (PS) has been tasked with filtering through all UK's properties so as to find the ones that would match the expectations of both customers and institutional investors. The PS team has defined what makes a _good enough_ property and they have started a process they call _pre-filtering_.
 
 ## The current Pre-Filtering process
 
@@ -53,18 +52,18 @@ Given that this is an internal tool for a team that does go through internal tra
 
 After testing this assumption, it became clear that users were indeed more comfortable rating properties in that way.
 
-The first designs for this tool inherited the styling of another internal tool within Unmortgage. The resulting designs were somewhat functional but lacked structure and definition. **It being a set of screens with several groups of information, it was very important to get the details right in order to achieve objectives 1 and 2.**
+The first designs for this tool inherited the styling of another internal tool within Wayhome. The resulting designs were somewhat functional but lacked structure and definition. **It being a set of screens with several groups of information, it was very important to get the details right in order to achieve objectives 1 and 2.**
 
 
 ## A tool to rule them all
 
 I went on to design a tool that would enable the PS Team to speed up the pre-filtering process and help us build a database of acceptable properties faster and more robustly.
 
-![](images/case_studies/unmortgage-prefiltering/pre-filtering-final-design-1.png)
-![](images/case_studies/unmortgage-prefiltering/pre-filtering-final-design-2.png)
+![](images/case_studies/wayhome-prefiltering/pre-filtering-final-design-1.png)
+![](images/case_studies/wayhome-prefiltering/pre-filtering-final-design-2.png)
 
 ## Re-designing the UI for the entire back-office software
 
-The original UI for Unmortgage's internal tool was a little bit clunky and lacked structure, so I re-designed the the entire interface by dividing each screen in several components (boxes) that would separate each part of the process.
+The original UI for Wayhome's internal tool was a little bit clunky and lacked structure, so I re-designed the the entire interface by dividing each screen in several components (boxes) that would separate each part of the process.
 
-![](images/case_studies/unmortgage-prefiltering/ui-before-after.png)
+![](images/case_studies/wayhome-prefiltering/ui-before-after.png)

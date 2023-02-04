@@ -17,7 +17,7 @@ A [Jekyll][1] powered blog, hosted by [GitHub Pages][2] at https://irenealegre.c
 
 ```
 brew cask install github
-brew cask install atom
+brew cask install visual-studio-code
 ```
 
 - Clone repository with GitHub desktop application
@@ -25,8 +25,8 @@ brew cask install atom
 - Install Ruby Version Manager:
 
 ```
-brew install rbenv ruby-build
-echo 'eval "$(rbenv init -)"' >> ~/.bash_profile
+brew install asdf
+asdf plugin add ruby
 ```
 
 - Close terminal and open it again.
@@ -34,8 +34,8 @@ echo 'eval "$(rbenv init -)"' >> ~/.bash_profile
 - Install Ruby:
 
 ```
-rbenv install 2.7.2
-rbenv global 2.7.2
+asdf install ruby latest
+asdf global ruby latest
 ```
 
 - Go to the directory where your portfolio is.

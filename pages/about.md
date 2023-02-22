@@ -15,11 +15,3 @@ When I’m not designing, I love to read and write, cycle and play the ukulele.
 You will find a comprehensive list of all my UX skills and work experience [in my CV](irene_alegre_cv.pdf){:target="_blank"}.
 
 For any queries, send an email to <irenealgi@gmail.com>
-
-#### More about me
-
-* [My Design Principles](/my-design-principles)
-* [My UX Process](/ux-process)
-* [12 Great Books I Read in 2018](/12-books-2018)
-* [Reading List](/reading-list)
-* [Weekly Log](/log)

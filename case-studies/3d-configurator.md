@@ -16,7 +16,7 @@ Includes type of material, dragging shelves up and down, selecting number of col
 
 [Jali: making a dresser your own](https://www.jali.co.uk/designer?id=A008)
 
-Very detailed customisation settings, including how the item fits in your house (e.g. plain wall vs. a corner or an alcove). Can also customise Finish, Size (numerical input), Style (e.g. tops, skirting, doors (incl. panelling, handles and hinges). Can also display or hide doors. The tool comes with three modes: Zoom, Pan and Rotate. Configuration can be saved. Pricing updates depending on choices.
+Very detailed customisation settings, including how the item fits in your house (e.g. plain wall vs. a corner or an alcove). Can also customise finish, size (numerical input), style (e.g. tops, skirting, doors (incl. panelling, handles and hinges). Can also display or hide doors. The tool comes with three modes: zoom, pan and rotate. Configuration can be saved. Pricing updates depending on choices.
 
 [Normann-Copenhagen: simple and solid customisation of your furniture](https://www.normann-copenhagen.com/en/Customize/FormChairFullUpholstery)
 
@@ -24,7 +24,7 @@ Simple and straightforward (although limited) customisation of a chair. Includes
 
 [Ray-ban: make them your own](https://www.ray-ban.com/uk/customise/rb-2140-original-wayfarer-sunglasses)
 
-No 3D viewer, just static shots of all sides. Can modify the lensesm rge frame (front and temple) in three different styles, add engravings on different areas (and in three different types of fonts) and can also select the case (which is irrelevant to us). When ready, you just press ‘Buy now’. Also has ‘Try On’ mode which allows you to re-style the glasses as you’re on it (with some lagging).
+No 3D viewer, just static shots of all sides. Can modify the lenses and frame (front and temple) in three different styles, add engravings on different areas (and in three different types of fonts) and can also select the case (which is irrelevant to us). When ready, you just press ‘Buy now’. Also has ‘Try On’ mode which allows you to re-style the glasses as you’re on it (with some lagging).
 
 [VANS: customising your shoes is a very user-friendly experience](https://www.vans.co.uk/customizer.sk8-hi.html)
 
@@ -53,9 +53,9 @@ Then I tested my idea with a real product, a pair of shoes by Nike. This meant I
 
 # Removing the carousel
 
-At some point (while not working), I realised I could just get rid of the carousel while in Edit Mode. The carousel is then replaced by a new navigation that allows the user to move from one section to the next, meaning I don’t have to display labels hovering over the product.
+At some point (while doing something unrelated to work), I realised I could just get rid of the carousel while in Edit Mode. The carousel is then replaced by a new navigation that allows the user to move from one section to the next, meaning I don’t have to display labels hovering over the product.
 
-I also start considering interaction, and decide that the 3D model will be zoomed into depending on what section you are on. Like with any other 3D model in the Embed Unit, the user can also swirl it around and zoom in and out as they please.
+I also started considering interaction, and decided that the 3D model will be zoomed into depending on what section you are on. Like with any other 3D model in the Embed Unit, the user can also swirl it around and zoom in and out as they please.
 
 The user can also navigate by tapping on different sections of the product as opposed to using the bottom navigation.
 
@@ -76,7 +76,7 @@ The user can also navigate by tapping on different sections of the product as op
 For our first iteration or MVP, I defined the minimum requirements for our new functionality.
 
 - A tool that enables switching up textures on a 3D model. This means users will be able to modify colour and fabric for different sections of a product by selecting an area and choosing from a selection of options.
-- We will NOT be including engravings, additional images or patterns other than the ones provided nor the ability to modify the product by adding or removing sections or elements, changing its size or seeing the product in two or more ways (e.g. open or closed). This is so that we can simplify both design and implementation of the tool, as well how the tool is set up through the CMS. However, the functionalities mentioned above may be incorporated in the future.
+- We will NOT be including engravings, additional images or patterns other than the ones provided nor the ability to modify the product by adding or removing sections or elements, changing its size or seeing the product in two or more ways (e.g. open or closed). This is so that we can simplify both design and implementation of the tool, as well as how the tool is set up through the CMS. However, the functionalities mentioned above may be incorporated in the future.
 - Not viewable in AR - 3D viewer for now
 
 ![images/case_studies/poplar-3d-configurator/mvp.png](images/case_studies/poplar-3d-configurator/mvp.png)

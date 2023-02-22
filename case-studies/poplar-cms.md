@@ -13,12 +13,12 @@ The Poplar CMS is born as a Content Management System that allows clients to man
 
 This is a tool that should give clients control over their 3D media content. This means they should be able to do the following:
 
-- Upload a 3D model file and link it to a product existent in their product catalogue (within their e-commerce site
+- Upload a 3D model file and link it to a product existent in their product catalogue (within their e-commerce site).
 - Add and update any information pertaining to the product, including name, description, SKU, price and URL.
-- Adjust the way in which the 3D model appears in the Embed Unit
-- Define the way the Embed Unit looks and adapt it to match their brand
+- Adjust the way in which the 3D model appears in the Embed Unit.
+- Define the way the Embed Unit looks and adapt it to match their brand.
 - Generate a product thumbnail from the uploaded 3D model file. Download the image thumbnail.
-- View analytics
+- View analytics.
 
 # Information Architecture
 
@@ -29,7 +29,7 @@ Below is a flowchart that describes the structure of the site.
 
 ## Media list
 
-The media list or media library is where our clients can find all the files they have uploaded. They can also see whether they have been published to their site and enter edit mode.
+The media list or Media Library is where our clients can find all the files they have uploaded. They can also see whether they have been published to their site and enter edit mode.
 
 From this dashboard they can also upload new media and request for 3D models to be created for them at an extra cost.
 
@@ -37,13 +37,13 @@ From this dashboard they can also upload new media and request for 3D models to 
 
 ## Upload new media
 
-The form below allows our clients to upload new media, specifying the name of the media (or product), information, associated URLs, etc. This is also where they define the product category, what type of asset they will be uploading (an image or a 3D model), more technical information about the behaviour of the 3D model within the embed unit and what thumbnail image should be associated to the product.
+The form below allows our clients to upload new media, specifying the name of the media (or product), information, associated URLs, etc. This is also where they define the product category, what type of asset they will be uploading (an image or a 3D model), more technical information about the behaviour of the 3D model within the Embed unit and what thumbnail image should be associated to the product.
 
 ![](images/case_studies/poplar-cms/cms-upload-new-media.png)
 
-## Manage media
+## Manage Media
 
-Our clients can access the Manage media page either by uploading a new file or by entering edit mode from the media library dashboard. Here they can preview what the product will look like in the embed unit, as well as publish it for everyone to see it on their website.
+Our clients can access the Manage Media page either by uploading a new file or by entering edit mode from the Media Library dashboard. Here they can preview what the product will look like in the Embed Unit, as well as publish it for everyone to see it on their website.
 
 They can also adjust the positioning of the model or replace it, review product information details, generate a thumbnail based on the provided 3D model, define a colour thumbnail to appear in the Embed Unit and upload any extra variants.
 
@@ -51,7 +51,7 @@ They can also adjust the positioning of the model or replace it, review product 
 
 ## Analytics
 
-The analytics dashboard gives clients access to user data, including how many people use the embed unit, how long they spend on it and what their actions are from that point onwards.
+The Analytics Dashboard gives clients access to user data, including how many people use the Embed Unit, how long they spend on it and what their actions are from that point onwards.
 
 The design of the dashboard focuses on conversion and on giving a quick glimpse of what’s happened during the selected period.
 
@@ -59,13 +59,13 @@ The design of the dashboard focuses on conversion and on giving a quick glimpse 
 
 ## Users
 
-Below is the screen where clients (mostly admins) can review and manage their internal users (that is, the other people in the team who have access to the media library).
+Below is the screen where clients (mostly admins) can review and manage their internal users (that is, the other people in the team who have access to the Media Library).
 
 ![](images/case_studies/poplar-cms/cms-manage-users.png)
 
-## Embed unit set up
+## Embed Unit set up
 
-The embed unit can be customised to meet the needs and styling of the brand, and the page below is where clients can adjust the settings.
+The Embed Unit can be customised to meet the needs and styling of the brand, and the page below is where clients can adjust the settings.
 
 
-![](images/case_studies/poplar-cms/cms-embed-unit-set-up.png)
+![](images/case_studies/poplar-cms/cms-Embed-unit-set-up.png)

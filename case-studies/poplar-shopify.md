@@ -33,7 +33,7 @@ Our three main personas for the Shopify app are Ashley, Blake and Casey, our thr
 
 # User flow
 
-This flow includes the entire user journey for first time customers of the Shopify app, the process of installation, setting up their account and selecting a pricing plan. It then describes the main two actions that can be done on the dashboard (Request and Upload), as well as a couple of links to more settings (Categories) and other features (Analytics), which can be accessed through an upper navigation.
+This flow includes the entire user journey for first time customers of the Shopify app, the process of installation, setting up their account and selecting a pricing plan. It then describes the main two actions that can be done on the dashboard (*Request* and *Upload*), as well as a couple of links to more settings (Categories) and other features (Analytics), which can be accessed through an upper navigation.
 
 ![](images/case_studies/poplar-shopify/user-flow.png)
 
@@ -41,7 +41,7 @@ This flow includes the entire user journey for first time customers of the Shopi
 
 ## Dashboard
 
-From the main dashboard our users can publish and unpublish 3D models, request for a 3D model to be made for a particular item in the catalogue and edit the files assigned to that product. Unlike the Media Library in the CMS, the Shopify dashboard pulls all the data from the client’s Shopify store, displaying the whole range of products they have set up in it.
+From the main dashboard our users can publish and un-publish 3D models, request for a 3D model to be made for a particular item in the catalogue and edit the files assigned to that product. Unlike the Media Library in the CMS, the Shopify dashboard pulls all the data from the client’s Shopify store, displaying the whole range of products they have set up in it.
 
 ![dashboard.png](images/case_studies/poplar-shopify/dashboard-.png)
 

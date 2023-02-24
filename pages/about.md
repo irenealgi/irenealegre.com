@@ -5,12 +5,17 @@ description: Product designer with a special focus on UX, market research and ha
 permalink: about
 ---
 
+Hello! I'm Irene.
 
-Product designer with a special focus on UX, market research and having a deep understanding of business needs and objectives. I bring a holistic approach to product development, taking into account views and ideas from all stakeholders and delivering designs that are functional, easy to use and understand, and pleasant to the eye.
+I'm a <b>Senior Product Designer with 5+ years of experience designing B2B products</b> and 7+ years of
+experience in startups. I believe that well-designed products can bring both happiness
+to users and success to businesses. I have experience working in both large product
+teams and as a solo designer, taking B2B products from ideation to development.
 
-I enjoy solving problems and coming up with universal solutions that will stand the test of time and will make sense to as many users as possible. My design process is guided by a bit of user research, a pinch of common sense, a few design heuristics and lots of testing and iterating.
+I like to collaborate with engineers, product managers, designers and other stakeholders and work together to create intuitive digital products that not only make businesses stronger, but their employees happier. I am empathetic, curious and driven, and tend to ask a lot of questions (some of them arguably stupid).
 
-When I’m not designing, I love to read and write, cycle and play the ukulele.
+I don't have a lot of spare time, but I do enjoy writing, journaling, reading and going out for walks and coffee. Yes, it sounds like I am 35 going on 70, but I am naturally introspective, so a peaceful lifestyle works for me.
+
 
 You will find a comprehensive list of all my UX skills and work experience [in my CV](irene_alegre_cv.pdf){:target="_blank"}.
 

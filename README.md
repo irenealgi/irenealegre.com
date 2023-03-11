@@ -16,8 +16,8 @@ A [Jekyll][1] powered blog, hosted by [GitHub Pages][2] at https://irenealegre.c
 - Install application:
 
 ```
-brew cask install github
-brew cask install visual-studio-code
+brew install --cask github
+brew install --cask visual-studio-code
 ```
 
 - Clone repository with GitHub desktop application
@@ -57,7 +57,7 @@ bundle exec jekyll server --livereload
 
 The line above can be summarised by alias 'jekyll'. If the alias hasn't been created yet, use the line below to set it up. For the alias to work - if it hasn't been created yet - you will have to restart the tab so that it's updated.
 ```
-echo 'alias jekyll="bundle exec jekyll server --livereload"' >> ~/.bash_profile
+echo 'alias jekyll="bundle exec jekyll server --livereload"' >> ~/.zsh_profile
 ```
 
 Therefore, to start the application just type in `jekyll`

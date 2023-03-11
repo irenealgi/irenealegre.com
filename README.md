@@ -57,7 +57,7 @@ bundle exec jekyll server --livereload
 
 The line above can be summarised by alias 'jekyll'. If the alias hasn't been created yet, use the line below to set it up. For the alias to work - if it hasn't been created yet - you will have to restart the tab so that it's updated.
 ```
-echo 'alias jekyll="bundle exec jekyll server --livereload"' >> ~/.zsh_profile
+echo 'alias jekyll="bundle exec jekyll server --livereload"' >> ~/.zshrc
 ```
 
 Therefore, to start the application just type in `jekyll`

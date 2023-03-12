@@ -1,9 +1,11 @@
 ---
 layout: post
-title: "Designing Poplar Studio's Shopify App"
+title: "Designing Poplar's Shopify App"
 description: The Shopify app is born as a partner app to Poplar Studio’s own CMS, which allows Shopify retailers to embed AR technology into their Shopify stores within the Shopify environment.
 permalink: poplar-shopify
 ---
+
+![](images/case_studies/poplar-shopify/shopify-cover.png)
 
 Poplar Studio’s core business consists in offering retailers the opportunity to integrate Augmented Reality technology (AR) within their e-commerce sites in a straightforward and quick way.
 

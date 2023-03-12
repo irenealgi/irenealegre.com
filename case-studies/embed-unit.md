@@ -1,9 +1,12 @@
 ---
 layout: post
-title: "Embed Unit"
+title: "Visualising products in Augmented Reality"
 description: The Embed Unit is (in my opinion) one of Poplar Studio’s most interesting products. Designed and built completely in-house, it enables consumers to view products from all angles, try them out in their own environment and even try them on themselves.
 permalink: embed-unit
 ---
+
+
+
 The Embed Unit is (in my opinion) one of Poplar Studio’s most interesting products. Designed and built completely in-house, it enables end-users (e-commerce customers) to view products from all angles, try them out in their own environment and even try them on themselves.
 
 The Embed Unit works in the browser rather than within an app, and therefore can be integrated within any e-commerce site. If browsing on a computer, a QR code will prompt the user to scan the code and view the product on their mobile device. If browsing on their mobile device, a button will launch the AR experience.
@@ -23,7 +26,7 @@ The Embed Unit works in the browser rather than within an app, and therefore can
 
 The main interface of the Embed Unit allows users to view different products and access information about them. They can also add the product to their basket and switch product categories by accessing the bottom menu.
 
-![](images/case_studies/poplar-embed-unit/embed-unit-1.png)
+![](images/case_studies/poplar-embed-unit/embed_unit_cover.png)
 
 # Showing users how to use the AR functionality
 

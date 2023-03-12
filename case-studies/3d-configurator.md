@@ -1,9 +1,12 @@
 ---
 layout: post
-title: "3D Configurator"
+title: "Customising retail products in 3D"
 description: The 3D Configurator is an exploratory project to look into ways to enable users of the Embed Unit to customise a product.
 permalink: 3d-configurator
 ---
+
+![](images/case_studies/poplar-3d-configurator/3d_configurator_thumbnail.png)
+
 The 3D Configurator is an exploratory project to look into ways to enable users of the Embed Unit to customise a product. The idea behind this is that a retailer may be able to produce a product that comes with customisable sections, and the consumer can easily define what colour or material they want each section to be.
 
 # Inspiration

@@ -1,9 +1,11 @@
 ---
 layout: post
-title: "Designing Poplar Studio's CMS"
+title: "Building a CMS for 3D content"
 description: The Poplar CMS is born as a Content Management System that allows clients to manage their 3D files and the relationships these maintain with their product catalogue.
 permalink: poplar-cms
 ---
+
+![](images/case_studies/poplar-cms/cms_cover.png)
 
 Poplar Studio’s core business consists in offering retailers the opportunity to integrate Augmented Reality technology (AR) within their e-commerce sites in a straightforward and quick way. We do this by giving them and their customers access to our Embed Unit, which allows users to see products in 3D, place them in their own environment or try them on themselves.
 

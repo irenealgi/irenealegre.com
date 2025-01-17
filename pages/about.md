@@ -7,7 +7,7 @@ permalink: about
 
 Hello! I'm Irene.
 
-I'm a <b>Senior Product Designer with 5+ years of experience designing B2B products</b> and 7+ years of
+I'm a <b>Senior Product Designer with 6+ years of experience designing B2B products</b> and 9+ years of
 experience in startups. I believe that well-designed products can bring both happiness
 to users and success to businesses. I have experience working in both large product
 teams and as a solo designer, taking B2B products from ideation to development.

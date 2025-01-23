@@ -30,7 +30,7 @@ Customer interviews at the start of the year revealed several pain points with t
 - **Customer Syncing Issues**  
   The offline-first approach required manual syncing of customer data. Users often couldn’t find customers during appointments due to unsynced information. This approach, logical in 2012 when the app launched (due to unreliable venue Wi-Fi), was less relevant in 2024, as most iPad users were consistently online.  
 
-![](images/case_studies/joor-new-customer-list/existing-ui.jpg)  
+![](images/case_studies/joor-new-customer-list/existing-ui-hf.jpg)  
 
 ---
 
@@ -44,9 +44,10 @@ With the engineering team rebuilding the Customer List screen from scratch, we s
 - Edit customer details directly.  
 - Initiate order creation for selected customers.  
 
-![](images/case_studies/joor-new-customer-list/customer-list-selected-customer.png)  
-![](images/case_studies/joor-new-customer-list/customer-list-customer-info.png)  
-![](images/case_studies/joor-new-customer-list/customer-list-edit-mode.png)  
+<img src="images/case_studies/joor-new-customer-list/customer-list-customer-selected-main-profile-hf-new-names.png" style="width: 1200px;">
+<img src="images/case_studies/joor-new-customer-list/customer-list-customer-info-hf-new-names.png" style="width: 1200px;">
+<img src="images/case_studies/joor-new-customer-list/customer-list-edit-mode-new-names.png" style="width: 1200px;">
+
 
 ---
 
@@ -57,7 +58,7 @@ Taking advantage of improved iPad internet connectivity, the redesign introduced
 - **Push Updates:** Changes made on the iPad automatically updated the web platform.  
 - **Notifications:** Clear notifications indicated successful or failed syncs.  
 
-![](images/case_studies/joor-new-customer-list/notification-prototype.gif)  
+![](images/case_studies/joor-new-customer-list/notification.gif)  
 
 ---
 
@@ -67,8 +68,9 @@ While a full navigation overhaul was planned for the future, immediate improveme
 - **Footer Adjustments:** Updated to clarify functionality with minimal changes.  
 - **Order Creation Flow Integration:** The Customer List remained integrated into the order creation flow, with plans to eventually separate these processes while maintaining their relationship. Users could access the Customer List when starting an order or initiate an order from the list itself.  
 
-![](images/case_studies/joor-new-customer-list/old-footer.png)  
-![](images/case_studies/joor-new-customer-list/new-footer.png)  
+<img src="images/case_studies/joor-new-customer-list/old-footer-hf.png" style="width: 1200px;">
+<img src="images/case_studies/joor-new-customer-list/new-footer-hf.png" style="width: 1200px;">
+
 
 ---
 
@@ -96,14 +98,14 @@ Though the redesign wasn’t fully tested before my departure from JOOR, early f
 ### New Contact List  
 This prototype demonstrates how to locate a customer, view their profile, and update or add details by tapping 'Edit.' Changes sync automatically once saved.  
 
-![](images/case_studies/joor-new-customer-list/contact-list-prototype.gif)  
+![](images/case_studies/joor-new-customer-list/customer-list-editing-prototype.gif)  
 
 ### New Footer  
 This prototype showcases the updated footer, which now adapts based on customer selection. A new icon highlights access to the Customer List—a feature many users previously overlooked.  
 
 The redesign also improved error handling. Previously, tapping the footer triggered alerts even when users didn’t intend to switch customers. The new design allows seamless access to the Customer List, with alerts appearing only when selecting a different customer, clearly explaining the implications.  
 
-![](images/case_studies/joor-new-customer-list/footer-prototype2.gif)  
+![](images/case_studies/joor-new-customer-list/changing-customers-prototype.gif)  
 
 ---
 

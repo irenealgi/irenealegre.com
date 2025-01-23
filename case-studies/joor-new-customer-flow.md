@@ -38,14 +38,14 @@ The checking screen is used to:
 
 The original UI for this screen was unintuitive and inconsistent with iOS design patterns. I redesigned the screen following Apple’s Human Interface Guidelines, making it easier for users to identify duplicate profiles and proceed efficiently.
 
-![Checking Screen](images/case_studies/joor-new-customer-flow/checking-matches.png)
+![Checking Screen](images/case_studies/joor-new-customer-flow/checking-matches-hf.png)
 
 #### 2. Improving the New Customer Form
 The new customer form was updated to provide a smoother experience:
 - The UI was redesigned to be more user-friendly and intuitive.
 - Adding contact details for a new customer profile became optional, allowing users to skip this step if they preferred to proceed directly to order creation.
 
-![New Customer Form](images/case_studies/joor-new-customer-flow/new-customer-form.png)
+![New Customer Form](images/case_studies/joor-new-customer-flow/new-customer-form-hf.png)
 
 #### 3. Moving the Order Status Dropdown
 The order status dropdown was relocated from the **Cart** screen to the **Checkout** screen. This aligned all order-related information in one place, simplifying the workflow and ensuring immediate feedback on address requirements.
@@ -56,7 +56,7 @@ Key improvements to the Checkout screen included:
 - **Carousel UI**: Redesigned the top carousel for clarity and better usability.
 - **Empty States**: Added contextual empty states to guide users on required and optional information.
 
-![Checkout Screen](images/case_studies/joor-new-customer-flow/checkout-screen.png)
+![Checkout Screen](images/case_studies/joor-new-customer-flow/checkout-screen-hf.png)
 
 ### Research and Validation
 

@@ -5,7 +5,7 @@ description: Streamlined Linesheet Visibility by enabling bulk visibility setup 
 permalink: joor-linesheet-visibility
 ---
 
-![](images/case_studies/joor-linesheet-visibility/linesheet-visibility-thumbnail.png)
+<img src="images/case_studies/joor-linesheet-visibility/thumbnail-image-hf.png" style="width: 900px;">
 
 
 ## The Context
@@ -65,24 +65,25 @@ During testing, we discovered that many users didn’t actively use *Customer Gr
 ### Existing Flows
 I began by creating screenflows that document the current screens and illustrate ideas for integrating the new functionality into the existing flow. To leverage our existing UI for assigning visibility to groups of connections, I started by capturing screenshots of that interface and embedding them into the screenshots of the current linesheet visibility modal. I highlighted the specific screens I plan to work on by framing them in an orange rectangle for easy identification.
 
-![](images/case_studies/joor-linesheet-visibility/initial-concept.jpg)
+<img src="images/case_studies/joor-linesheet-visibility/initial-concept-hf.png" style="width: 1200px;">
 
 ### Additional Flows
 Phase 1 focused on enabling users to easily set up linesheet visibility for multiple linesheets and selected connections in a single step. Phase 2 was intended to introduce the ability to create customer groups directly from the new UI, replacing the existing system for creating customer groups. However, Phase 2 was ultimately abandoned due to its added complexity and the lack of sufficient time and resources for implementation.
 
-![](images/case_studies/joor-linesheet-visibility/user-flow-4.jpg)
+<img src="images/case_studies/joor-linesheet-visibility/additional-flows-hf.png" style="width: 1200px;">
 
 ## Setting Up Visibility: From Toggles to Radio-Buttons
 
 Previously, users selected visibility options using toggles for *Public* and *All Connections*. However, the design was confusing because selecting *All Connections* automatically selected *Public*, but the reverse wasn’t true. There was also no clear way to make a *Linesheet* *Private*; users had to turn off both toggles to achieve this.
 
-![](images/case_studies/joor-linesheet-visibility/existing-linesheet-visibility-modal.png)
+<img src="images/case_studies/joor-linesheet-visibility/existing-linesheet-visibility-modal-hf.png" style="width: 1200px;">
 
 ### New Approach
 We switched to using radio-buttons, ensuring only one option can be selected at a time. We also added description text next to each option to clearly explain its function. A new *Select Connections* option was also introduced for more granular control.
 
-![](images/case_studies/joor-linesheet-visibility/new-linesheet-visibility-modal-3.jpg)
-![](images/case_studies/joor-linesheet-visibility/price-type filter-open-dropdown-open3.jpg)
+<img src="images/case_studies/joor-linesheet-visibility/new-linesheet-visibility-modal-hf.png" style="width: 1200px;">
+<img src="images/case_studies/joor-linesheet-visibility/price-type-filter-open-dropdown-open-hf.png" style="width: 1200px;">
+
 
 ## Variations on a Dual-Listbox
 
@@ -92,7 +93,7 @@ We explored several different approaches for the dual-listbox UI to optimize the
   
 - **Checkboxes for Selection**: We also thought about using checkboxes with highlights for selecting items, but this created UI complexity and potential conflicts with checkboxes used in the *filters* section.
 
-![](images/case_studies/joor-linesheet-visibility/checkboxes-3.png)
+<img src="images/case_studies/joor-linesheet-visibility/checkboxes-hf.png" style="width: 1200px;">
 
 - **Other Discarded Ideas**: 
   - Placing *Customer Groups* at the top of the left list for quick selection.
@@ -103,12 +104,12 @@ We explored several different approaches for the dual-listbox UI to optimize the
 ### Phase 1
 The first phase introduced the ability to set *Linesheet* visibility in bulk using *Bulk Actions*. We also added the *Select Connections* option to the visibility setup modal, along with a new screen to let users select from their list of *Connections*.
 
-![](images/case_studies/joor-linesheet-visibility/linesheet-visibility-phase-1.gif)
+![](images/case_studies/joor-linesheet-visibility/linesheet-visibility-phase-1-new.gif)
 
 ### Phase 2
 In the second phase, we added filters for *Customer Groups* and *Price Types*, allowing users to more easily organize and sift through their *Connections* based on those attributes.
 
-![](images/case_studies/joor-linesheet-visibility/linesheet-visibility-phase-2.gif)
+![](images/case_studies/joor-linesheet-visibility/linesheet-visibility-phase-2-new.gif)
 
 ## Conclusion
 

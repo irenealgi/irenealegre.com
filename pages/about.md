@@ -17,6 +17,6 @@ I like to collaborate with engineers, product managers, designers and other stak
 I don't have a lot of spare time, but I do enjoy writing, journaling, reading and going out for walks and coffee. Yes, it sounds like I am 35 going on 70, but I am naturally introspective, so a peaceful lifestyle works for me.
 
 
-You will find a comprehensive list of all my UX skills and work experience [in my CV](irene_alegre_cv.pdf){:target="_blank"}.
+You will find a comprehensive list of all my UX skills and work experience [in my CV](irene_alegre_cv_2025.pdf){:target="_blank"}.
 
 For any queries, send an email to <irenealgi@gmail.com>

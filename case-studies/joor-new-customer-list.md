@@ -4,8 +4,8 @@ title: "Redesigning the Customer List on the JOOR iPad App"
 description: Redesigned the JOOR iPad app's Customer List to simplify viewing, editing, and syncing, reduce duplicates, and improve usability using native iOS patterns.
 permalink: joor-new-customer-list
 ---
-
-***A note on the iPad app:** Launched in 2012, JOOR’s iPad app was a groundbreaking tool that digitized the fashion industry’s process of taking Notes—recording what a Retailer was interested in buying. While long-time users appreciated its functionality and rarely reported issues, the app hadn’t been updated in over a decade by the time I joined JOOR in 2023. The outdated legacy code made it difficult for engineers, product managers, and designers to work on, and the UI didn’t follow modern Human Interface guidelines, making it challenging for new users to navigate.*
+<!-- 
+***A note on the iPad app:** Launched in 2012, JOOR’s iPad app was a groundbreaking tool that digitized the fashion industry’s process of taking Notes—recording what a Retailer was interested in buying. While long-time users appreciated its functionality and rarely reported issues, the app hadn’t been updated in over a decade by the time I joined JOOR in 2023. The outdated legacy code made it difficult for engineers, product managers, and designers to work on, and the UI didn’t follow modern Human Interface guidelines, making it challenging for new users to navigate.* -->
 
 ## Overview  
 JOOR is a wholesale fashion platform connecting Brands (sellers) with Retailers (bulk purchasers). Retailers can place orders with Brands after establishing a "connection" on the platform. The iPad app plays a critical role in JOOR’s operations, generating around 50% of all orders across platforms.  

@@ -5,7 +5,7 @@ description: Streamlined the JOOR iPad app's order creation flow, halving setup 
 permalink: joor-new-customer-flow
 ---
 
-***A note on the iPad app:** Launched in 2012, JOOR’s iPad app was a groundbreaking tool that digitized the fashion industry’s process of taking Notes—recording what a Retailer was interested in buying. While long-time users appreciated its functionality and rarely reported issues, the app hadn’t been updated in over a decade by the time I joined JOOR in 2023. The outdated legacy code made it difficult for engineers, product managers, and designers to work on, and the UI didn’t follow modern Human Interface guidelines, making it challenging for new users to navigate.*
+<!-- ***A note on the iPad app:** Launched in 2012, JOOR’s iPad app was a groundbreaking tool that digitized the fashion industry’s process of taking Notes—recording what a Retailer was interested in buying. While long-time users appreciated its functionality and rarely reported issues, the app hadn’t been updated in over a decade by the time I joined JOOR in 2023. The outdated legacy code made it difficult for engineers, product managers, and designers to work on, and the UI didn’t follow modern Human Interface guidelines, making it challenging for new users to navigate.* -->
 
 ## Context
 

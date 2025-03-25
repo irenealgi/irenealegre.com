@@ -22,21 +22,14 @@ brew install --cask visual-studio-code
 
 - Clone repository with GitHub desktop application
 
-- Install Ruby Version Manager:
-
-```
-brew install asdf
-asdf plugin add ruby
-```
-
-- Close terminal and open it again.
-
 - Install Ruby:
 
 ```
-asdf install ruby latest
-asdf global ruby latest
+brew install mise
+mise install ruby
 ```
+
+- Close terminal and open it again.
 
 - Go to the directory where your portfolio is.
 

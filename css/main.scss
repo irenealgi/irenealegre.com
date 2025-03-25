@@ -4,8 +4,8 @@
 @import "spinner";
 @import "syntax";
 
-$sans_serif_font_family: 'Montserrat', sans-serif;
-$serif_font_family: 'Crimson Text', serif;
+$sans_serif_font_family_title: 'Montserrat', sans-serif;
+$sans_serif_font_family: 'Lato', sans-serif;
 $content_color: #4c4c4c;
 $title_color: #2b2b2b;
 $light_color: #B5B5B5;
@@ -17,9 +17,9 @@ $code_color: #f9f9f9;
   margin: auto;
   max-width: 1440px;
   color: $content_color;
-  font-family: $serif_font_family;
-  line-height: 1.4em;
-  font-size: 26px;
+  font-family: $sans_serif_font_family;
+  line-height: 1.5em;
+  font-size: 20px;
   overflow-x: hidden;
 }
 
@@ -34,7 +34,7 @@ $code_color: #f9f9f9;
   margin: 25px;
 
   > a {
-    font-family: $sans_serif_font_family;
+    font-family: $sans_serif_font_family_title;
     color: $title_color;
     font-weight: 200;
     text-decoration: none;
@@ -57,7 +57,7 @@ $code_color: #f9f9f9;
   left: 50%;
   text-align: center;
   transform: translate(-50%, -50%);
-  font-family: $sans_serif_font_family;
+  font-family: $sans_serif_font_family_title;
   padding-left: 1%;
   padding-right: 1%;
 }
@@ -120,7 +120,7 @@ $code_color: #f9f9f9;
 }
 
 .home_project_title {
-  font-family: $sans_serif_font_family;
+  font-family: $sans_serif_font_family_title;
   font-size: 40px;
   font-weight: 400;
   text-decoration: none;
@@ -134,7 +134,7 @@ $code_color: #f9f9f9;
 }
 
 .home_project_type {
-  font-family: $sans_serif_font_family;
+  font-family: $sans_serif_font_family_title;
   font-weight: 200;
   color: $title_color;
   font-size: 24px;
@@ -146,7 +146,7 @@ $code_color: #f9f9f9;
 }
 
 .home_project_button {
-  font-family: $sans_serif_font_family;
+  font-family: $sans_serif_font_family_title;
   font-size: 20px;
   font-weight: 400;
   margin-top: 2%;
@@ -174,7 +174,7 @@ $code_color: #f9f9f9;
 
 #header {
   padding-top: 150px;
-  font-family: $sans_serif_font_family;
+  font-family: $sans_serif_font_family_title;
 }
 
 #center_title {
@@ -209,7 +209,7 @@ $code_color: #f9f9f9;
 
 #articles {
   .date {
-    font-family: $sans_serif_font_family;
+    font-family: $sans_serif_font_family_title;
     font-size: 18px;
     float: left;
     width: 120px;
@@ -246,17 +246,17 @@ $code_color: #f9f9f9;
 }
 
 h1 {
-  font-size: 42px;
+  font-size: 48px;
   font-weight: 400;
-  font-family: $sans_serif_font_family;
+  font-family: $sans_serif_font_family_title;
   color: $title_color;
   line-height: 1.4em;
 }
 
 h2 {
-  font-size: 36px;
+  font-size: 39px;
   font-weight: 600;
-  font-family: $serif_font_family;
+  font-family: $sans_serif_font_family_title;
   color: $title_color;
   line-height: 1.4em;
   margin-top: 56px;
@@ -265,9 +265,9 @@ h2 {
 }
 
 h3 {
-  font-size: 30px;
+  font-size: 31px;
   font-weight: 600;
-  font-family: $serif_font_family;
+  font-family: $sans_serif_font_family;
   color: $title_color;
   line-height: 1.4em;
   margin-top: 20px;
@@ -275,9 +275,9 @@ h3 {
 }
 
 h4 {
-  font-size: 26px;
+  font-size: 25px;
   font-weight: 600;
-  font-family: $serif_font_family;
+  font-family: $sans_serif_font_family;
   color: $title_color;
   line-height: 1.4em;
   margin-top: 20px;
